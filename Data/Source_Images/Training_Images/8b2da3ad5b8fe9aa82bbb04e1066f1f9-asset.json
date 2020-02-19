@@ -1,0 +1,50 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8b2da3ad5b8fe9aa82bbb04e1066f1f9",
+        "name": "dreamstime_m_96175709_corrosion-metal-parts_1000px_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/dreamstime_m_96175709_corrosion-metal-parts_1000px_1.jpg",
+        "size": {
+            "width": 1000,
+            "height": 666
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6Qg-VpmOY",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion",
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 664.6709408967391,
+                "width": 998.6425339366516,
+                "left": 1.3574660633484164,
+                "top": 1.3290591032608696
+            },
+            "points": [
+                {
+                    "x": 1.3574660633484164,
+                    "y": 1.3290591032608696
+                },
+                {
+                    "x": 1000,
+                    "y": 1.3290591032608696
+                },
+                {
+                    "x": 1000,
+                    "y": 666
+                },
+                {
+                    "x": 1.3574660633484164,
+                    "y": 666
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

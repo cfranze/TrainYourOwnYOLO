@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "33061e26a03f440737d386699bba66f6",
+        "name": "lff-types-of-corrosion-blog-1_large.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/lff-types-of-corrosion-blog-1_large.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "me3yrRq2o",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1179.7346200241254,
+                "width": 1576.8325791855202,
+                "left": 12.307692307692307,
+                "top": 9.951749095295538
+            },
+            "points": [
+                {
+                    "x": 12.307692307692307,
+                    "y": 9.951749095295538
+                },
+                {
+                    "x": 1589.1402714932126,
+                    "y": 9.951749095295538
+                },
+                {
+                    "x": 1589.1402714932126,
+                    "y": 1189.686369119421
+                },
+                {
+                    "x": 12.307692307692307,
+                    "y": 1189.686369119421
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

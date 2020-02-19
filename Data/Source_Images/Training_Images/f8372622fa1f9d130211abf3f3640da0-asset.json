@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f8372622fa1f9d130211abf3f3640da0",
+        "name": "How-Copper-Corrosion-Affects-Home-Plumbing-Systems.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/How-Copper-Corrosion-Affects-Home-Plumbing-Systems.jpg",
+        "size": {
+            "width": 943,
+            "height": 630
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wh840RPUO",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 627.3389862804878,
+                "width": 942.5733031674208,
+                "left": 0.4266968325791855,
+                "top": 2.6610137195121952
+            },
+            "points": [
+                {
+                    "x": 0.4266968325791855,
+                    "y": 2.6610137195121952
+                },
+                {
+                    "x": 943,
+                    "y": 2.6610137195121952
+                },
+                {
+                    "x": 943,
+                    "y": 630
+                },
+                {
+                    "x": 0.4266968325791855,
+                    "y": 630
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "88bf1ac09657a4660e117ac32efd8dac",
+        "name": "Erosion-Corrosion-E28093-What-You-Need-to-Know-About-It.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Erosion-Corrosion-E28093-What-You-Need-to-Know-About-It.png",
+        "size": {
+            "width": 624,
+            "height": 416
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PyyDisFoO",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 415.81037991858886,
+                "width": 569.2235294117647,
+                "left": 22.870588235294118,
+                "top": 0.18962008141112618
+            },
+            "points": [
+                {
+                    "x": 22.870588235294118,
+                    "y": 0.18962008141112618
+                },
+                {
+                    "x": 592.0941176470589,
+                    "y": 0.18962008141112618
+                },
+                {
+                    "x": 592.0941176470589,
+                    "y": 416
+                },
+                {
+                    "x": 22.870588235294118,
+                    "y": 416
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

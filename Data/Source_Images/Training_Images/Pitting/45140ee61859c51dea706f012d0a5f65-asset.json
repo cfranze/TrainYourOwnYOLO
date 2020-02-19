@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "45140ee61859c51dea706f012d0a5f65",
+        "name": "110766039-surface-iron-a-lot-of-pitting-corrosion-natural-background.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/110766039-surface-iron-a-lot-of-pitting-corrosion-natural-background.jpg",
+        "size": {
+            "width": 1300,
+            "height": 1090
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1X8oCg1pe",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 1070.445601851852,
+                "width": 1298.106796116505,
+                "left": 1.8932038834951457,
+                "top": 1.0250289351851853
+            },
+            "points": [
+                {
+                    "x": 1.8932038834951457,
+                    "y": 1.0250289351851853
+                },
+                {
+                    "x": 1300,
+                    "y": 1.0250289351851853
+                },
+                {
+                    "x": 1300,
+                    "y": 1071.4706307870372
+                },
+                {
+                    "x": 1.8932038834951457,
+                    "y": 1071.4706307870372
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

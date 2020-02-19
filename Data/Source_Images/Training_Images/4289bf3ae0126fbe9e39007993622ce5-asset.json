@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4289bf3ae0126fbe9e39007993622ce5",
+        "name": "sheet-iron-holes-corrosion-14971563.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/sheet-iron-holes-corrosion-14971563.jpg",
+        "size": {
+            "width": 1300,
+            "height": 1390
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VjbPfwANj",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1269.7115384615383,
+                "width": 1268.5610640870618,
+                "left": 19.465122430471585,
+                "top": 18.082579185520363
+            },
+            "points": [
+                {
+                    "x": 19.465122430471585,
+                    "y": 18.082579185520363
+                },
+                {
+                    "x": 1288.0261865175332,
+                    "y": 18.082579185520363
+                },
+                {
+                    "x": 1288.0261865175332,
+                    "y": 1287.7941176470588
+                },
+                {
+                    "x": 19.465122430471585,
+                    "y": 1287.7941176470588
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

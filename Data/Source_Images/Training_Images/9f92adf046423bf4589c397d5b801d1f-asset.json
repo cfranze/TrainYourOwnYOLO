@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9f92adf046423bf4589c397d5b801d1f",
+        "name": "lead_pipes_williams.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/lead_pipes_williams.jpg",
+        "size": {
+            "width": 1200,
+            "height": 816
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xjdQ85Al9",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 212.68085106382978,
+                "width": 284.524886877828,
+                "left": 176.47058823529412,
+                "top": 307.8480718085106
+            },
+            "points": [
+                {
+                    "x": 176.47058823529412,
+                    "y": 307.8480718085106
+                },
+                {
+                    "x": 460.99547511312215,
+                    "y": 307.8480718085106
+                },
+                {
+                    "x": 460.99547511312215,
+                    "y": 520.5289228723403
+                },
+                {
+                    "x": 176.47058823529412,
+                    "y": 520.5289228723403
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

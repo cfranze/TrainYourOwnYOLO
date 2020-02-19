@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "f26f5f0e57430fcac4a775cd249f1e01",
+        "name": "112-1128674_cracked-cracks-ground-road-earthquake-broken-cracking-ground.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/112-1128674_cracked-cracks-ground-road-earthquake-broken-cracking-ground.png",
+        "size": {
+            "width": 920,
+            "height": 680
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_WDdHHM6k",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 598.8494492044064,
+                "width": 600.7058823529412,
+                "left": 159.8552036199095,
+                "top": 40.67931456548348
+            },
+            "points": [
+                {
+                    "x": 159.8552036199095,
+                    "y": 40.67931456548348
+                },
+                {
+                    "x": 760.5610859728507,
+                    "y": 40.67931456548348
+                },
+                {
+                    "x": 760.5610859728507,
+                    "y": 639.5287637698899
+                },
+                {
+                    "x": 159.8552036199095,
+                    "y": 639.5287637698899
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

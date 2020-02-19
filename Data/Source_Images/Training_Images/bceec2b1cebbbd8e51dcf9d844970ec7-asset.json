@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bceec2b1cebbbd8e51dcf9d844970ec7",
+        "name": "closeup-on-corroded-steel-pipe-260nw-1032085132.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/closeup-on-corroded-steel-pipe-260nw-1032085132.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9c1fUjWSp",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 110.10810810810811,
+                "width": 339.4514563106796,
+                "left": 50.54854368932039,
+                "top": 79.36486486486487
+            },
+            "points": [
+                {
+                    "x": 50.54854368932039,
+                    "y": 79.36486486486487
+                },
+                {
+                    "x": 390,
+                    "y": 79.36486486486487
+                },
+                {
+                    "x": 390,
+                    "y": 189.472972972973
+                },
+                {
+                    "x": 50.54854368932039,
+                    "y": 189.472972972973
+                }
+            ]
+        },
+        {
+            "id": "fkMXbvIqm",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 241.5,
+                "width": 378.4514563106796,
+                "left": 0,
+                "top": 16.554054054054056
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 16.554054054054056
+                },
+                {
+                    "x": 378.4514563106796,
+                    "y": 16.554054054054056
+                },
+                {
+                    "x": 378.4514563106796,
+                    "y": 258.05405405405406
+                },
+                {
+                    "x": 0,
+                    "y": 258.05405405405406
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

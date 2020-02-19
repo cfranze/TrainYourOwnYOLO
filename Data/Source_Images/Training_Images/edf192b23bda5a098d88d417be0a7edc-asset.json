@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "edf192b23bda5a098d88d417be0a7edc",
+        "name": "factors-influencing-corrossion-of-reinforcement-in-concrete-structure.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/factors-influencing-corrossion-of-reinforcement-in-concrete-structure.jpg",
+        "size": {
+            "width": 640,
+            "height": 452
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5YxFYCWPA",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 140.05633802816902,
+                "width": 414.4072398190046,
+                "left": 5.212669683257919,
+                "top": 43.23407490396927
+            },
+            "points": [
+                {
+                    "x": 5.212669683257919,
+                    "y": 43.23407490396927
+                },
+                {
+                    "x": 419.6199095022625,
+                    "y": 43.23407490396927
+                },
+                {
+                    "x": 419.6199095022625,
+                    "y": 183.2904129321383
+                },
+                {
+                    "x": 5.212669683257919,
+                    "y": 183.2904129321383
+                }
+            ]
+        },
+        {
+            "id": "3QNFL2Gk5",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 199.08834827144688,
+                "width": 331.00452488687785,
+                "left": 284.66968325791856,
+                "top": 186.76288412291936
+            },
+            "points": [
+                {
+                    "x": 284.66968325791856,
+                    "y": 186.76288412291936
+                },
+                {
+                    "x": 615.6742081447965,
+                    "y": 186.76288412291936
+                },
+                {
+                    "x": 615.6742081447965,
+                    "y": 385.8512323943662
+                },
+                {
+                    "x": 284.66968325791856,
+                    "y": 385.8512323943662
+                }
+            ]
+        },
+        {
+            "id": "QJ0QIb0v_",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 262.6327624839949,
+                "width": 46.33484162895928,
+                "left": 73.55656108597286,
+                "top": 189.36723751600513
+            },
+            "points": [
+                {
+                    "x": 73.55656108597286,
+                    "y": 189.36723751600513
+                },
+                {
+                    "x": 119.89140271493214,
+                    "y": 189.36723751600513
+                },
+                {
+                    "x": 119.89140271493214,
+                    "y": 452
+                },
+                {
+                    "x": 73.55656108597286,
+                    "y": 452
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

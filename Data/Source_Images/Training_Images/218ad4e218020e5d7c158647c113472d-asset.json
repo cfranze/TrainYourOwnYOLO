@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "218ad4e218020e5d7c158647c113472d",
+        "name": "evidence-of-heavy-corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/evidence-of-heavy-corrosion.jpg",
+        "size": {
+            "width": 1500,
+            "height": 1125
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ggaSFLit-",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1013.2124547647769,
+                "width": 1062.2171945701357,
+                "left": 437.78280542986425,
+                "top": 111.78754523522316
+            },
+            "points": [
+                {
+                    "x": 437.78280542986425,
+                    "y": 111.78754523522316
+                },
+                {
+                    "x": 1500,
+                    "y": 111.78754523522316
+                },
+                {
+                    "x": 1500,
+                    "y": 1125
+                },
+                {
+                    "x": 437.78280542986425,
+                    "y": 1125
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

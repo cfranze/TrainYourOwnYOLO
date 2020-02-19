@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0b24948e92077d7eb00f34ef9a559551",
+        "name": "14h_sep2018_donfunkeimg_5281_live.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/14h_sep2018_donfunkeimg_5281_live.jpg",
+        "size": {
+            "width": 4200,
+            "height": 3600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "w4mOoK-5H",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 2099.660249150623,
+                "width": 3849.3203883495144,
+                "left": 144.75728155339806,
+                "top": 1037.312429218573
+            },
+            "points": [
+                {
+                    "x": 144.75728155339806,
+                    "y": 1037.312429218573
+                },
+                {
+                    "x": 3994.0776699029125,
+                    "y": 1037.312429218573
+                },
+                {
+                    "x": 3994.0776699029125,
+                    "y": 3136.972678369196
+                },
+                {
+                    "x": 144.75728155339806,
+                    "y": 3136.972678369196
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

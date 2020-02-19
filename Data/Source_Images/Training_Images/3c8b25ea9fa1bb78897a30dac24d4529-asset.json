@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3c8b25ea9fa1bb78897a30dac24d4529",
+        "name": "united-airlines-istock.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/united-airlines-istock.jpg",
+        "size": {
+            "width": 931,
+            "height": 524
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mK19-V_tV",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 223.15172413793104,
+                "width": 834.2844660194174,
+                "left": 64.62766990291261,
+                "top": 156.17656250000002
+            },
+            "points": [
+                {
+                    "x": 64.62766990291261,
+                    "y": 156.17656250000002
+                },
+                {
+                    "x": 898.9121359223301,
+                    "y": 156.17656250000002
+                },
+                {
+                    "x": 898.9121359223301,
+                    "y": 379.32828663793106
+                },
+                {
+                    "x": 64.62766990291261,
+                    "y": 379.32828663793106
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

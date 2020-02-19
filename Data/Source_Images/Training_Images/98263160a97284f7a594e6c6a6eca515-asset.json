@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "98263160a97284f7a594e6c6a6eca515",
+        "name": "St20St20sink.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/St20St20sink.jpg",
+        "size": {
+            "width": 606,
+            "height": 398
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HO5w3kr0b",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 388.13223140495865,
+                "width": 599.6932126696834,
+                "left": 4.113122171945702,
+                "top": 4.861075241046832
+            },
+            "points": [
+                {
+                    "x": 4.113122171945702,
+                    "y": 4.861075241046832
+                },
+                {
+                    "x": 603.806334841629,
+                    "y": 4.861075241046832
+                },
+                {
+                    "x": 603.806334841629,
+                    "y": 392.9933066460055
+                },
+                {
+                    "x": 4.113122171945702,
+                    "y": 392.9933066460055
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

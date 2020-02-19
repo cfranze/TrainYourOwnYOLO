@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "24c784d0877a34e5d6aff3ad7148f8a9",
+        "name": "thumb_2_copper-pipe-inside-corrosion-360.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/thumb_2_copper-pipe-inside-corrosion-360.jpg",
+        "size": {
+            "width": 360,
+            "height": 299
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v987uaK9e",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 231.01470588235296,
+                "width": 108.16901408450704,
+                "left": 87.6100352112676,
+                "top": 6.257352941176471
+            },
+            "points": [
+                {
+                    "x": 87.6100352112676,
+                    "y": 6.257352941176471
+                },
+                {
+                    "x": 195.77904929577466,
+                    "y": 6.257352941176471
+                },
+                {
+                    "x": 195.77904929577466,
+                    "y": 237.27205882352942
+                },
+                {
+                    "x": 87.6100352112676,
+                    "y": 237.27205882352942
+                }
+            ]
+        },
+        {
+            "id": "XTQaISxZX",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 88.78676470588236,
+                "width": 298.6478873239437,
+                "left": 54.82130281690141,
+                "top": 2.5367647058823533
+            },
+            "points": [
+                {
+                    "x": 54.82130281690141,
+                    "y": 2.5367647058823533
+                },
+                {
+                    "x": 353.46919014084506,
+                    "y": 2.5367647058823533
+                },
+                {
+                    "x": 353.46919014084506,
+                    "y": 91.32352941176471
+                },
+                {
+                    "x": 54.82130281690141,
+                    "y": 91.32352941176471
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

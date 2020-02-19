@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b579010cda9f7b9baab7507eeae25a8a",
+        "name": "jet-2-carrier.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/jet-2-carrier.jpg",
+        "size": {
+            "width": 1024,
+            "height": 683
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LxjujRiV_",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 289.8027656477438,
+                "width": 982.2446601941747,
+                "left": 32.310679611650485,
+                "top": 144.66060544032024
+            },
+            "points": [
+                {
+                    "x": 32.310679611650485,
+                    "y": 144.66060544032024
+                },
+                {
+                    "x": 1014.5553398058252,
+                    "y": 144.66060544032024
+                },
+                {
+                    "x": 1014.5553398058252,
+                    "y": 434.46337108806404
+                },
+                {
+                    "x": 32.310679611650485,
+                    "y": 434.46337108806404
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

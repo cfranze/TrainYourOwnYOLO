@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c60bbed651c1e16b18d67a653db3163c",
+        "name": "00033_00033.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/00033_00033.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OmatfbeeI",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 523.9327296248383,
+                "width": 250.873786407767,
+                "left": 435.3398058252427,
+                "top": 72.38033635187581
+            },
+            "points": [
+                {
+                    "x": 435.3398058252427,
+                    "y": 72.38033635187581
+                },
+                {
+                    "x": 686.2135922330096,
+                    "y": 72.38033635187581
+                },
+                {
+                    "x": 686.2135922330096,
+                    "y": 596.3130659767141
+                },
+                {
+                    "x": 435.3398058252427,
+                    "y": 596.3130659767141
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

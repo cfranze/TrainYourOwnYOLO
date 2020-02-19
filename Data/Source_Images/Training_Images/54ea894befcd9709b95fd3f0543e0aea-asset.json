@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "54ea894befcd9709b95fd3f0543e0aea",
+        "name": "corrosion-in-water-systems.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-in-water-systems.jpg",
+        "size": {
+            "width": 1000,
+            "height": 650
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CDHa4D1tG",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 649.7574626865672,
+                "width": 999.5145631067961,
+                "left": 0.4854368932038835,
+                "top": 0.24253731343283583
+            },
+            "points": [
+                {
+                    "x": 0.4854368932038835,
+                    "y": 0.24253731343283583
+                },
+                {
+                    "x": 1000,
+                    "y": 0.24253731343283583
+                },
+                {
+                    "x": 1000,
+                    "y": 650
+                },
+                {
+                    "x": 0.4854368932038835,
+                    "y": 650
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

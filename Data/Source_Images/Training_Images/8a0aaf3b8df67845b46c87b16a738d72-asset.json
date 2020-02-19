@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "8a0aaf3b8df67845b46c87b16a738d72",
+        "name": "does20copper20rust201.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/does20copper20rust201.png",
+        "size": {
+            "width": 654,
+            "height": 391
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cvBro0Uqg",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 357.28290468986387,
+                "width": 548.9457013574661,
+                "left": 52.67511312217194,
+                "top": 18.231077439485627
+            },
+            "points": [
+                {
+                    "x": 52.67511312217194,
+                    "y": 18.231077439485627
+                },
+                {
+                    "x": 601.620814479638,
+                    "y": 18.231077439485627
+                },
+                {
+                    "x": 601.620814479638,
+                    "y": 375.5139821293495
+                },
+                {
+                    "x": 52.67511312217194,
+                    "y": 375.5139821293495
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

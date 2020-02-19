@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a90dc1c761dc4631050fbef635a44e8b",
+        "name": "1722381IND-20000-Litre-1.5-SG-Vertical-WRAS-Approved-Industrial-Tank.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/1722381IND-20000-Litre-1.5-SG-Vertical-WRAS-Approved-Industrial-Tank.jpg",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ueaxPtgME",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 844.4570135746607,
+                "width": 599.5475113122172,
+                "left": 202.4886877828054,
+                "top": 85.97285067873302
+            },
+            "points": [
+                {
+                    "x": 202.4886877828054,
+                    "y": 85.97285067873302
+                },
+                {
+                    "x": 802.0361990950227,
+                    "y": 85.97285067873302
+                },
+                {
+                    "x": 802.0361990950227,
+                    "y": 930.4298642533937
+                },
+                {
+                    "x": 202.4886877828054,
+                    "y": 930.4298642533937
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

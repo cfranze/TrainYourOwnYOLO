@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "850b93ae40ad975aed8a3282a0436a46",
+        "name": "190917134855-air-india-file-2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190917134855-air-india-file-2.jpg",
+        "size": {
+            "width": 1350,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ppgGNWFlC",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 776.2008733624453,
+                "width": 1066.2378640776699,
+                "left": 1.3106796116504855,
+                "top": 77.7326692139738
+            },
+            "points": [
+                {
+                    "x": 1.3106796116504855,
+                    "y": 77.7326692139738
+                },
+                {
+                    "x": 1067.5485436893205,
+                    "y": 77.7326692139738
+                },
+                {
+                    "x": 1067.5485436893205,
+                    "y": 853.9335425764192
+                },
+                {
+                    "x": 1.3106796116504855,
+                    "y": 853.9335425764192
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

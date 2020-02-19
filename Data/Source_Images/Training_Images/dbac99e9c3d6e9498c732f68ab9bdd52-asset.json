@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dbac99e9c3d6e9498c732f68ab9bdd52",
+        "name": "dreamstime_m_114662535_underground-copper-pipe_1000px.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/dreamstime_m_114662535_underground-copper-pipe_1000px.jpg",
+        "size": {
+            "width": 1000,
+            "height": 666
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4johdpB6i",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 535.271484375,
+                "width": 911.3122171945702,
+                "left": 88.68778280542986,
+                "top": 130.728515625
+            },
+            "points": [
+                {
+                    "x": 88.68778280542986,
+                    "y": 130.728515625
+                },
+                {
+                    "x": 1000,
+                    "y": 130.728515625
+                },
+                {
+                    "x": 1000,
+                    "y": 666
+                },
+                {
+                    "x": 88.68778280542986,
+                    "y": 666
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1942062ce8495101d9a745e42db36a03",
+        "name": "Corrosion-Resistance-Water-Biogas-Plant-Septic-Tank-for-Sale.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Corrosion-Resistance-Water-Biogas-Plant-Septic-Tank-for-Sale.jpg",
+        "size": {
+            "width": 550,
+            "height": 550
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8CuCESYdQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 288.0656108597285,
+                "width": 522.9355203619909,
+                "left": 11.199095022624434,
+                "top": 142.1662895927602
+            },
+            "points": [
+                {
+                    "x": 11.199095022624434,
+                    "y": 142.1662895927602
+                },
+                {
+                    "x": 534.1346153846154,
+                    "y": 142.1662895927602
+                },
+                {
+                    "x": 534.1346153846154,
+                    "y": 430.2319004524887
+                },
+                {
+                    "x": 11.199095022624434,
+                    "y": 430.2319004524887
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

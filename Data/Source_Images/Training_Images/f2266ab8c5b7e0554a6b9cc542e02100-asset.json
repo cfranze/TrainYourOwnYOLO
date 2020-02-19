@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f2266ab8c5b7e0554a6b9cc542e02100",
+        "name": "corrosion-inhibitors.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-inhibitors.jpg",
+        "size": {
+            "width": 4680,
+            "height": 3348
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MhxwpyCnl",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 3339.233929782904,
+                "width": 4670.912621359223,
+                "left": 9.087378640776699,
+                "top": 8.766070217096336
+            },
+            "points": [
+                {
+                    "x": 9.087378640776699,
+                    "y": 8.766070217096336
+                },
+                {
+                    "x": 4680,
+                    "y": 8.766070217096336
+                },
+                {
+                    "x": 4680,
+                    "y": 3348
+                },
+                {
+                    "x": 9.087378640776699,
+                    "y": 3348
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

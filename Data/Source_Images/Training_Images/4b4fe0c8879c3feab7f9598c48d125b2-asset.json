@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4b4fe0c8879c3feab7f9598c48d125b2",
+        "name": "Concorde-British-Airways.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Concorde-British-Airways.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1141
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9kLuwi4xM",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 752.9047619047619,
+                "width": 947.5728155339806,
+                "left": 326.2135922330097,
+                "top": 223.17901785714287
+            },
+            "points": [
+                {
+                    "x": 326.2135922330097,
+                    "y": 223.17901785714287
+                },
+                {
+                    "x": 1273.7864077669904,
+                    "y": 223.17901785714287
+                },
+                {
+                    "x": 1273.7864077669904,
+                    "y": 976.0837797619048
+                },
+                {
+                    "x": 326.2135922330097,
+                    "y": 976.0837797619048
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

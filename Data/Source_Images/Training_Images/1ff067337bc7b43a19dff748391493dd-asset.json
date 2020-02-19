@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1ff067337bc7b43a19dff748391493dd",
+        "name": "Gear-Corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Gear-Corrosion.jpg",
+        "size": {
+            "width": 800,
+            "height": 533
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZAdf6rcEr",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 510.55027173913044,
+                "width": 798.1900452488687,
+                "left": 1.8099547511312217,
+                "top": 6.958963145380435
+            },
+            "points": [
+                {
+                    "x": 1.8099547511312217,
+                    "y": 6.958963145380435
+                },
+                {
+                    "x": 800,
+                    "y": 6.958963145380435
+                },
+                {
+                    "x": 800,
+                    "y": 517.5092348845109
+                },
+                {
+                    "x": 1.8099547511312217,
+                    "y": 517.5092348845109
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

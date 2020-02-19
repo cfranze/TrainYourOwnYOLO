@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d2587e9d99e6f805b00d98794094b253",
+        "name": "europeanaircraftsales_piper_m600_1400x800_2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/europeanaircraftsales_piper_m600_1400x800_2.jpg",
+        "size": {
+            "width": 1400,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eN6laTzCs",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 569.7792869269949,
+                "width": 1171.6504854368932,
+                "left": 39.41747572815534,
+                "top": 35.027589134125634
+            },
+            "points": [
+                {
+                    "x": 39.41747572815534,
+                    "y": 35.027589134125634
+                },
+                {
+                    "x": 1211.0679611650487,
+                    "y": 35.027589134125634
+                },
+                {
+                    "x": 1211.0679611650487,
+                    "y": 604.8068760611205
+                },
+                {
+                    "x": 39.41747572815534,
+                    "y": 604.8068760611205
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

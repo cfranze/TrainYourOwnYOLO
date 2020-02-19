@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "21d078fca4f1207006ea3fc516a9ae7c",
+        "name": "800px-Liberty-statue-from-below.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/800px-Liberty-statue-from-below.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yVfzPDQhi",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 503.16946959896507,
+                "width": 87.76699029126213,
+                "left": 250.48543689320388,
+                "top": 96.83053040103493
+            },
+            "points": [
+                {
+                    "x": 250.48543689320388,
+                    "y": 96.83053040103493
+                },
+                {
+                    "x": 338.252427184466,
+                    "y": 96.83053040103493
+                },
+                {
+                    "x": 338.252427184466,
+                    "y": 600
+                },
+                {
+                    "x": 250.48543689320388,
+                    "y": 600
+                }
+            ]
+        },
+        {
+            "id": "eKLPn7Ytd",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 389.8447606727038,
+                "width": 291.2621359223301,
+                "left": 249.32038834951456,
+                "top": 210.15523932729624
+            },
+            "points": [
+                {
+                    "x": 249.32038834951456,
+                    "y": 210.15523932729624
+                },
+                {
+                    "x": 540.5825242718447,
+                    "y": 210.15523932729624
+                },
+                {
+                    "x": 540.5825242718447,
+                    "y": 600
+                },
+                {
+                    "x": 249.32038834951456,
+                    "y": 600
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a15deea0fd531783dd7e5113639bc93d",
+        "name": "114595551-iron-ore-mineral-rich-cut-ornamental-stone-with-cracks.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/114595551-iron-ore-mineral-rich-cut-ornamental-stone-with-cracks.jpg",
+        "size": {
+            "width": 1300,
+            "height": 866
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DYlGsG7fI",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 64.12635869565217,
+                "width": 282.94117647058823,
+                "left": 910,
+                "top": 706.6309230638586
+            },
+            "points": [
+                {
+                    "x": 910,
+                    "y": 706.6309230638586
+                },
+                {
+                    "x": 1192.9411764705883,
+                    "y": 706.6309230638586
+                },
+                {
+                    "x": 1192.9411764705883,
+                    "y": 770.7572817595109
+                },
+                {
+                    "x": 910,
+                    "y": 770.7572817595109
+                }
+            ]
+        },
+        {
+            "id": "RKImo_Hom",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 864.1707073709239,
+                "width": 530,
+                "left": 405.29411764705884,
+                "top": 1.829292629076087
+            },
+            "points": [
+                {
+                    "x": 405.29411764705884,
+                    "y": 1.829292629076087
+                },
+                {
+                    "x": 935.2941176470589,
+                    "y": 1.829292629076087
+                },
+                {
+                    "x": 935.2941176470589,
+                    "y": 866
+                },
+                {
+                    "x": 405.29411764705884,
+                    "y": 866
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53d93f6a34c3ccf4090f3467e2001ce8",
+        "name": "corrosion-aluminum-types4-e1528139423758.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-aluminum-types4-e1528139423758.jpg",
+        "size": {
+            "width": 3092,
+            "height": 1322
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ylxQSIJRJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 566.5714285714286,
+                "width": 816.5281553398058,
+                "left": 1942.2563106796117,
+                "top": 190.94150368480726
+            },
+            "points": [
+                {
+                    "x": 1942.2563106796117,
+                    "y": 190.94150368480726
+                },
+                {
+                    "x": 2758.784466019418,
+                    "y": 190.94150368480726
+                },
+                {
+                    "x": 2758.784466019418,
+                    "y": 757.5129322562359
+                },
+                {
+                    "x": 1942.2563106796117,
+                    "y": 757.5129322562359
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

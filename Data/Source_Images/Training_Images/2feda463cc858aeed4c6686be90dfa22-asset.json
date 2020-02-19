@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2feda463cc858aeed4c6686be90dfa22",
+        "name": "depositphotos_250838298-stock-photo-corrosion-and-decay-of-reinforced.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/depositphotos_250838298-stock-photo-corrosion-and-decay-of-reinforced.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ho8htO2kU",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 1063.7918215613383,
+                "width": 1474.027149321267,
+                "left": 125.97285067873302,
+                "top": 1.1985749690210656
+            },
+            "points": [
+                {
+                    "x": 125.97285067873302,
+                    "y": 1.1985749690210656
+                },
+                {
+                    "x": 1600,
+                    "y": 1.1985749690210656
+                },
+                {
+                    "x": 1600,
+                    "y": 1064.9903965303592
+                },
+                {
+                    "x": 125.97285067873302,
+                    "y": 1064.9903965303592
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

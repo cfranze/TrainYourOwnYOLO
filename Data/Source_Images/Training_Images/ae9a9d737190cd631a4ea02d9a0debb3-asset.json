@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ae9a9d737190cd631a4ea02d9a0debb3",
+        "name": "lead_720_405.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/lead_720_405.jpg",
+        "size": {
+            "width": 720,
+            "height": 405
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "draPLIL96",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 195.16810344827587,
+                "width": 597.3203883495146,
+                "left": 8.388349514563107,
+                "top": 34.34644396551724
+            },
+            "points": [
+                {
+                    "x": 8.388349514563107,
+                    "y": 34.34644396551724
+                },
+                {
+                    "x": 605.7087378640776,
+                    "y": 34.34644396551724
+                },
+                {
+                    "x": 605.7087378640776,
+                    "y": 229.5145474137931
+                },
+                {
+                    "x": 8.388349514563107,
+                    "y": 229.5145474137931
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

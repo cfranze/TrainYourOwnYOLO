@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "038f2772e70c7c6e0d2da997ec0f47af",
+        "name": "0702050037-01-Horizontal-Cracks-In-Brick-Wall-230676_960_720.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/0702050037-01-Horizontal-Cracks-In-Brick-Wall-230676_960_720.jpg",
+        "size": {
+            "width": 960,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YUuEgcMnQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 89.00949796472185,
+                "width": 959.5656108597285,
+                "left": 0.4343891402714932,
+                "top": 319.8575305291723
+            },
+            "points": [
+                {
+                    "x": 0.4343891402714932,
+                    "y": 319.8575305291723
+                },
+                {
+                    "x": 960,
+                    "y": 319.8575305291723
+                },
+                {
+                    "x": 960,
+                    "y": 408.86702849389417
+                },
+                {
+                    "x": 0.4343891402714932,
+                    "y": 408.86702849389417
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

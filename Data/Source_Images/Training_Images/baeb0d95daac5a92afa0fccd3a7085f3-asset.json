@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "baeb0d95daac5a92afa0fccd3a7085f3",
+        "name": "Aluminum-Corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Aluminum-Corrosion.jpg",
+        "size": {
+            "width": 380,
+            "height": 182
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6aE9xaelS",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 121.39473684210526,
+                "width": 123.59223300970874,
+                "left": 29.145631067961165,
+                "top": 32.29728618421053
+            },
+            "points": [
+                {
+                    "x": 29.145631067961165,
+                    "y": 32.29728618421053
+                },
+                {
+                    "x": 152.7378640776699,
+                    "y": 32.29728618421053
+                },
+                {
+                    "x": 152.7378640776699,
+                    "y": 153.69202302631578
+                },
+                {
+                    "x": 29.145631067961165,
+                    "y": 153.69202302631578
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

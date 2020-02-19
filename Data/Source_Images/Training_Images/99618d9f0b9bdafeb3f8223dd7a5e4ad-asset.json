@@ -1,0 +1,172 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "99618d9f0b9bdafeb3f8223dd7a5e4ad",
+        "name": "anti-corrosion-coatings-1030x773.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/anti-corrosion-coatings-1030x773.jpg",
+        "size": {
+            "width": 1030,
+            "height": 773
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9Vmmiczrq",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 352,
+                "width": 351.5,
+                "left": 560,
+                "top": 133
+            },
+            "points": [
+                {
+                    "x": 560,
+                    "y": 133
+                },
+                {
+                    "x": 911.5,
+                    "y": 133
+                },
+                {
+                    "x": 911.5,
+                    "y": 485
+                },
+                {
+                    "x": 560,
+                    "y": 485
+                }
+            ]
+        },
+        {
+            "id": "IuWPi1Hf8",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 189.5,
+                "width": 413,
+                "left": 1.5,
+                "top": 115.5
+            },
+            "points": [
+                {
+                    "x": 1.5,
+                    "y": 115.5
+                },
+                {
+                    "x": 414.5,
+                    "y": 115.5
+                },
+                {
+                    "x": 414.5,
+                    "y": 305
+                },
+                {
+                    "x": 1.5,
+                    "y": 305
+                }
+            ]
+        },
+        {
+            "id": "6YH9drBa3",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 69.5,
+                "width": 507,
+                "left": 2,
+                "top": 328.5
+            },
+            "points": [
+                {
+                    "x": 2,
+                    "y": 328.5
+                },
+                {
+                    "x": 509,
+                    "y": 328.5
+                },
+                {
+                    "x": 509,
+                    "y": 398
+                },
+                {
+                    "x": 2,
+                    "y": 398
+                }
+            ]
+        },
+        {
+            "id": "Yx-f67EuH",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 454,
+                "width": 132.5,
+                "left": 405,
+                "top": 319
+            },
+            "points": [
+                {
+                    "x": 405,
+                    "y": 319
+                },
+                {
+                    "x": 537.5,
+                    "y": 319
+                },
+                {
+                    "x": 537.5,
+                    "y": 773
+                },
+                {
+                    "x": 405,
+                    "y": 773
+                }
+            ]
+        },
+        {
+            "id": "LI4jn6_wd",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 163.5,
+                "width": 87.5,
+                "left": 942.5,
+                "top": 609.5
+            },
+            "points": [
+                {
+                    "x": 942.5,
+                    "y": 609.5
+                },
+                {
+                    "x": 1030,
+                    "y": 609.5
+                },
+                {
+                    "x": 1030,
+                    "y": 773
+                },
+                {
+                    "x": 942.5,
+                    "y": 773
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

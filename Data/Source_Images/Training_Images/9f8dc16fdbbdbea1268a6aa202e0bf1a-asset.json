@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "9f8dc16fdbbdbea1268a6aa202e0bf1a",
+        "name": "2018-SR22T-750x398.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2018-SR22T-750x398.png",
+        "size": {
+            "width": 750,
+            "height": 398
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7BlC4G7Oi",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 301.9561243144424,
+                "width": 701.5776699029126,
+                "left": 30.58252427184466,
+                "top": 23.499371572212066
+            },
+            "points": [
+                {
+                    "x": 30.58252427184466,
+                    "y": 23.499371572212066
+                },
+                {
+                    "x": 732.1601941747573,
+                    "y": 23.499371572212066
+                },
+                {
+                    "x": 732.1601941747573,
+                    "y": 325.4554958866545
+                },
+                {
+                    "x": 30.58252427184466,
+                    "y": 325.4554958866545
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

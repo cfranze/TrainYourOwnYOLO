@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b9db90427b953874c37e83c35fdd9058",
+        "name": "Corroded20Pipe20with20lead20service20fittings_1000x750_credit_Mike20Thomas_Creative20Commons.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Corroded20Pipe20with20lead20service20fittings_1000x750_credit_Mike20Thomas_Creative20Commons.jpg",
+        "size": {
+            "width": 1000,
+            "height": 750
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4N67eCGMC",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 569.0491591203105,
+                "width": 649.0291262135922,
+                "left": 272.81553398058253,
+                "top": 58.94243208279431
+            },
+            "points": [
+                {
+                    "x": 272.81553398058253,
+                    "y": 58.94243208279431
+                },
+                {
+                    "x": 921.8446601941748,
+                    "y": 58.94243208279431
+                },
+                {
+                    "x": 921.8446601941748,
+                    "y": 627.9915912031048
+                },
+                {
+                    "x": 272.81553398058253,
+                    "y": 627.9915912031048
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fa828846b4731ac9201a402f59a029d6",
+        "name": "Paint-2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Paint-2.jpg",
+        "size": {
+            "width": 557,
+            "height": 302
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_-mA6eqFZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 226.87813021702837,
+                "width": 541.6257918552036,
+                "left": 8.317194570135747,
+                "top": 2.5523789649415694
+            },
+            "points": [
+                {
+                    "x": 8.317194570135747,
+                    "y": 2.5523789649415694
+                },
+                {
+                    "x": 549.9429864253393,
+                    "y": 2.5523789649415694
+                },
+                {
+                    "x": 549.9429864253393,
+                    "y": 229.43050918196994
+                },
+                {
+                    "x": 8.317194570135747,
+                    "y": 229.43050918196994
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

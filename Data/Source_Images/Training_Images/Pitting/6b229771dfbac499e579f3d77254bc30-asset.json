@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6b229771dfbac499e579f3d77254bc30",
+        "name": "001-figure3-shutterstock_607093718_Figure3_2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/001-figure3-shutterstock_607093718_Figure3_2.jpg",
+        "size": {
+            "width": 900,
+            "height": 550
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8HTxPjbfY",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 47.142857142857146,
+                "width": 42.37864077669903,
+                "left": 435.58252427184465,
+                "top": 259.9200148809524
+            },
+            "points": [
+                {
+                    "x": 435.58252427184465,
+                    "y": 259.9200148809524
+                },
+                {
+                    "x": 477.96116504854365,
+                    "y": 259.9200148809524
+                },
+                {
+                    "x": 477.96116504854365,
+                    "y": 307.0628720238095
+                },
+                {
+                    "x": 435.58252427184465,
+                    "y": 307.0628720238095
+                }
+            ]
+        },
+        {
+            "id": "YxhQZS-3v",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 33.611111111111114,
+                "width": 55.04854368932038,
+                "left": 194.41747572815532,
+                "top": 228.054935515873
+            },
+            "points": [
+                {
+                    "x": 194.41747572815532,
+                    "y": 228.054935515873
+                },
+                {
+                    "x": 249.4660194174757,
+                    "y": 228.054935515873
+                },
+                {
+                    "x": 249.4660194174757,
+                    "y": 261.66604662698415
+                },
+                {
+                    "x": 194.41747572815532,
+                    "y": 261.66604662698415
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

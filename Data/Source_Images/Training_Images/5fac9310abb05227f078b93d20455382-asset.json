@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5fac9310abb05227f078b93d20455382",
+        "name": "344054main_ec85-33297-23_full_0_crop.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/344054main_ec85-33297-23_full_0_crop.jpg",
+        "size": {
+            "width": 1140,
+            "height": 420
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hyjnX19dd",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 419.17968750000006,
+                "width": 1071.9320388349513,
+                "left": 13.834951456310678,
+                "top": 0.8203125000000001
+            },
+            "points": [
+                {
+                    "x": 13.834951456310678,
+                    "y": 0.8203125000000001
+                },
+                {
+                    "x": 1085.7669902912621,
+                    "y": 0.8203125000000001
+                },
+                {
+                    "x": 1085.7669902912621,
+                    "y": 420.00000000000006
+                },
+                {
+                    "x": 13.834951456310678,
+                    "y": 420.00000000000006
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

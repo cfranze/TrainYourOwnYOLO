@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5ee6f00c665bcd8e3414482413483ea6",
+        "name": "MIC-corrosion-image-2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/MIC-corrosion-image-2.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Fsxccg8Z9",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 577.2014475271412,
+                "width": 772.1266968325791,
+                "left": 6.153846153846153,
+                "top": 12.213510253317251
+            },
+            "points": [
+                {
+                    "x": 6.153846153846153,
+                    "y": 12.213510253317251
+                },
+                {
+                    "x": 778.2805429864253,
+                    "y": 12.213510253317251
+                },
+                {
+                    "x": 778.2805429864253,
+                    "y": 589.4149577804584
+                },
+                {
+                    "x": 6.153846153846153,
+                    "y": 589.4149577804584
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

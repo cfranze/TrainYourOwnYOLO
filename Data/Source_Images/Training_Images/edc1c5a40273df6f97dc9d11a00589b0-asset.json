@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "edc1c5a40273df6f97dc9d11a00589b0",
+        "name": "thecoreofcor.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/thecoreofcor.jpg",
+        "size": {
+            "width": 1024,
+            "height": 683
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Nwlfp7xWj",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 667.7089552238806,
+                "width": 1017.0497737556561,
+                "left": 4.633484162895928,
+                "top": 7.891685040705563
+            },
+            "points": [
+                {
+                    "x": 4.633484162895928,
+                    "y": 7.891685040705563
+                },
+                {
+                    "x": 1021.683257918552,
+                    "y": 7.891685040705563
+                },
+                {
+                    "x": 1021.683257918552,
+                    "y": 675.6006402645861
+                },
+                {
+                    "x": 4.633484162895928,
+                    "y": 675.6006402645861
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

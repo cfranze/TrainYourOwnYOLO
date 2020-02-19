@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "102526fd992bd3acbbfcb158d13c5944",
+        "name": "cover_aircraft.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/cover_aircraft.jpg",
+        "size": {
+            "width": 3647,
+            "height": 1433
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5h91xEmUi",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 668.7333333333333,
+                "width": 2103.221359223301,
+                "left": 313.3587378640777,
+                "top": 187.03082561728394
+            },
+            "points": [
+                {
+                    "x": 313.3587378640777,
+                    "y": 187.03082561728394
+                },
+                {
+                    "x": 2416.580097087379,
+                    "y": 187.03082561728394
+                },
+                {
+                    "x": 2416.580097087379,
+                    "y": 855.7641589506172
+                },
+                {
+                    "x": 313.3587378640777,
+                    "y": 855.7641589506172
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

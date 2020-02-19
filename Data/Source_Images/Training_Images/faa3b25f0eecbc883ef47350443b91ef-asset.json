@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "faa3b25f0eecbc883ef47350443b91ef",
+        "name": "220px-Galvanic_corrosion_of_aluminum_and_steel_in_seawater_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/220px-Galvanic_corrosion_of_aluminum_and_steel_in_seawater_1.jpg",
+        "size": {
+            "width": 220,
+            "height": 207
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NsmIJpoEM",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 191.19400452488688,
+                "width": 52.25365691489362,
+                "left": 0,
+                "top": 0.4683257918552036
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0.4683257918552036
+                },
+                {
+                    "x": 52.25365691489362,
+                    "y": 0.4683257918552036
+                },
+                {
+                    "x": 52.25365691489362,
+                    "y": 191.66233031674207
+                },
+                {
+                    "x": 0,
+                    "y": 191.66233031674207
+                }
+            ]
+        },
+        {
+            "id": "gwLBLl_IE",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 130.7799773755656,
+                "width": 101.28557180851064,
+                "left": 0,
+                "top": 76.22002262443439
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 76.22002262443439
+                },
+                {
+                    "x": 101.28557180851064,
+                    "y": 76.22002262443439
+                },
+                {
+                    "x": 101.28557180851064,
+                    "y": 207
+                },
+                {
+                    "x": 0,
+                    "y": 207
+                }
+            ]
+        },
+        {
+            "id": "rtBeEMYc_",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 62.05316742081448,
+                "width": 187.17918882978725,
+                "left": 0,
+                "top": 144.94683257918552
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 144.94683257918552
+                },
+                {
+                    "x": 187.17918882978725,
+                    "y": 144.94683257918552
+                },
+                {
+                    "x": 187.17918882978725,
+                    "y": 207
+                },
+                {
+                    "x": 0,
+                    "y": 207
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

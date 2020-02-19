@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "697ea3fc5ff13beb4aa2ab06d8f6436b",
+        "name": "1706rmcasset.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/1706rmcasset.jpg",
+        "size": {
+            "width": 600,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7aEBGV-HA",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 998.3031674208145,
+                "width": 598.0755649717514,
+                "left": 1.9244350282485876,
+                "top": 1.6968325791855203
+            },
+            "points": [
+                {
+                    "x": 1.9244350282485876,
+                    "y": 1.6968325791855203
+                },
+                {
+                    "x": 600,
+                    "y": 1.6968325791855203
+                },
+                {
+                    "x": 600,
+                    "y": 1000
+                },
+                {
+                    "x": 1.9244350282485876,
+                    "y": 1000
+                }
+            ]
+        },
+        {
+            "id": "lLsSA7N2a",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 996.0407239819004,
+                "width": 596.2747175141243,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 596.2747175141243,
+                    "y": 0
+                },
+                {
+                    "x": 596.2747175141243,
+                    "y": 996.0407239819004
+                },
+                {
+                    "x": 0,
+                    "y": 996.0407239819004
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

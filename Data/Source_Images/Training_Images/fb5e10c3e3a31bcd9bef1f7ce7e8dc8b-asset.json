@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fb5e10c3e3a31bcd9bef1f7ce7e8dc8b",
+        "name": "Crevice-corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Crevice-corrosion.jpg",
+        "size": {
+            "width": 1200,
+            "height": 803
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "inWLqAubG",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 543.9578969594594,
+                "width": 1200,
+                "left": 0,
+                "top": 185.25291385135134
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 185.25291385135134
+                },
+                {
+                    "x": 1200,
+                    "y": 185.25291385135134
+                },
+                {
+                    "x": 1200,
+                    "y": 729.2108108108107
+                },
+                {
+                    "x": 0,
+                    "y": 729.2108108108107
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

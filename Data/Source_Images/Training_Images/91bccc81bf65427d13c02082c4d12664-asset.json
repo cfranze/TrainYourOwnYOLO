@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "91bccc81bf65427d13c02082c4d12664",
+        "name": "100810cylinderj_00000053258.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/100810cylinderj_00000053258.jpg",
+        "size": {
+            "width": 400,
+            "height": 265
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ja3kYX94S",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 15.204918032786885,
+                "width": 10.316742081447963,
+                "left": 192.579185520362,
+                "top": 113.8671875
+            },
+            "points": [
+                {
+                    "x": 192.579185520362,
+                    "y": 113.8671875
+                },
+                {
+                    "x": 202.89592760180994,
+                    "y": 113.8671875
+                },
+                {
+                    "x": 202.89592760180994,
+                    "y": 129.07210553278688
+                },
+                {
+                    "x": 192.579185520362,
+                    "y": 129.07210553278688
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

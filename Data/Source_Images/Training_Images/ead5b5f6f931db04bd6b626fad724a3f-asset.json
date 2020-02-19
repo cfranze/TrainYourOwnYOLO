@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ead5b5f6f931db04bd6b626fad724a3f",
+        "name": "seamless-texture-metal-corrosion-17243697.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/seamless-texture-metal-corrosion-17243697.jpg",
+        "size": {
+            "width": 400,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "t9jmR-5qD",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 386.65158371040724,
+                "width": 393.43891402714934,
+                "left": 3.8461538461538463,
+                "top": 5.203619909502263
+            },
+            "points": [
+                {
+                    "x": 3.8461538461538463,
+                    "y": 5.203619909502263
+                },
+                {
+                    "x": 397.28506787330315,
+                    "y": 5.203619909502263
+                },
+                {
+                    "x": 397.28506787330315,
+                    "y": 391.8552036199095
+                },
+                {
+                    "x": 3.8461538461538463,
+                    "y": 391.8552036199095
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

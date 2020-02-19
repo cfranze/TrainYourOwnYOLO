@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "f79966ed9432235a4dffaf4c3e369013",
+        "name": "MICAnalysis.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/MICAnalysis.png",
+        "size": {
+            "width": 380,
+            "height": 353
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9cGX653qG",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 228.41176470588238,
+                "width": 233.9075630252101,
+                "left": 22.677258403361346,
+                "top": 75.67138009049775
+            },
+            "points": [
+                {
+                    "x": 22.677258403361346,
+                    "y": 75.67138009049775
+                },
+                {
+                    "x": 256.58482142857144,
+                    "y": 75.67138009049775
+                },
+                {
+                    "x": 256.58482142857144,
+                    "y": 304.0831447963801
+                },
+                {
+                    "x": 22.677258403361346,
+                    "y": 304.0831447963801
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

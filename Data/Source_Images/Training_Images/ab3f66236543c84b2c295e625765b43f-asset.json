@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ab3f66236543c84b2c295e625765b43f",
+        "name": "110405059-1024x680.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/110405059-1024x680.jpg",
+        "size": {
+            "width": 1024,
+            "height": 680
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VxuVYPNlt",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 39.76608187134503,
+                "width": 54.679611650485434,
+                "left": 699.8990291262136,
+                "top": 363.8518823099415
+            },
+            "points": [
+                {
+                    "x": 699.8990291262136,
+                    "y": 363.8518823099415
+                },
+                {
+                    "x": 754.578640776699,
+                    "y": 363.8518823099415
+                },
+                {
+                    "x": 754.578640776699,
+                    "y": 403.61796418128654
+                },
+                {
+                    "x": 699.8990291262136,
+                    "y": 403.61796418128654
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

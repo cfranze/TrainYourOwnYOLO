@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "e2489c053bb3cd631df7cc190de586b9",
+        "name": "Header-Beitrag.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Header-Beitrag.png",
+        "size": {
+            "width": 760,
+            "height": 279
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Q8pbTKbsU",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 65.9704433497537,
+                "width": 156.47058823529412,
+                "left": 279.92760180995475,
+                "top": 36.30307112068966
+            },
+            "points": [
+                {
+                    "x": 279.92760180995475,
+                    "y": 36.30307112068966
+                },
+                {
+                    "x": 436.3981900452489,
+                    "y": 36.30307112068966
+                },
+                {
+                    "x": 436.3981900452489,
+                    "y": 102.27351447044335
+                },
+                {
+                    "x": 279.92760180995475,
+                    "y": 102.27351447044335
+                }
+            ]
+        },
+        {
+            "id": "8or8najOT",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 277.4001308497537,
+                "width": 759.3122171945702,
+                "left": 0.6877828054298643,
+                "top": 1.5998691502463054
+            },
+            "points": [
+                {
+                    "x": 0.6877828054298643,
+                    "y": 1.5998691502463054
+                },
+                {
+                    "x": 760,
+                    "y": 1.5998691502463054
+                },
+                {
+                    "x": 760,
+                    "y": 279
+                },
+                {
+                    "x": 0.6877828054298643,
+                    "y": 279
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

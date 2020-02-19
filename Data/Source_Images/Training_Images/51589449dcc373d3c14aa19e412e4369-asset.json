@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "51589449dcc373d3c14aa19e412e4369",
+        "name": "continental-airlines-boeing-737-800.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/continental-airlines-boeing-737-800.jpg",
+        "size": {
+            "width": 1540,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZPxTkSu0y",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 382.05607476635515,
+                "width": 1477.2038834951456,
+                "left": 34.38834951456311,
+                "top": 236.32009345794393
+            },
+            "points": [
+                {
+                    "x": 34.38834951456311,
+                    "y": 236.32009345794393
+                },
+                {
+                    "x": 1511.5922330097087,
+                    "y": 236.32009345794393
+                },
+                {
+                    "x": 1511.5922330097087,
+                    "y": 618.376168224299
+                },
+                {
+                    "x": 34.38834951456311,
+                    "y": 618.376168224299
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

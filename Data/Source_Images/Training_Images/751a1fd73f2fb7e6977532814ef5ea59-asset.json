@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "751a1fd73f2fb7e6977532814ef5ea59",
+        "name": "benefits-of-industrial-tank-coatings-santa-fe-springs-ca_640_425_75.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/benefits-of-industrial-tank-coatings-santa-fe-springs-ca_640_425_75.jpg",
+        "size": {
+            "width": 640,
+            "height": 425
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "enVukvffd",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 124.54790744209808,
+                "width": 218.9321266968326,
+                "left": 100.19909502262445,
+                "top": 300.4520925579019
+            },
+            "points": [
+                {
+                    "x": 100.19909502262445,
+                    "y": 300.4520925579019
+                },
+                {
+                    "x": 319.131221719457,
+                    "y": 300.4520925579019
+                },
+                {
+                    "x": 319.131221719457,
+                    "y": 424.99999999999994
+                },
+                {
+                    "x": 100.19909502262445,
+                    "y": 424.99999999999994
+                }
+            ]
+        },
+        {
+            "id": "GhwY3VwuB",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 402.1875532186648,
+                "width": 320.57918552036205,
+                "left": 319.420814479638,
+                "top": 22.812446781335147
+            },
+            "points": [
+                {
+                    "x": 319.420814479638,
+                    "y": 22.812446781335147
+                },
+                {
+                    "x": 640.0000000000001,
+                    "y": 22.812446781335147
+                },
+                {
+                    "x": 640.0000000000001,
+                    "y": 424.99999999999994
+                },
+                {
+                    "x": 319.420814479638,
+                    "y": 424.99999999999994
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7bb4d1c81a423a5144777462fd306727",
+        "name": "pesticides-aircraft_456px.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/pesticides-aircraft_456px.jpg",
+        "size": {
+            "width": 456,
+            "height": 294
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bwJKoVKNl",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 100.28765060240964,
+                "width": 348.6407766990291,
+                "left": 91.86407766990291,
+                "top": 88.35358621987952
+            },
+            "points": [
+                {
+                    "x": 91.86407766990291,
+                    "y": 88.35358621987952
+                },
+                {
+                    "x": 440.50485436893206,
+                    "y": 88.35358621987952
+                },
+                {
+                    "x": 440.50485436893206,
+                    "y": 188.64123682228916
+                },
+                {
+                    "x": 91.86407766990291,
+                    "y": 188.64123682228916
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

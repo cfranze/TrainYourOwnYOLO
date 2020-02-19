@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "89ebe4f8e37092dc70dc725324c0fa78",
+        "name": "Difference-Between-Corrosion-and-Rusting-2_1.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Difference-Between-Corrosion-and-Rusting-2_1.jpeg",
+        "size": {
+            "width": 940,
+            "height": 625
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1o1TeDu8C",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 625,
+                "width": 939.574660633484,
+                "left": 0.42533936651583704,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.42533936651583704,
+                    "y": 0
+                },
+                {
+                    "x": 939.9999999999998,
+                    "y": 0
+                },
+                {
+                    "x": 939.9999999999998,
+                    "y": 625
+                },
+                {
+                    "x": 0.42533936651583704,
+                    "y": 625
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

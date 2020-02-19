@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d3287b183c1b2e41bc735727a5d12fe1",
+        "name": "1139153_before_and_after.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/1139153_before_and_after.jpg",
+        "size": {
+            "width": 520,
+            "height": 299
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Fn1FdMYBP",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 163.11382799325466,
+                "width": 161.3009708737864,
+                "left": 46.19417475728155,
+                "top": 98.88933389544688
+            },
+            "points": [
+                {
+                    "x": 46.19417475728155,
+                    "y": 98.88933389544688
+                },
+                {
+                    "x": 207.49514563106797,
+                    "y": 98.88933389544688
+                },
+                {
+                    "x": 207.49514563106797,
+                    "y": 262.0031618887015
+                },
+                {
+                    "x": 46.19417475728155,
+                    "y": 262.0031618887015
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

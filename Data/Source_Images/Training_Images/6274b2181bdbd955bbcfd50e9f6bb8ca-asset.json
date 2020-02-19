@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6274b2181bdbd955bbcfd50e9f6bb8ca",
+        "name": "2019-7-Innovate-Electric-Airplanes-02-WB.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2019-7-Innovate-Electric-Airplanes-02-WB.jpg",
+        "size": {
+            "width": 1200,
+            "height": 750
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6mib0iS2c",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 249.805900621118,
+                "width": 327.378640776699,
+                "left": 194.5631067961165,
+                "top": 74.38858695652173
+            },
+            "points": [
+                {
+                    "x": 194.5631067961165,
+                    "y": 74.38858695652173
+                },
+                {
+                    "x": 521.9417475728155,
+                    "y": 74.38858695652173
+                },
+                {
+                    "x": 521.9417475728155,
+                    "y": 324.19448757763973
+                },
+                {
+                    "x": 194.5631067961165,
+                    "y": 324.19448757763973
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

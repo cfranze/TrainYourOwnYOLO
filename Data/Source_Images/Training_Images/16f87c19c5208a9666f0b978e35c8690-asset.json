@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "16f87c19c5208a9666f0b978e35c8690",
+        "name": "amazon-prime-air.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/amazon-prime-air.jpg",
+        "size": {
+            "width": 3600,
+            "height": 2400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PYGO7Dtdr",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 801.7467248908297,
+                "width": 2831.0679611650485,
+                "left": 365.24271844660194,
+                "top": 860.5622270742358
+            },
+            "points": [
+                {
+                    "x": 365.24271844660194,
+                    "y": 860.5622270742358
+                },
+                {
+                    "x": 3196.3106796116504,
+                    "y": 860.5622270742358
+                },
+                {
+                    "x": 3196.3106796116504,
+                    "y": 1662.3089519650655
+                },
+                {
+                    "x": 365.24271844660194,
+                    "y": 1662.3089519650655
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

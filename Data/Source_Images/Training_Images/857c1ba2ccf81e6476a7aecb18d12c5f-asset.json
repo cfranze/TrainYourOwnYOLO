@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "857c1ba2ccf81e6476a7aecb18d12c5f",
+        "name": "Rust_and_dirt.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Rust_and_dirt.jpg",
+        "size": {
+            "width": 1904,
+            "height": 1504
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wwozqUZPJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 662.4146620847653,
+                "width": 1848,
+                "left": 26.70769230769231,
+                "top": 822.5134593356244
+            },
+            "points": [
+                {
+                    "x": 26.70769230769231,
+                    "y": 822.5134593356244
+                },
+                {
+                    "x": 1874.7076923076925,
+                    "y": 822.5134593356244
+                },
+                {
+                    "x": 1874.7076923076925,
+                    "y": 1484.9281214203895
+                },
+                {
+                    "x": 26.70769230769231,
+                    "y": 1484.9281214203895
+                }
+            ]
+        },
+        {
+            "id": "BApFFyTm-",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1451.454753722795,
+                "width": 583.2615384615385,
+                "left": 1309.5384615384617,
+                "top": 30.88917525773196
+            },
+            "points": [
+                {
+                    "x": 1309.5384615384617,
+                    "y": 30.88917525773196
+                },
+                {
+                    "x": 1892.8000000000002,
+                    "y": 30.88917525773196
+                },
+                {
+                    "x": 1892.8000000000002,
+                    "y": 1482.343928980527
+                },
+                {
+                    "x": 1309.5384615384617,
+                    "y": 1482.343928980527
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

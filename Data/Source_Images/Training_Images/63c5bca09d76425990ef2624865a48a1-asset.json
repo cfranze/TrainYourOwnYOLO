@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "63c5bca09d76425990ef2624865a48a1",
+        "name": "magnetohydrodynamic-galvanizing-modernizes-corrosion-prevention-for-steel-applications-1558377765.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/magnetohydrodynamic-galvanizing-modernizes-corrosion-prevention-for-steel-applications-1558377765.jpg",
+        "size": {
+            "width": 800,
+            "height": 578
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DCEUZWlpw",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 53.53191489361703,
+                "width": 240.36199095022624,
+                "left": 444.8868778280543,
+                "top": 313.73138297872345
+            },
+            "points": [
+                {
+                    "x": 444.8868778280543,
+                    "y": 313.73138297872345
+                },
+                {
+                    "x": 685.2488687782806,
+                    "y": 313.73138297872345
+                },
+                {
+                    "x": 685.2488687782806,
+                    "y": 367.26329787234044
+                },
+                {
+                    "x": 444.8868778280543,
+                    "y": 367.26329787234044
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

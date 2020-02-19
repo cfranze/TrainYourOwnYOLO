@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "34bfc056c748e01f29fe67e1fdca7c76",
+        "name": "image33_6.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/image33_6.jpeg",
+        "size": {
+            "width": 277,
+            "height": 182
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DIkapREEl",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 177.11157024793388,
+                "width": 271.35972850678735,
+                "left": 1.128054298642534,
+                "top": 1.7587379476584017
+            },
+            "points": [
+                {
+                    "x": 1.128054298642534,
+                    "y": 1.7587379476584017
+                },
+                {
+                    "x": 272.48778280542984,
+                    "y": 1.7587379476584017
+                },
+                {
+                    "x": 272.48778280542984,
+                    "y": 178.87030819559223
+                },
+                {
+                    "x": 1.128054298642534,
+                    "y": 178.87030819559223
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

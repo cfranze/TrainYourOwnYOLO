@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "f74453548e6d887d2396db8103d782ae",
+        "name": "1820_LM_F35_SIDE_MISSION_MARKS.jpg.pc-adaptive.full.medium.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1820_LM_F35_SIDE_MISSION_MARKS.jpg.pc-adaptive.full.medium.jpeg",
+        "size": {
+            "width": 1280,
+            "height": 750
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PFf0GUi48",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 366.9288079470199,
+                "width": 498.9514563106796,
+                "left": 336.7766990291262,
+                "top": 190.9244360513245
+            },
+            "points": [
+                {
+                    "x": 336.7766990291262,
+                    "y": 190.9244360513245
+                },
+                {
+                    "x": 835.7281553398058,
+                    "y": 190.9244360513245
+                },
+                {
+                    "x": 835.7281553398058,
+                    "y": 557.8532439983444
+                },
+                {
+                    "x": 336.7766990291262,
+                    "y": 557.8532439983444
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "87fb1505b491c9a861269c5872a6be9f",
+        "name": "airplane-travel-tip.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airplane-travel-tip.jpg",
+        "size": {
+            "width": 670,
+            "height": 405
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hnYQlXbl5",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 242.80497592295347,
+                "width": 602.0242718446602,
+                "left": 37.40291262135923,
+                "top": 84.38854333868379
+            },
+            "points": [
+                {
+                    "x": 37.40291262135923,
+                    "y": 84.38854333868379
+                },
+                {
+                    "x": 639.4271844660194,
+                    "y": 84.38854333868379
+                },
+                {
+                    "x": 639.4271844660194,
+                    "y": 327.1935192616373
+                },
+                {
+                    "x": 37.40291262135923,
+                    "y": 327.1935192616373
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5c4fd369b463b2391f798fea06504f3c",
+        "name": "300px-Cessna172-CatalinaTakeOffJPG.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/300px-Cessna172-CatalinaTakeOffJPG.jpg",
+        "size": {
+            "width": 300,
+            "height": 218
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Q1bsQB-qV",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 165.173564753004,
+                "width": 253.6893203883495,
+                "left": 22.28155339805825,
+                "top": 13.60226134846462
+            },
+            "points": [
+                {
+                    "x": 22.28155339805825,
+                    "y": 13.60226134846462
+                },
+                {
+                    "x": 275.97087378640776,
+                    "y": 13.60226134846462
+                },
+                {
+                    "x": 275.97087378640776,
+                    "y": 178.77582610146862
+                },
+                {
+                    "x": 22.28155339805825,
+                    "y": 178.77582610146862
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

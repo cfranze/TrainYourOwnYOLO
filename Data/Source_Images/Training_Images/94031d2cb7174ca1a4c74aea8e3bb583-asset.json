@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "94031d2cb7174ca1a4c74aea8e3bb583",
+        "name": "11.photoshop-crack-brushes.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/11.photoshop-crack-brushes.jpg",
+        "size": {
+            "width": 500,
+            "height": 297
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jpPV57G1-",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 296.88349895397494,
+                "width": 499.99999999999994,
+                "left": 0,
+                "top": 0.11650104602510461
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0.11650104602510461
+                },
+                {
+                    "x": 499.99999999999994,
+                    "y": 0.11650104602510461
+                },
+                {
+                    "x": 499.99999999999994,
+                    "y": 297
+                },
+                {
+                    "x": 0,
+                    "y": 297
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

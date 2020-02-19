@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2d63cdfdcdc118b9284d4ecb60116970",
+        "name": "image_z8m2p2_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/image_z8m2p2_1.jpg",
+        "size": {
+            "width": 1200,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "t-ribhL5_",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 646.7845659163987,
+                "width": 1184.7963800904977,
+                "left": 8.144796380090497,
+                "top": 12.242514067524114
+            },
+            "points": [
+                {
+                    "x": 8.144796380090497,
+                    "y": 12.242514067524114
+                },
+                {
+                    "x": 1192.941176470588,
+                    "y": 12.242514067524114
+                },
+                {
+                    "x": 1192.941176470588,
+                    "y": 659.0270799839228
+                },
+                {
+                    "x": 8.144796380090497,
+                    "y": 659.0270799839228
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

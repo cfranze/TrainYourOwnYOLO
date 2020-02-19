@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "c58ed2676bf67091bb0ea18391cbf1d0",
+        "name": "Figure-1---ADNOC.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Figure-1---ADNOC.png",
+        "size": {
+            "width": 420,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Dkr9XX0Yn",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 216.74355495251018,
+                "width": 280.31674208144796,
+                "left": 55.303167420814475,
+                "top": 26.72193012211669
+            },
+            "points": [
+                {
+                    "x": 55.303167420814475,
+                    "y": 26.72193012211669
+                },
+                {
+                    "x": 335.61990950226243,
+                    "y": 26.72193012211669
+                },
+                {
+                    "x": 335.61990950226243,
+                    "y": 243.46548507462686
+                },
+                {
+                    "x": 55.303167420814475,
+                    "y": 243.46548507462686
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "56a8ef7b64fcff6950eb5d019e49993d",
+        "name": "marine20corrosion20of20reinforced20concrete20structures_concrete20durability20course.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/marine20corrosion20of20reinforced20concrete20structures_concrete20durability20course.jpg",
+        "size": {
+            "width": 259,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "me6_sjc50",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 110.40723981900453,
+                "width": 63.280977312390924,
+                "left": 135.01236638307157,
+                "top": 119.68325791855203
+            },
+            "points": [
+                {
+                    "x": 135.01236638307157,
+                    "y": 119.68325791855203
+                },
+                {
+                    "x": 198.29334369546248,
+                    "y": 119.68325791855203
+                },
+                {
+                    "x": 198.29334369546248,
+                    "y": 230.09049773755657
+                },
+                {
+                    "x": 135.01236638307157,
+                    "y": 230.09049773755657
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

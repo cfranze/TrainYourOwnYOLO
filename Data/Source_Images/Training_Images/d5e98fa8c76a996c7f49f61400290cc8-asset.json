@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "d5e98fa8c76a996c7f49f61400290cc8",
+        "name": "Concrete-structure-deteriorated-by-the-corrosion-of-steel-reinforcement.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Concrete-structure-deteriorated-by-the-corrosion-of-steel-reinforcement.png",
+        "size": {
+            "width": 706,
+            "height": 527
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TaO59tLDV",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 453.67230169050714,
+                "width": 370.82135922330093,
+                "left": 74.36990291262136,
+                "top": 66.08380404746424
+            },
+            "points": [
+                {
+                    "x": 74.36990291262136,
+                    "y": 66.08380404746424
+                },
+                {
+                    "x": 445.19126213592233,
+                    "y": 66.08380404746424
+                },
+                {
+                    "x": 445.19126213592233,
+                    "y": 519.7561057379714
+                },
+                {
+                    "x": 74.36990291262136,
+                    "y": 519.7561057379714
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fee3412e88df436ee5219aa3cb152410",
+        "name": "300px-ANA_777-300_Taking_off_from_JFK.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/300px-ANA_777-300_Taking_off_from_JFK.jpg",
+        "size": {
+            "width": 300,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aebKXe-Hn",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 44.68704512372634,
+                "width": 160.92233009708738,
+                "left": 56.94174757281553,
+                "top": 96.02210698689956
+            },
+            "points": [
+                {
+                    "x": 56.94174757281553,
+                    "y": 96.02210698689956
+                },
+                {
+                    "x": 217.8640776699029,
+                    "y": 96.02210698689956
+                },
+                {
+                    "x": 217.8640776699029,
+                    "y": 140.7091521106259
+                },
+                {
+                    "x": 56.94174757281553,
+                    "y": 140.7091521106259
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

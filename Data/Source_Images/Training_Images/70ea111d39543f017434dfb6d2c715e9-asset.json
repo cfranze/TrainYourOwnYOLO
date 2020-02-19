@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "70ea111d39543f017434dfb6d2c715e9",
+        "name": "stainless-steel-corrosion-rust-Cougartron-768x451-1_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/stainless-steel-corrosion-rust-Cougartron-768x451-1_1.jpg",
+        "size": {
+            "width": 640,
+            "height": 347
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "D6pqXa23g",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 105.14273789649415,
+                "width": 382.8416289592761,
+                "left": 158.40723981900453,
+                "top": 223.06625626043407
+            },
+            "points": [
+                {
+                    "x": 158.40723981900453,
+                    "y": 223.06625626043407
+                },
+                {
+                    "x": 541.2488687782806,
+                    "y": 223.06625626043407
+                },
+                {
+                    "x": 541.2488687782806,
+                    "y": 328.2089941569282
+                },
+                {
+                    "x": 158.40723981900453,
+                    "y": 328.2089941569282
+                }
+            ]
+        },
+        {
+            "id": "CjVcsg4YY",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 158.4382303839733,
+                "width": 74.42533936651584,
+                "left": 472.03619909502265,
+                "top": 86.93103088480801
+            },
+            "points": [
+                {
+                    "x": 472.03619909502265,
+                    "y": 86.93103088480801
+                },
+                {
+                    "x": 546.4615384615386,
+                    "y": 86.93103088480801
+                },
+                {
+                    "x": 546.4615384615386,
+                    "y": 245.36926126878132
+                },
+                {
+                    "x": 472.03619909502265,
+                    "y": 245.36926126878132
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

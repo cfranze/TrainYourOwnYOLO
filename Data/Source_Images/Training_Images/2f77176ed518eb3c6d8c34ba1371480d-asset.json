@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2f77176ed518eb3c6d8c34ba1371480d",
+        "name": "Overcoming-Cable-Corrosion-On-Steel-Wire-Armoured-Braided-Cables.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Overcoming-Cable-Corrosion-On-Steel-Wire-Armoured-Braided-Cables.jpg",
+        "size": {
+            "width": 738,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oU4iVPmJ1",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 392.9883138564274,
+                "width": 724.9764705882352,
+                "left": 5.009049773755656,
+                "top": 1.643363939899833
+            },
+            "points": [
+                {
+                    "x": 5.009049773755656,
+                    "y": 1.643363939899833
+                },
+                {
+                    "x": 729.9855203619909,
+                    "y": 1.643363939899833
+                },
+                {
+                    "x": 729.9855203619909,
+                    "y": 394.6316777963272
+                },
+                {
+                    "x": 5.009049773755656,
+                    "y": 394.6316777963272
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

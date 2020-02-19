@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a6c1231ffe68212a2c0e281674ebadda",
+        "name": "55898015_scaled_618x396.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/55898015_scaled_618x396.jpg",
+        "size": {
+            "width": 618,
+            "height": 396
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7U-Cdw8kz",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 123.89999999999999,
+                "width": 193.79999999999998,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 193.79999999999998,
+                    "y": 0
+                },
+                {
+                    "x": 193.79999999999998,
+                    "y": 123.89999999999999
+                },
+                {
+                    "x": 0,
+                    "y": 123.89999999999999
+                }
+            ]
+        },
+        {
+            "id": "aoY8f9npF",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 60.9,
+                "width": 84.3,
+                "left": 165.6,
+                "top": 317.4
+            },
+            "points": [
+                {
+                    "x": 165.6,
+                    "y": 317.4
+                },
+                {
+                    "x": 249.89999999999998,
+                    "y": 317.4
+                },
+                {
+                    "x": 249.89999999999998,
+                    "y": 378.3
+                },
+                {
+                    "x": 165.6,
+                    "y": 378.3
+                }
+            ]
+        },
+        {
+            "id": "QUSbOUU67",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 264.9,
+                "width": 394.8,
+                "left": 223.2,
+                "top": 131.1
+            },
+            "points": [
+                {
+                    "x": 223.2,
+                    "y": 131.1
+                },
+                {
+                    "x": 618,
+                    "y": 131.1
+                },
+                {
+                    "x": 618,
+                    "y": 396
+                },
+                {
+                    "x": 223.2,
+                    "y": 396
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

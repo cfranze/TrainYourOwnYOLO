@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bda43ccc9b1e6419a9939eb048a335c4",
+        "name": "Mitsubishi-Aircraft-Corporation-introduces-SpaceJet-aircraft-family.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Mitsubishi-Aircraft-Corporation-introduces-SpaceJet-aircraft-family.jpg",
+        "size": {
+            "width": 1500,
+            "height": 1002
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7_JBGn4Cx",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 523.5741279069767,
+                "width": 1017.2330097087379,
+                "left": 230.82524271844662,
+                "top": 197.37570403343022
+            },
+            "points": [
+                {
+                    "x": 230.82524271844662,
+                    "y": 197.37570403343022
+                },
+                {
+                    "x": 1248.0582524271845,
+                    "y": 197.37570403343022
+                },
+                {
+                    "x": 1248.0582524271845,
+                    "y": 720.949831940407
+                },
+                {
+                    "x": 230.82524271844662,
+                    "y": 720.949831940407
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

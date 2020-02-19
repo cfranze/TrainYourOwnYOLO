@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d4f639b431f6dc5e563b266029d7ba9c",
+        "name": "Copper20Pipe20CNV00028.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Copper20Pipe20CNV00028.jpg",
+        "size": {
+            "width": 827,
+            "height": 723
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A0QOhdXpU",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 100.59841628959276,
+                "width": 139.06033630069237,
+                "left": 265.9209399727992,
+                "top": 82.19626696832579
+            },
+            "points": [
+                {
+                    "x": 265.9209399727992,
+                    "y": 82.19626696832579
+                },
+                {
+                    "x": 404.9812762734916,
+                    "y": 82.19626696832579
+                },
+                {
+                    "x": 404.9812762734916,
+                    "y": 182.79468325791854
+                },
+                {
+                    "x": 265.9209399727992,
+                    "y": 182.79468325791854
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

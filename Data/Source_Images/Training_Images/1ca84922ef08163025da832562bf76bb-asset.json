@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1ca84922ef08163025da832562bf76bb",
+        "name": "stainless-steel-rust-before-after-2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/stainless-steel-rust-before-after-2.jpg",
+        "size": {
+            "width": 795,
+            "height": 405
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IxCjXdcHF",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 113.29928952042629,
+                "width": 78.42081447963801,
+                "left": 240.65837104072398,
+                "top": 68.67645426287744
+            },
+            "points": [
+                {
+                    "x": 240.65837104072398,
+                    "y": 68.67645426287744
+                },
+                {
+                    "x": 319.079185520362,
+                    "y": 68.67645426287744
+                },
+                {
+                    "x": 319.079185520362,
+                    "y": 181.97574378330373
+                },
+                {
+                    "x": 240.65837104072398,
+                    "y": 181.97574378330373
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

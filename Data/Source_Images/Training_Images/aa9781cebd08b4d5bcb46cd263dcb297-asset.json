@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "aa9781cebd08b4d5bcb46cd263dcb297",
+        "name": "54caf2024d049_-_foundation-cracks-0812-mdn.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/54caf2024d049_-_foundation-cracks-0812-mdn.jpg",
+        "size": {
+            "width": 300,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7BxGSrpjc",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 225.84841628959276,
+                "width": 53.450226244343895,
+                "left": 109.95475113122173,
+                "top": 28.16742081447964
+            },
+            "points": [
+                {
+                    "x": 109.95475113122173,
+                    "y": 28.16742081447964
+                },
+                {
+                    "x": 163.4049773755656,
+                    "y": 28.16742081447964
+                },
+                {
+                    "x": 163.4049773755656,
+                    "y": 254.0158371040724
+                },
+                {
+                    "x": 109.95475113122173,
+                    "y": 254.0158371040724
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

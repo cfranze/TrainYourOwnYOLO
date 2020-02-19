@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ea8cfc3b3d77f735af65906dfdd41ef4",
+        "name": "85510292-old-rusty-iron-background-corrosion-of-metal-copy-space.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/85510292-old-rusty-iron-background-corrosion-of-metal-copy-space.jpg",
+        "size": {
+            "width": 1300,
+            "height": 866
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CHMdeJPVH",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 548.5087463556852,
+                "width": 1291.7961165048546,
+                "left": 5.048543689320389,
+                "top": 88.45610878279884
+            },
+            "points": [
+                {
+                    "x": 5.048543689320389,
+                    "y": 88.45610878279884
+                },
+                {
+                    "x": 1296.8446601941748,
+                    "y": 88.45610878279884
+                },
+                {
+                    "x": 1296.8446601941748,
+                    "y": 636.9648551384839
+                },
+                {
+                    "x": 5.048543689320389,
+                    "y": 636.9648551384839
+                }
+            ]
+        },
+        {
+            "id": "pZPPJn7ZA",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 863.3864568148688,
+                "width": 1298.73786407767,
+                "left": 1.2621359223300972,
+                "top": 2.613543185131195
+            },
+            "points": [
+                {
+                    "x": 1.2621359223300972,
+                    "y": 2.613543185131195
+                },
+                {
+                    "x": 1300,
+                    "y": 2.613543185131195
+                },
+                {
+                    "x": 1300,
+                    "y": 866
+                },
+                {
+                    "x": 1.2621359223300972,
+                    "y": 866
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

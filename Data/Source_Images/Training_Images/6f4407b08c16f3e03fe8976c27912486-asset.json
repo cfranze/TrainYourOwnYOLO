@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6f4407b08c16f3e03fe8976c27912486",
+        "name": "galvanic-corrosion_featured.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/galvanic-corrosion_featured.jpg",
+        "size": {
+            "width": 800,
+            "height": 435
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Vmx1jE8cV",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 357.13563331946756,
+                "width": 368.50678733031674,
+                "left": 202.35294117647058,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 202.35294117647058,
+                    "y": 0
+                },
+                {
+                    "x": 570.8597285067873,
+                    "y": 0
+                },
+                {
+                    "x": 570.8597285067873,
+                    "y": 357.13563331946756
+                },
+                {
+                    "x": 202.35294117647058,
+                    "y": 357.13563331946756
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "18b2cc0a82ac48df15b0661271de13fa",
+        "name": "Rivets-2-1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Rivets-2-1.jpg",
+        "size": {
+            "width": 3264,
+            "height": 2448
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4mwhM4Dg5",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 2202.9047044632084,
+                "width": 2553.6000000000004,
+                "left": 215.63076923076923,
+                "top": 63.11942098914354
+            },
+            "points": [
+                {
+                    "x": 215.63076923076923,
+                    "y": 63.11942098914354
+                },
+                {
+                    "x": 2769.2307692307695,
+                    "y": 63.11942098914354
+                },
+                {
+                    "x": 2769.2307692307695,
+                    "y": 2266.024125452352
+                },
+                {
+                    "x": 215.63076923076923,
+                    "y": 2266.024125452352
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

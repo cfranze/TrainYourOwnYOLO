@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "046b2c2f1d8f4f7e8caa1ea2adf5bbea",
+        "name": "corrosion_protection_for_circulating_water_systems.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion_protection_for_circulating_water_systems.jpg",
+        "size": {
+            "width": 698,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A_cZirtyV",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 393.0489731437599,
+                "width": 573.8760180995475,
+                "left": 124.12398190045248,
+                "top": 3.5545023696682465
+            },
+            "points": [
+                {
+                    "x": 124.12398190045248,
+                    "y": 3.5545023696682465
+                },
+                {
+                    "x": 698,
+                    "y": 3.5545023696682465
+                },
+                {
+                    "x": 698,
+                    "y": 396.6034755134281
+                },
+                {
+                    "x": 124.12398190045248,
+                    "y": 396.6034755134281
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

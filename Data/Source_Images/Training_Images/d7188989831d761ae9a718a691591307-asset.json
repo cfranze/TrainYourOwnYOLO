@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d7188989831d761ae9a718a691591307",
+        "name": "imgbin-corrosion-rust-iron-anode-material-iron-7WEsQf0PvEWeD0MpGTJMks7yy.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/imgbin-corrosion-rust-iron-anode-material-iron-7WEsQf0PvEWeD0MpGTJMks7yy.jpg",
+        "size": {
+            "width": 728,
+            "height": 596
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dF070Z-65",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 415.64932126696834,
+                "width": 596.5555555555555,
+                "left": 69.02413194444445,
+                "top": 27.642533936651585
+            },
+            "points": [
+                {
+                    "x": 69.02413194444445,
+                    "y": 27.642533936651585
+                },
+                {
+                    "x": 665.5796875,
+                    "y": 27.642533936651585
+                },
+                {
+                    "x": 665.5796875,
+                    "y": 443.29185520361995
+                },
+                {
+                    "x": 69.02413194444445,
+                    "y": 443.29185520361995
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2eff817589c285e1af5c7f58e5f8dcc4",
+        "name": "lp-boeing-dreamliner.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/lp-boeing-dreamliner.jpg",
+        "size": {
+            "width": 500,
+            "height": 281
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "77vtPAt_8",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 115.99136442141624,
+                "width": 493.4466019417476,
+                "left": 5.097087378640777,
+                "top": 99.94548791018998
+            },
+            "points": [
+                {
+                    "x": 5.097087378640777,
+                    "y": 99.94548791018998
+                },
+                {
+                    "x": 498.54368932038835,
+                    "y": 99.94548791018998
+                },
+                {
+                    "x": 498.54368932038835,
+                    "y": 215.93685233160622
+                },
+                {
+                    "x": 5.097087378640777,
+                    "y": 215.93685233160622
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

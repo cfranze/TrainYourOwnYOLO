@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "61ddd6b02941c8f4e9b73e96c16dd0d4",
+        "name": "depositphotos_204832602-stock-photo-steel-pipes-water-supply-rust.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/depositphotos_204832602-stock-photo-steel-pipes-water-supply-rust.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1TeCxk_W8",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 1067.4101610904584,
+                "width": 1285.0678733031673,
+                "left": 314.9321266968326,
+                "top": 1.1985749690210656
+            },
+            "points": [
+                {
+                    "x": 314.9321266968326,
+                    "y": 1.1985749690210656
+                },
+                {
+                    "x": 1600,
+                    "y": 1.1985749690210656
+                },
+                {
+                    "x": 1600,
+                    "y": 1068.6087360594795
+                },
+                {
+                    "x": 314.9321266968326,
+                    "y": 1068.6087360594795
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

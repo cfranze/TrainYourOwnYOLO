@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "f4b695ae273ba01dc38a415a70023739",
+        "name": "Dacta.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Dacta.jpeg",
+        "size": {
+            "width": 647,
+            "height": 363
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ByIwoCboY",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 200.65484429065742,
+                "width": 537.7009708737864,
+                "left": 58.10436893203884,
+                "top": 80.98122567041521
+            },
+            "points": [
+                {
+                    "x": 58.10436893203884,
+                    "y": 80.98122567041521
+                },
+                {
+                    "x": 595.8053398058253,
+                    "y": 80.98122567041521
+                },
+                {
+                    "x": 595.8053398058253,
+                    "y": 281.6360699610726
+                },
+                {
+                    "x": 58.10436893203884,
+                    "y": 281.6360699610726
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

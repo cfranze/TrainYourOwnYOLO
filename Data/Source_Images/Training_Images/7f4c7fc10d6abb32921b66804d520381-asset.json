@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7f4c7fc10d6abb32921b66804d520381",
+        "name": "Intergranular_corrosionJPG.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Intergranular_corrosionJPG.jpg",
+        "size": {
+            "width": 1348,
+            "height": 1052
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rB_x4K9sh",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 812.465816917729,
+                "width": 1225.3990950226246,
+                "left": 101.25248868778282,
+                "top": 111.7578577636153
+            },
+            "points": [
+                {
+                    "x": 101.25248868778282,
+                    "y": 111.7578577636153
+                },
+                {
+                    "x": 1326.6515837104073,
+                    "y": 111.7578577636153
+                },
+                {
+                    "x": 1326.6515837104073,
+                    "y": 924.2236746813442
+                },
+                {
+                    "x": 101.25248868778282,
+                    "y": 924.2236746813442
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7944c256705dd3e885d82e808c59a245",
+        "name": "PROD-Airplane-flying-above-clouds.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/PROD-Airplane-flying-above-clouds.jpg",
+        "size": {
+            "width": 615,
+            "height": 409
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oR80IljQn",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 192.25985401459855,
+                "width": 434.381067961165,
+                "left": 92.84708737864077,
+                "top": 89.56204379562044
+            },
+            "points": [
+                {
+                    "x": 92.84708737864077,
+                    "y": 89.56204379562044
+                },
+                {
+                    "x": 527.2281553398058,
+                    "y": 89.56204379562044
+                },
+                {
+                    "x": 527.2281553398058,
+                    "y": 281.82189781021896
+                },
+                {
+                    "x": 92.84708737864077,
+                    "y": 281.82189781021896
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

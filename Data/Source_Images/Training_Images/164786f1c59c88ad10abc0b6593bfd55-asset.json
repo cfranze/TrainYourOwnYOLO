@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "164786f1c59c88ad10abc0b6593bfd55",
+        "name": "0702050011-01-Plastic-State-Cracsk-in-Concrete-46050592_xxl.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/0702050011-01-Plastic-State-Cracsk-in-Concrete-46050592_xxl.jpg",
+        "size": {
+            "width": 991,
+            "height": 768
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hWJxu0N6H",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 757.9813302217036,
+                "width": 928.6701357466063,
+                "left": 29.147058823529413,
+                "top": 10.018669778296383
+            },
+            "points": [
+                {
+                    "x": 29.147058823529413,
+                    "y": 10.018669778296383
+                },
+                {
+                    "x": 957.8171945701358,
+                    "y": 10.018669778296383
+                },
+                {
+                    "x": 957.8171945701358,
+                    "y": 768
+                },
+                {
+                    "x": 29.147058823529413,
+                    "y": 768
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

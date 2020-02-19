@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0946d837aa7a25a7f116240eb4cf5869",
+        "name": "Transpo_Flyingcars_TA_API1021-2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Transpo_Flyingcars_TA_API1021-2.jpg",
+        "size": {
+            "width": 2000,
+            "height": 1500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mTXyEkczj",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 512.2897800776196,
+                "width": 1926.2135922330096,
+                "left": 35.92233009708738,
+                "top": 647.6390685640363
+            },
+            "points": [
+                {
+                    "x": 35.92233009708738,
+                    "y": 647.6390685640363
+                },
+                {
+                    "x": 1962.1359223300972,
+                    "y": 647.6390685640363
+                },
+                {
+                    "x": 1962.1359223300972,
+                    "y": 1159.928848641656
+                },
+                {
+                    "x": 35.92233009708738,
+                    "y": 1159.928848641656
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

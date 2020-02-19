@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "77567d4b65717c0ce4901186314abca4",
+        "name": "102258022-large-white-industrial-tanks-for-petrol-and-oil-stock-fuel-tanks-at-the-tank-farm-big-industrial-oil.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/102258022-large-white-industrial-tanks-for-petrol-and-oil-stock-fuel-tanks-at-the-tank-farm-big-industrial-oil.jpg",
+        "size": {
+            "width": 1300,
+            "height": 731
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "c-RkAK7yB",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 351.39710610932474,
+                "width": 332.94117647058823,
+                "left": 212.94117647058823,
+                "top": 261.11471312299034
+            },
+            "points": [
+                {
+                    "x": 212.94117647058823,
+                    "y": 261.11471312299034
+                },
+                {
+                    "x": 545.8823529411765,
+                    "y": 261.11471312299034
+                },
+                {
+                    "x": 545.8823529411765,
+                    "y": 612.511819232315
+                },
+                {
+                    "x": 212.94117647058823,
+                    "y": 612.511819232315
+                }
+            ]
+        },
+        {
+            "id": "5MZKtnlHw",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 603.4863344051447,
+                "width": 697.6470588235294,
+                "left": 497.64705882352945,
+                "top": 3.1492790393890675
+            },
+            "points": [
+                {
+                    "x": 497.64705882352945,
+                    "y": 3.1492790393890675
+                },
+                {
+                    "x": 1195.2941176470588,
+                    "y": 3.1492790393890675
+                },
+                {
+                    "x": 1195.2941176470588,
+                    "y": 606.6356134445338
+                },
+                {
+                    "x": 497.64705882352945,
+                    "y": 606.6356134445338
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

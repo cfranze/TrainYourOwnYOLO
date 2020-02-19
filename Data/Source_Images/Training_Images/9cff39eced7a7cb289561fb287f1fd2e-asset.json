@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9cff39eced7a7cb289561fb287f1fd2e",
+        "name": "photoofcorrodinggalvanizedsteelpole.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/photoofcorrodinggalvanizedsteelpole.jpg",
+        "size": {
+            "width": 1540,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yB2ZIUIG2",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 718.4668989547039,
+                "width": 587.4298642533936,
+                "left": 789.5113122171946,
+                "top": 69.01132404181185
+            },
+            "points": [
+                {
+                    "x": 789.5113122171946,
+                    "y": 69.01132404181185
+                },
+                {
+                    "x": 1376.941176470588,
+                    "y": 69.01132404181185
+                },
+                {
+                    "x": 1376.941176470588,
+                    "y": 787.4782229965157
+                },
+                {
+                    "x": 789.5113122171946,
+                    "y": 787.4782229965157
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

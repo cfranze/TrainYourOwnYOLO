@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "68a5aad622a69eb00426ba51eca023f4",
+        "name": "Spray20nozzle.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Spray20nozzle.jpg",
+        "size": {
+            "width": 606,
+            "height": 455
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GC9p_agPc",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 176.79216867469881,
+                "width": 165.89592760180997,
+                "left": 139.0235294117647,
+                "top": 138.87692959337352
+            },
+            "points": [
+                {
+                    "x": 139.0235294117647,
+                    "y": 138.87692959337352
+                },
+                {
+                    "x": 304.9194570135747,
+                    "y": 138.87692959337352
+                },
+                {
+                    "x": 304.9194570135747,
+                    "y": 315.66909826807233
+                },
+                {
+                    "x": 139.0235294117647,
+                    "y": 315.66909826807233
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

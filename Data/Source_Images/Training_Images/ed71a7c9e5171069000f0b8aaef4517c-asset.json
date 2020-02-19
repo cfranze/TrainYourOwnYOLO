@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ed71a7c9e5171069000f0b8aaef4517c",
+        "name": "corrosion-of-aluminium-water-container-AD6GF8.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-of-aluminium-water-container-AD6GF8.jpg",
+        "size": {
+            "width": 1300,
+            "height": 957
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "iNYnMp1ui",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 680.5052770448549,
+                "width": 1296.2135922330099,
+                "left": 1.8932038834951457,
+                "top": 188.2752308707124
+            },
+            "points": [
+                {
+                    "x": 1.8932038834951457,
+                    "y": 188.2752308707124
+                },
+                {
+                    "x": 1298.106796116505,
+                    "y": 188.2752308707124
+                },
+                {
+                    "x": 1298.106796116505,
+                    "y": 868.7805079155672
+                },
+                {
+                    "x": 1.8932038834951457,
+                    "y": 868.7805079155672
+                }
+            ]
+        },
+        {
+            "id": "OOXiUAN0F",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 128.14709762532982,
+                "width": 127.47572815533982,
+                "left": 1081.0194174757282,
+                "top": 81.59119393139842
+            },
+            "points": [
+                {
+                    "x": 1081.0194174757282,
+                    "y": 81.59119393139842
+                },
+                {
+                    "x": 1208.495145631068,
+                    "y": 81.59119393139842
+                },
+                {
+                    "x": 1208.495145631068,
+                    "y": 209.73829155672823
+                },
+                {
+                    "x": 1081.0194174757282,
+                    "y": 209.73829155672823
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

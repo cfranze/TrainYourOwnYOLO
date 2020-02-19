@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5de434b9e9591dfa9e5f80ec2e3aa2fd",
+        "name": "25969281-abstract-spots-of-corrosion-on-an-aluminum-surface.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/25969281-abstract-spots-of-corrosion-on-an-aluminum-surface.jpg",
+        "size": {
+            "width": 1300,
+            "height": 866
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xePC_7IKr",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 865.2800428206997,
+                "width": 1298.73786407767,
+                "left": 1.2621359223300972,
+                "top": 0.7199571793002916
+            },
+            "points": [
+                {
+                    "x": 1.2621359223300972,
+                    "y": 0.7199571793002916
+                },
+                {
+                    "x": 1300,
+                    "y": 0.7199571793002916
+                },
+                {
+                    "x": 1300,
+                    "y": 866
+                },
+                {
+                    "x": 1.2621359223300972,
+                    "y": 866
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

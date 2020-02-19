@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7a26329ad1743b8847e4f503bc0de823",
+        "name": "P-51_Mustang_edit1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/P-51_Mustang_edit1.jpg",
+        "size": {
+            "width": 2658,
+            "height": 1614
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "z0SSO9lPN",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 913.9984025559105,
+                "width": 2321.2339805825245,
+                "left": 197.41456310679612,
+                "top": 337.0489966054313
+            },
+            "points": [
+                {
+                    "x": 197.41456310679612,
+                    "y": 337.0489966054313
+                },
+                {
+                    "x": 2518.6485436893204,
+                    "y": 337.0489966054313
+                },
+                {
+                    "x": 2518.6485436893204,
+                    "y": 1251.0473991613417
+                },
+                {
+                    "x": 197.41456310679612,
+                    "y": 1251.0473991613417
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fd46de98317d39efa4f81f57867c8e50",
+        "name": "rusty-riveted-bar-grating.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rusty-riveted-bar-grating.jpg",
+        "size": {
+            "width": 400,
+            "height": 232
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aUUGnO0YD",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 223.85647425897037,
+                "width": 393.6651583710407,
+                "left": 1.990950226244344,
+                "top": 3.9643135725429017
+            },
+            "points": [
+                {
+                    "x": 1.990950226244344,
+                    "y": 3.9643135725429017
+                },
+                {
+                    "x": 395.6561085972851,
+                    "y": 3.9643135725429017
+                },
+                {
+                    "x": 395.6561085972851,
+                    "y": 227.82078783151326
+                },
+                {
+                    "x": 1.990950226244344,
+                    "y": 227.82078783151326
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1bbe8def825422b0b1267402d31a8cee",
+        "name": "accelerated-low-water-corrosion-image-1080x600.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/accelerated-low-water-corrosion-image-1080x600.jpg",
+        "size": {
+            "width": 1080,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YCVkGLmFU",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 597.2546984265734,
+                "width": 546.2912621359224,
+                "left": 0,
+                "top": 2.7453015734265733
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 2.7453015734265733
+                },
+                {
+                    "x": 546.2912621359224,
+                    "y": 2.7453015734265733
+                },
+                {
+                    "x": 546.2912621359224,
+                    "y": 600
+                },
+                {
+                    "x": 0,
+                    "y": 600
+                }
+            ]
+        },
+        {
+            "id": "CiJTshJAq",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 532.2197333916084,
+                "width": 404.2135922330097,
+                "left": 554.1553398058252,
+                "top": 67.78026660839161
+            },
+            "points": [
+                {
+                    "x": 554.1553398058252,
+                    "y": 67.78026660839161
+                },
+                {
+                    "x": 958.3689320388349,
+                    "y": 67.78026660839161
+                },
+                {
+                    "x": 958.3689320388349,
+                    "y": 600
+                },
+                {
+                    "x": 554.1553398058252,
+                    "y": 600
+                }
+            ]
+        },
+        {
+            "id": "2VA74Cfme",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 499.17777534965035,
+                "width": 88.60194174757281,
+                "left": 955.2233009708738,
+                "top": 100.82222465034965
+            },
+            "points": [
+                {
+                    "x": 955.2233009708738,
+                    "y": 100.82222465034965
+                },
+                {
+                    "x": 1043.8252427184466,
+                    "y": 100.82222465034965
+                },
+                {
+                    "x": 1043.8252427184466,
+                    "y": 600
+                },
+                {
+                    "x": 955.2233009708738,
+                    "y": 600
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

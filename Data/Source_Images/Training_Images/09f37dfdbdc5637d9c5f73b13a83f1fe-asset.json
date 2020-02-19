@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "09f37dfdbdc5637d9c5f73b13a83f1fe",
+        "name": "_106012837_canada.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/_106012837_canada.jpg",
+        "size": {
+            "width": 660,
+            "height": 371
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KZYMV3FYI",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 199.27633851468048,
+                "width": 592.3980582524272,
+                "left": 33,
+                "top": 72.72625215889464
+            },
+            "points": [
+                {
+                    "x": 33,
+                    "y": 72.72625215889464
+                },
+                {
+                    "x": 625.3980582524272,
+                    "y": 72.72625215889464
+                },
+                {
+                    "x": 625.3980582524272,
+                    "y": 272.0025906735751
+                },
+                {
+                    "x": 33,
+                    "y": 272.0025906735751
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

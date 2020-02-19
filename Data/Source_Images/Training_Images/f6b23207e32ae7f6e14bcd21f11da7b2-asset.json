@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f6b23207e32ae7f6e14bcd21f11da7b2",
+        "name": "plane-parked.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/plane-parked.jpg",
+        "size": {
+            "width": 2048,
+            "height": 1536
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "QQKNqCKAk",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 1196.2121604139716,
+                "width": 1985.366990291262,
+                "left": 62.63300970873786,
+                "top": 23.34799482535576
+            },
+            "points": [
+                {
+                    "x": 62.63300970873786,
+                    "y": 23.34799482535576
+                },
+                {
+                    "x": 2048,
+                    "y": 23.34799482535576
+                },
+                {
+                    "x": 2048,
+                    "y": 1219.5601552393273
+                },
+                {
+                    "x": 62.63300970873786,
+                    "y": 1219.5601552393273
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

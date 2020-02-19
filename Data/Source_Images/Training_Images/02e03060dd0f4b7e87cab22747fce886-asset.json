@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "02e03060dd0f4b7e87cab22747fce886",
+        "name": "Tubo-corroso.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Tubo-corroso.jpg",
+        "size": {
+            "width": 1000,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "M2GZONzi7",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 722.2850678733032,
+                "width": 773.1900452488687,
+                "left": 162.89592760180994,
+                "top": 261.8778280542986
+            },
+            "points": [
+                {
+                    "x": 162.89592760180994,
+                    "y": 261.8778280542986
+                },
+                {
+                    "x": 936.0859728506787,
+                    "y": 261.8778280542986
+                },
+                {
+                    "x": 936.0859728506787,
+                    "y": 984.1628959276018
+                },
+                {
+                    "x": 162.89592760180994,
+                    "y": 984.1628959276018
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

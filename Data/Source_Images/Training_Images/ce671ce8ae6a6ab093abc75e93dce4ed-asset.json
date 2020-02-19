@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ce671ce8ae6a6ab093abc75e93dce4ed",
+        "name": "275px-Betonrot_HippodroomJPG.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/275px-Betonrot_HippodroomJPG.jpg",
+        "size": {
+            "width": 275,
+            "height": 215
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "u44tj6B9a",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 136.7090570719603,
+                "width": 221.73543689320388,
+                "left": 0.9344660194174756,
+                "top": 72.86009227667495
+            },
+            "points": [
+                {
+                    "x": 0.9344660194174756,
+                    "y": 72.86009227667495
+                },
+                {
+                    "x": 222.66990291262135,
+                    "y": 72.86009227667495
+                },
+                {
+                    "x": 222.66990291262135,
+                    "y": 209.56914934863525
+                },
+                {
+                    "x": 0.9344660194174756,
+                    "y": 209.56914934863525
+                }
+            ]
+        },
+        {
+            "id": "33lEWeTv3",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 213.89549084987596,
+                "width": 273.79854368932035,
+                "left": 0,
+                "top": 1.1045091501240696
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1.1045091501240696
+                },
+                {
+                    "x": 273.79854368932035,
+                    "y": 1.1045091501240696
+                },
+                {
+                    "x": 273.79854368932035,
+                    "y": 215.00000000000003
+                },
+                {
+                    "x": 0,
+                    "y": 215.00000000000003
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

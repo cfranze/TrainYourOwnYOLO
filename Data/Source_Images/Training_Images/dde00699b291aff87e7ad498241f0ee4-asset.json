@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dde00699b291aff87e7ad498241f0ee4",
+        "name": "CorrWebsite_corr-sphere.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/CorrWebsite_corr-sphere.jpg",
+        "size": {
+            "width": 375,
+            "height": 375
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_iB61PP1H",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 373.51527149321265,
+                "width": 373.0910633484163,
+                "left": 1.0605203619909502,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 1.0605203619909502,
+                    "y": 0
+                },
+                {
+                    "x": 374.15158371040724,
+                    "y": 0
+                },
+                {
+                    "x": 374.15158371040724,
+                    "y": 373.51527149321265
+                },
+                {
+                    "x": 1.0605203619909502,
+                    "y": 373.51527149321265
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

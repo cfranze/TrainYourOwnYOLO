@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f1cac277e9b35ef4aa2506fe2b9475cc",
+        "name": "Arrivee-Slider-v2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Arrivee-Slider-v2.jpg",
+        "size": {
+            "width": 1920,
+            "height": 732
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PNls6U-HR",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 517.8015267175573,
+                "width": 1085.8252427184466,
+                "left": 767.0679611650486,
+                "top": 90.04484732824427
+            },
+            "points": [
+                {
+                    "x": 767.0679611650486,
+                    "y": 90.04484732824427
+                },
+                {
+                    "x": 1852.8932038834953,
+                    "y": 90.04484732824427
+                },
+                {
+                    "x": 1852.8932038834953,
+                    "y": 607.8463740458016
+                },
+                {
+                    "x": 767.0679611650486,
+                    "y": 607.8463740458016
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

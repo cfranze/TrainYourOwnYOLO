@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4efe721cd953a3f8482f1bd8eb6bd6d7",
+        "name": "air-france-airplane-AIRFRANCECO0719.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/air-france-airplane-AIRFRANCECO0719.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "G5b-0pwqF",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 419.2546583850932,
+                "width": 1060.1941747572816,
+                "left": 198.05825242718447,
+                "top": 362.38354037267084
+            },
+            "points": [
+                {
+                    "x": 198.05825242718447,
+                    "y": 362.38354037267084
+                },
+                {
+                    "x": 1258.252427184466,
+                    "y": 362.38354037267084
+                },
+                {
+                    "x": 1258.252427184466,
+                    "y": 781.638198757764
+                },
+                {
+                    "x": 198.05825242718447,
+                    "y": 781.638198757764
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

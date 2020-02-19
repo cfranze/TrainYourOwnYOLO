@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8cf3cbccff5777eae4db041385746a8c",
+        "name": "image1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/image1.jpg",
+        "size": {
+            "width": 154,
+            "height": 159
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VyNr29TGV",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 158.91006787330318,
+                "width": 153.7118684287383,
+                "left": 0.2881315712616822,
+                "top": 0.08993212669683258
+            },
+            "points": [
+                {
+                    "x": 0.2881315712616822,
+                    "y": 0.08993212669683258
+                },
+                {
+                    "x": 154,
+                    "y": 0.08993212669683258
+                },
+                {
+                    "x": 154,
+                    "y": 159
+                },
+                {
+                    "x": 0.2881315712616822,
+                    "y": 159
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

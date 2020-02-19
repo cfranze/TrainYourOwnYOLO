@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6de8f3363170da06c205d00bd9039282",
+        "name": "industrial-water-corrosion-1-638.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/industrial-water-corrosion-1-638.jpg",
+        "size": {
+            "width": 638,
+            "height": 359
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3u1V4VCUP",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 183.2516077170418,
+                "width": 271.9438914027149,
+                "left": 181.0072398190045,
+                "top": 16.67481410771704
+            },
+            "points": [
+                {
+                    "x": 181.0072398190045,
+                    "y": 16.67481410771704
+                },
+                {
+                    "x": 452.95113122171944,
+                    "y": 16.67481410771704
+                },
+                {
+                    "x": 452.95113122171944,
+                    "y": 199.92642182475885
+                },
+                {
+                    "x": 181.0072398190045,
+                    "y": 199.92642182475885
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

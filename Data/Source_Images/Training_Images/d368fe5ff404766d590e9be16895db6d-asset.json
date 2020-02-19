@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d368fe5ff404766d590e9be16895db6d",
+        "name": "rusty-flange-adobestock100527492-1000px.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rusty-flange-adobestock100527492-1000px.jpg",
+        "size": {
+            "width": 1000,
+            "height": 721
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IDyTS1qcd",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 679.3864491844415,
+                "width": 671.0407239819004,
+                "left": 177.37556561085972,
+                "top": 16.1563480238394
+            },
+            "points": [
+                {
+                    "x": 177.37556561085972,
+                    "y": 16.1563480238394
+                },
+                {
+                    "x": 848.4162895927601,
+                    "y": 16.1563480238394
+                },
+                {
+                    "x": 848.4162895927601,
+                    "y": 695.5427972082811
+                },
+                {
+                    "x": 177.37556561085972,
+                    "y": 695.5427972082811
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

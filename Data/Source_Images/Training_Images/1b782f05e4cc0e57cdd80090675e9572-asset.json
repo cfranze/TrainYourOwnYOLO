@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1b782f05e4cc0e57cdd80090675e9572",
+        "name": "-soil-close-fauna-cracked-background-geology-turquoise-copper-auburn-cracks-oxide-mining-rau-uneven-fund-ocher-oxidation-rauh-copper-oxide-1337279.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/-soil-close-fauna-cracked-background-geology-turquoise-copper-auburn-cracks-oxide-mining-rau-uneven-fund-ocher-oxidation-rauh-copper-oxide-1337279.jpg",
+        "size": {
+            "width": 3648,
+            "height": 2736
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "algrDduHl",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 562.7117008443909,
+                "width": 815.435294117647,
+                "left": 57.77375565610859,
+                "top": 1385.739445114596
+            },
+            "points": [
+                {
+                    "x": 57.77375565610859,
+                    "y": 1385.739445114596
+                },
+                {
+                    "x": 873.2090497737556,
+                    "y": 1385.739445114596
+                },
+                {
+                    "x": 873.2090497737556,
+                    "y": 1948.4511459589867
+                },
+                {
+                    "x": 57.77375565610859,
+                    "y": 1948.4511459589867
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

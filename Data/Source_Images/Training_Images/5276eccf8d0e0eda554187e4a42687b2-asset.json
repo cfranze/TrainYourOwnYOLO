@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "5276eccf8d0e0eda554187e4a42687b2",
+        "name": "passivering-aluminium-test-1.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/passivering-aluminium-test-1.png",
+        "size": {
+            "width": 442,
+            "height": 336
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tS2Fmr57o",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 97.2,
+                "width": 316.20000000000005,
+                "left": 31.8,
+                "top": 138.6
+            },
+            "points": [
+                {
+                    "x": 31.8,
+                    "y": 138.6
+                },
+                {
+                    "x": 348,
+                    "y": 138.6
+                },
+                {
+                    "x": 348,
+                    "y": 235.8
+                },
+                {
+                    "x": 31.8,
+                    "y": 235.8
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

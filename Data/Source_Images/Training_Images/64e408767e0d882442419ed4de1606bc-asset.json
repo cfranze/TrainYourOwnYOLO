@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "64e408767e0d882442419ed4de1606bc",
+        "name": "csm_Industrie_KontainerDrausen_01_f780ee8114.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/csm_Industrie_KontainerDrausen_01_f780ee8114.jpg",
+        "size": {
+            "width": 619,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jQC4F7lr1",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 248.7556561085973,
+                "width": 154.07127192982455,
+                "left": 0.6787280701754386,
+                "top": 207.01357466063348
+            },
+            "points": [
+                {
+                    "x": 0.6787280701754386,
+                    "y": 207.01357466063348
+                },
+                {
+                    "x": 154.75,
+                    "y": 207.01357466063348
+                },
+                {
+                    "x": 154.75,
+                    "y": 455.7692307692308
+                },
+                {
+                    "x": 0.6787280701754386,
+                    "y": 455.7692307692308
+                }
+            ]
+        },
+        {
+            "id": "ELJIC6rmg",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 271.49321266968326,
+                "width": 245.69956140350877,
+                "left": 144.90844298245614,
+                "top": 185.29411764705884
+            },
+            "points": [
+                {
+                    "x": 144.90844298245614,
+                    "y": 185.29411764705884
+                },
+                {
+                    "x": 390.6080043859649,
+                    "y": 185.29411764705884
+                },
+                {
+                    "x": 390.6080043859649,
+                    "y": 456.7873303167421
+                },
+                {
+                    "x": 144.90844298245614,
+                    "y": 456.7873303167421
+                }
+            ]
+        },
+        {
+            "id": "7JGdTs6q5",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 311.8778280542987,
+                "width": 220.58662280701753,
+                "left": 398.41337719298247,
+                "top": 159.50226244343892
+            },
+            "points": [
+                {
+                    "x": 398.41337719298247,
+                    "y": 159.50226244343892
+                },
+                {
+                    "x": 619,
+                    "y": 159.50226244343892
+                },
+                {
+                    "x": 619,
+                    "y": 471.38009049773757
+                },
+                {
+                    "x": 398.41337719298247,
+                    "y": 471.38009049773757
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

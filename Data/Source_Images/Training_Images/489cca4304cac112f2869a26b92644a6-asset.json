@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "489cca4304cac112f2869a26b92644a6",
+        "name": "330px-Steel-with-Hydrogen-Induced-Cracks-01.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/330px-Steel-with-Hydrogen-Induced-Cracks-01.jpg",
+        "size": {
+            "width": 330,
+            "height": 134
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "w3i4vl9OQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 11.639198218262807,
+                "width": 272.5113122171946,
+                "left": 31.805429864253394,
+                "top": 69.19400751670379
+            },
+            "points": [
+                {
+                    "x": 31.805429864253394,
+                    "y": 69.19400751670379
+                },
+                {
+                    "x": 304.31674208144796,
+                    "y": 69.19400751670379
+                },
+                {
+                    "x": 304.31674208144796,
+                    "y": 80.8332057349666
+                },
+                {
+                    "x": 31.805429864253394,
+                    "y": 80.8332057349666
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

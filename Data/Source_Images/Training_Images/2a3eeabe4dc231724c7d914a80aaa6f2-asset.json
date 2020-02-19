@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2a3eeabe4dc231724c7d914a80aaa6f2",
+        "name": "What-Are-the-Dangers-of-Corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/What-Are-the-Dangers-of-Corrosion.jpg",
+        "size": {
+            "width": 500,
+            "height": 333
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vXkZpGtoo",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 210.38722826086956,
+                "width": 332.80542986425337,
+                "left": 1.1312217194570136,
+                "top": 0.6645295516304348
+            },
+            "points": [
+                {
+                    "x": 1.1312217194570136,
+                    "y": 0.6645295516304348
+                },
+                {
+                    "x": 333.9366515837104,
+                    "y": 0.6645295516304348
+                },
+                {
+                    "x": 333.9366515837104,
+                    "y": 211.0517578125
+                },
+                {
+                    "x": 1.1312217194570136,
+                    "y": 211.0517578125
+                }
+            ]
+        },
+        {
+            "id": "rH3-CQgcA",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 93.88247282608695,
+                "width": 496.8325791855204,
+                "left": 2.7149321266968327,
+                "top": 209.46819802989128
+            },
+            "points": [
+                {
+                    "x": 2.7149321266968327,
+                    "y": 209.46819802989128
+                },
+                {
+                    "x": 499.5475113122172,
+                    "y": 209.46819802989128
+                },
+                {
+                    "x": 499.5475113122172,
+                    "y": 303.35067085597825
+                },
+                {
+                    "x": 2.7149321266968327,
+                    "y": 303.35067085597825
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

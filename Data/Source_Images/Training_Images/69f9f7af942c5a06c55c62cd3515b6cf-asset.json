@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "69f9f7af942c5a06c55c62cd3515b6cf",
+        "name": "Staalehurst.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Staalehurst.jpg",
+        "size": {
+            "width": 760,
+            "height": 397
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fxmzloN7j",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 282.0970537261698,
+                "width": 689.158371040724,
+                "left": 50.89592760180995,
+                "top": 3.515462521663778
+            },
+            "points": [
+                {
+                    "x": 50.89592760180995,
+                    "y": 3.515462521663778
+                },
+                {
+                    "x": 740.0542986425339,
+                    "y": 3.515462521663778
+                },
+                {
+                    "x": 740.0542986425339,
+                    "y": 285.6125162478336
+                },
+                {
+                    "x": 50.89592760180995,
+                    "y": 285.6125162478336
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

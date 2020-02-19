@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a91a43ce845b45c8c56fea69a3bb2191",
+        "name": "0709_sweeps_rv_10.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/0709_sweeps_rv_10.jpg",
+        "size": {
+            "width": 3200,
+            "height": 1800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BE1HyRKGW",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 861.2068965517242,
+                "width": 2918.8349514563106,
+                "left": 133.59223300970874,
+                "top": 447.4784482758621
+            },
+            "points": [
+                {
+                    "x": 133.59223300970874,
+                    "y": 447.4784482758621
+                },
+                {
+                    "x": 3052.4271844660193,
+                    "y": 447.4784482758621
+                },
+                {
+                    "x": 3052.4271844660193,
+                    "y": 1308.6853448275863
+                },
+                {
+                    "x": 133.59223300970874,
+                    "y": 1308.6853448275863
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

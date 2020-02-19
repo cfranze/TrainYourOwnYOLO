@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "aa6828176911ac47f3a1a9d031c2447a",
+        "name": "Can-the-airplane-wings-break-off-in-strong-turbulence-780x405.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Can-the-airplane-wings-break-off-in-strong-turbulence-780x405.jpg",
+        "size": {
+            "width": 780,
+            "height": 405
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "00Q8v89o8",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 405,
+                "width": 775.4563106796116,
+                "left": 4.543689320388349,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 4.543689320388349,
+                    "y": 0
+                },
+                {
+                    "x": 780,
+                    "y": 0
+                },
+                {
+                    "x": 780,
+                    "y": 405
+                },
+                {
+                    "x": 4.543689320388349,
+                    "y": 405
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

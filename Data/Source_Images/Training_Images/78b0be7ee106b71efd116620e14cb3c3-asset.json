@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "78b0be7ee106b71efd116620e14cb3c3",
+        "name": "copper-corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/copper-corrosion.jpg",
+        "size": {
+            "width": 900,
+            "height": 453
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ng7QdMlC3",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 105.61271676300578,
+                "width": 269.5631067961165,
+                "left": 372.2330097087378,
+                "top": 255.49440028901734
+            },
+            "points": [
+                {
+                    "x": 372.2330097087378,
+                    "y": 255.49440028901734
+                },
+                {
+                    "x": 641.7961165048544,
+                    "y": 255.49440028901734
+                },
+                {
+                    "x": 641.7961165048544,
+                    "y": 361.1071170520231
+                },
+                {
+                    "x": 372.2330097087378,
+                    "y": 361.1071170520231
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

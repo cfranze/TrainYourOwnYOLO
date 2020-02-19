@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4e20989a22a936b03045b1df23c6a9fa",
+        "name": "a321xlr-01750xx3500-1967-0-510.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/a321xlr-01750xx3500-1967-0-510.jpg",
+        "size": {
+            "width": 750,
+            "height": 421
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VwhSzhKgb",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 199.9385813148789,
+                "width": 628.0339805825242,
+                "left": 61.89320388349515,
+                "top": 48.86932309688581
+            },
+            "points": [
+                {
+                    "x": 61.89320388349515,
+                    "y": 48.86932309688581
+                },
+                {
+                    "x": 689.9271844660194,
+                    "y": 48.86932309688581
+                },
+                {
+                    "x": 689.9271844660194,
+                    "y": 248.8079044117647
+                },
+                {
+                    "x": 61.89320388349515,
+                    "y": 248.8079044117647
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

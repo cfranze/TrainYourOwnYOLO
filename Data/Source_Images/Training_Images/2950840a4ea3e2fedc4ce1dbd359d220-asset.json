@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2950840a4ea3e2fedc4ce1dbd359d220",
+        "name": "r_833-corrosion-of-water-pipes-out-of-sight-out-of-mind.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/r_833-corrosion-of-water-pipes-out-of-sight-out-of-mind.jpg",
+        "size": {
+            "width": 700,
+            "height": 325
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wFKUPil5s",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 306.62768031189086,
+                "width": 302.17194570135746,
+                "left": 194.47963800904975,
+                "top": 6.033366837231969
+            },
+            "points": [
+                {
+                    "x": 194.47963800904975,
+                    "y": 6.033366837231969
+                },
+                {
+                    "x": 496.65158371040724,
+                    "y": 6.033366837231969
+                },
+                {
+                    "x": 496.65158371040724,
+                    "y": 312.6610471491228
+                },
+                {
+                    "x": 194.47963800904975,
+                    "y": 312.6610471491228
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

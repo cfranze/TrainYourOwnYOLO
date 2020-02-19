@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e3824bbeb3d3affc26b2c1c1430c813d",
+        "name": "copper-drain-pipe-corrosion-300x172.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/copper-drain-pipe-corrosion-300x172.jpg",
+        "size": {
+            "width": 300,
+            "height": 172
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Q63Aow_ju",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 116.70389170896786,
+                "width": 171.9902912621359,
+                "left": 121.16504854368931,
+                "top": 20.88837774957699
+            },
+            "points": [
+                {
+                    "x": 121.16504854368931,
+                    "y": 20.88837774957699
+                },
+                {
+                    "x": 293.15533980582524,
+                    "y": 20.88837774957699
+                },
+                {
+                    "x": 293.15533980582524,
+                    "y": 137.59226945854485
+                },
+                {
+                    "x": 121.16504854368931,
+                    "y": 137.59226945854485
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

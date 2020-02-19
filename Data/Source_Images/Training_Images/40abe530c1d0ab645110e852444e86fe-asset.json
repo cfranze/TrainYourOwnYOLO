@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "40abe530c1d0ab645110e852444e86fe",
+        "name": "Climate-change-basics-air-travel-climate-change-hero.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Climate-change-basics-air-travel-climate-change-hero.jpg",
+        "size": {
+            "width": 2800,
+            "height": 1680
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ECMNYzztB",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 1114.5631067961165,
+                "width": 1322.5242718446602,
+                "left": 856.3106796116505,
+                "top": 436.3106796116505
+            },
+            "points": [
+                {
+                    "x": 856.3106796116505,
+                    "y": 436.3106796116505
+                },
+                {
+                    "x": 2178.8349514563106,
+                    "y": 436.3106796116505
+                },
+                {
+                    "x": 2178.8349514563106,
+                    "y": 1550.873786407767
+                },
+                {
+                    "x": 856.3106796116505,
+                    "y": 1550.873786407767
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

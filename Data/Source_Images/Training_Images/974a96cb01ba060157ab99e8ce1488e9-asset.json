@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "974a96cb01ba060157ab99e8ce1488e9",
+        "name": "industrial-spherical-tanks-pbr-3d-model-low-poly-obj-fbx-ma-mb-unitypackage-uasset.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/industrial-spherical-tanks-pbr-3d-model-low-poly-obj-fbx-ma-mb-unitypackage-uasset.png",
+        "size": {
+            "width": 676,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cBJbpNjdL",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 169.9151103565365,
+                "width": 150.18823529411765,
+                "left": 86.87058823529412,
+                "top": 93.96328522920204
+            },
+            "points": [
+                {
+                    "x": 86.87058823529412,
+                    "y": 93.96328522920204
+                },
+                {
+                    "x": 237.0588235294118,
+                    "y": 93.96328522920204
+                },
+                {
+                    "x": 237.0588235294118,
+                    "y": 263.87839558573853
+                },
+                {
+                    "x": 86.87058823529412,
+                    "y": 263.87839558573853
+                }
+            ]
+        },
+        {
+            "id": "4OeuXuXEW",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 319.0492359932088,
+                "width": 214.11764705882354,
+                "left": 327.29411764705884,
+                "top": 26.730687606112053
+            },
+            "points": [
+                {
+                    "x": 327.29411764705884,
+                    "y": 26.730687606112053
+                },
+                {
+                    "x": 541.4117647058824,
+                    "y": 26.730687606112053
+                },
+                {
+                    "x": 541.4117647058824,
+                    "y": 345.77992359932085
+                },
+                {
+                    "x": 327.29411764705884,
+                    "y": 345.77992359932085
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

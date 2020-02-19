@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f82b329d48a66016f719c089971bae81",
+        "name": "01_Common-Myths-About-Airplanes-You-Need-to-Stop-Believing_559714906_motive56-760x506.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/01_Common-Myths-About-Airplanes-You-Need-to-Stop-Believing_559714906_motive56-760x506.jpg",
+        "size": {
+            "width": 760,
+            "height": 506
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5FU9t8Efw",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 191.04081632653063,
+                "width": 705.0291262135922,
+                "left": 26.932038834951456,
+                "top": 167.3508791909621
+            },
+            "points": [
+                {
+                    "x": 26.932038834951456,
+                    "y": 167.3508791909621
+                },
+                {
+                    "x": 731.9611650485436,
+                    "y": 167.3508791909621
+                },
+                {
+                    "x": 731.9611650485436,
+                    "y": 358.39169551749274
+                },
+                {
+                    "x": 26.932038834951456,
+                    "y": 358.39169551749274
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

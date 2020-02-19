@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "54c99743e9c32b8e196ca5648b0d4f8b",
+        "name": "FB_Tank_Level_Gauge_for_Industrial_Tanks_03_large.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/FB_Tank_Level_Gauge_for_Industrial_Tanks_03_large.jpg",
+        "size": {
+            "width": 480,
+            "height": 339
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bSmnzQJDg",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 276.92957746478874,
+                "width": 297.7737556561086,
+                "left": 0,
+                "top": 34.16179177336748
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 34.16179177336748
+                },
+                {
+                    "x": 297.7737556561086,
+                    "y": 34.16179177336748
+                },
+                {
+                    "x": 297.7737556561086,
+                    "y": 311.09136923815623
+                },
+                {
+                    "x": 0,
+                    "y": 311.09136923815623
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

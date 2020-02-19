@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e095e7d268543ee8084272f6c709eee9",
+        "name": "Rusty-Faucets-and-Shower-Heads-Remove-and-Prevent-Further-Corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Rusty-Faucets-and-Shower-Heads-Remove-and-Prevent-Further-Corrosion.jpg",
+        "size": {
+            "width": 800,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WSaxs9Jzr",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 373.5985533453888,
+                "width": 790.2262443438914,
+                "left": 2.8959276018099547,
+                "top": 11.754068716094032
+            },
+            "points": [
+                {
+                    "x": 2.8959276018099547,
+                    "y": 11.754068716094032
+                },
+                {
+                    "x": 793.1221719457013,
+                    "y": 11.754068716094032
+                },
+                {
+                    "x": 793.1221719457013,
+                    "y": 385.3526220614828
+                },
+                {
+                    "x": 2.8959276018099547,
+                    "y": 385.3526220614828
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

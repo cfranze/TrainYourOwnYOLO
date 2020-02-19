@@ -1,0 +1,112 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0744b9c3b5e80b665a89effbd67ca534",
+        "name": "Development-of-a-highly-corrosion-resistant-copolymer-for-metal-surfaces.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Development-of-a-highly-corrosion-resistant-copolymer-for-metal-surfaces.jpg",
+        "size": {
+            "width": 1024,
+            "height": 768
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-saPBPW9-",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 379.8311218335344,
+                "width": 973.0316742081449,
+                "left": 16.217194570135746,
+                "top": 187.9469240048251
+            },
+            "points": [
+                {
+                    "x": 16.217194570135746,
+                    "y": 187.9469240048251
+                },
+                {
+                    "x": 989.2488687782806,
+                    "y": 187.9469240048251
+                },
+                {
+                    "x": 989.2488687782806,
+                    "y": 567.7780458383595
+                },
+                {
+                    "x": 16.217194570135746,
+                    "y": 567.7780458383595
+                }
+            ]
+        },
+        {
+            "id": "BW5zhgAfz",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 570.0940892641737,
+                "width": 119.54389140271493,
+                "left": 467.98190045248873,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 467.98190045248873,
+                    "y": 0
+                },
+                {
+                    "x": 587.5257918552037,
+                    "y": 0
+                },
+                {
+                    "x": 587.5257918552037,
+                    "y": 570.0940892641737
+                },
+                {
+                    "x": 467.98190045248873,
+                    "y": 570.0940892641737
+                }
+            ]
+        },
+        {
+            "id": "WCz1SlF74",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 320.54041013269,
+                "width": 233.06425339366515,
+                "left": 594.4760180995476,
+                "top": 65.1966224366707
+            },
+            "points": [
+                {
+                    "x": 594.4760180995476,
+                    "y": 65.1966224366707
+                },
+                {
+                    "x": 827.5402714932127,
+                    "y": 65.1966224366707
+                },
+                {
+                    "x": 827.5402714932127,
+                    "y": 385.7370325693607
+                },
+                {
+                    "x": 594.4760180995476,
+                    "y": 385.7370325693607
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

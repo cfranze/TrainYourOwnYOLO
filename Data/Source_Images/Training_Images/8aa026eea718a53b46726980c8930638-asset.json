@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8aa026eea718a53b46726980c8930638",
+        "name": "corrosion-water-pipe-close-defect-600w-1013442802.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-water-pipe-close-defect-600w-1013442802.jpg",
+        "size": {
+            "width": 600,
+            "height": 420
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AvygrHYBZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 206.79611650485435,
+                "width": 199.22330097087377,
+                "left": 70.19417475728154,
+                "top": 79.51456310679612
+            },
+            "points": [
+                {
+                    "x": 70.19417475728154,
+                    "y": 79.51456310679612
+                },
+                {
+                    "x": 269.4174757281553,
+                    "y": 79.51456310679612
+                },
+                {
+                    "x": 269.4174757281553,
+                    "y": 286.31067961165047
+                },
+                {
+                    "x": 70.19417475728154,
+                    "y": 286.31067961165047
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

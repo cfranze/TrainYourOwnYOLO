@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c53d3517e1feafff123019267149032a",
+        "name": "5-biggest-mistakes-plane-011.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/5-biggest-mistakes-plane-011.jpg",
+        "size": {
+            "width": 1400,
+            "height": 795
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wOOAOU_tJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 737.2435897435897,
+                "width": 1257.9611650485438,
+                "left": 101.2621359223301,
+                "top": 25.07732371794872
+            },
+            "points": [
+                {
+                    "x": 101.2621359223301,
+                    "y": 25.07732371794872
+                },
+                {
+                    "x": 1359.2233009708739,
+                    "y": 25.07732371794872
+                },
+                {
+                    "x": 1359.2233009708739,
+                    "y": 762.3209134615385
+                },
+                {
+                    "x": 101.2621359223301,
+                    "y": 762.3209134615385
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

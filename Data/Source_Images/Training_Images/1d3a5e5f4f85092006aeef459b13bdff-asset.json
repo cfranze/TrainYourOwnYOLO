@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1d3a5e5f4f85092006aeef459b13bdff",
+        "name": "LP-40-1920x1080.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/LP-40-1920x1080.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RG1cZcAVo",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 760.1746724890829,
+                "width": 1452.116504854369,
+                "left": 236.7378640776699,
+                "top": 305.254730713246
+            },
+            "points": [
+                {
+                    "x": 236.7378640776699,
+                    "y": 305.254730713246
+                },
+                {
+                    "x": 1688.8543689320388,
+                    "y": 305.254730713246
+                },
+                {
+                    "x": 1688.8543689320388,
+                    "y": 1065.429403202329
+                },
+                {
+                    "x": 236.7378640776699,
+                    "y": 1065.429403202329
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

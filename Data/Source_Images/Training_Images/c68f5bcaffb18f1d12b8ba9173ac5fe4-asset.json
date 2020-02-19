@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c68f5bcaffb18f1d12b8ba9173ac5fe4",
+        "name": "corrosion-blog-022614-headliner.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-blog-022614-headliner.jpg",
+        "size": {
+            "width": 525,
+            "height": 295
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mGg9tEca5",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 294.5502077936097,
+                "width": 524.745145631068,
+                "left": 0.25485436893203883,
+                "top": 0.44979220639032813
+            },
+            "points": [
+                {
+                    "x": 0.25485436893203883,
+                    "y": 0.44979220639032813
+                },
+                {
+                    "x": 525,
+                    "y": 0.44979220639032813
+                },
+                {
+                    "x": 525,
+                    "y": 295
+                },
+                {
+                    "x": 0.25485436893203883,
+                    "y": 295
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5ac011d4de9890aa2bc4309affc5a835",
+        "name": "1523513-airplane-wallpapers-1920x1080-4k.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1523513-airplane-wallpapers-1920x1080-4k.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LqsB3aQU9",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 735.5172413793103,
+                "width": 1901.3592233009708,
+                "left": 10.25242718446602,
+                "top": 169.79741379310343
+            },
+            "points": [
+                {
+                    "x": 10.25242718446602,
+                    "y": 169.79741379310343
+                },
+                {
+                    "x": 1911.611650485437,
+                    "y": 169.79741379310343
+                },
+                {
+                    "x": 1911.611650485437,
+                    "y": 905.3146551724137
+                },
+                {
+                    "x": 10.25242718446602,
+                    "y": 905.3146551724137
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

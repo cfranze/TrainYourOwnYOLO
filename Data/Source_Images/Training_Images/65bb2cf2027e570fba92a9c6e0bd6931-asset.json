@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "65bb2cf2027e570fba92a9c6e0bd6931",
+        "name": "prevent-corrosion-in-water-systems.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/prevent-corrosion-in-water-systems.jpg",
+        "size": {
+            "width": 1200,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1I3cNedv_",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 897.8287092882991,
+                "width": 981.7194570135744,
+                "left": 218.28054298642527,
+                "top": 2.1712907117008444
+            },
+            "points": [
+                {
+                    "x": 218.28054298642527,
+                    "y": 2.1712907117008444
+                },
+                {
+                    "x": 1199.9999999999998,
+                    "y": 2.1712907117008444
+                },
+                {
+                    "x": 1199.9999999999998,
+                    "y": 900
+                },
+                {
+                    "x": 218.28054298642527,
+                    "y": 900
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

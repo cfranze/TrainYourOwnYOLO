@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "2e9903a196c87665944b55e5ff94b300",
+        "name": "verizon-corrosion.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/verizon-corrosion.png",
+        "size": {
+            "width": 374,
+            "height": 252
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4wj1Ce8Pw",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 54.120805369127524,
+                "width": 82.92307692307693,
+                "left": 191.90769230769232,
+                "top": 89.22269295302014
+            },
+            "points": [
+                {
+                    "x": 191.90769230769232,
+                    "y": 89.22269295302014
+                },
+                {
+                    "x": 274.83076923076925,
+                    "y": 89.22269295302014
+                },
+                {
+                    "x": 274.83076923076925,
+                    "y": 143.34349832214767
+                },
+                {
+                    "x": 191.90769230769232,
+                    "y": 143.34349832214767
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

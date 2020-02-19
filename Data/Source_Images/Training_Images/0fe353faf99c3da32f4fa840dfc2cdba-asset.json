@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0fe353faf99c3da32f4fa840dfc2cdba",
+        "name": "Wind-Horse-Zincs-after-6.5-years-2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Wind-Horse-Zincs-after-6.5-years-2.jpg",
+        "size": {
+            "width": 648,
+            "height": 392
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "e5ZsWjcB8",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 341.9013452914798,
+                "width": 614.2805429864254,
+                "left": 21.697737556561087,
+                "top": 26.21207025411061
+            },
+            "points": [
+                {
+                    "x": 21.697737556561087,
+                    "y": 26.21207025411061
+                },
+                {
+                    "x": 635.9782805429865,
+                    "y": 26.21207025411061
+                },
+                {
+                    "x": 635.9782805429865,
+                    "y": 368.1134155455904
+                },
+                {
+                    "x": 21.697737556561087,
+                    "y": 368.1134155455904
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

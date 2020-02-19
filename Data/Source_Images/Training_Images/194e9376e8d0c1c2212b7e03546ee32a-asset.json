@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "194e9376e8d0c1c2212b7e03546ee32a",
+        "name": "NOAA-King-Air-350-CER.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/NOAA-King-Air-350-CER.jpg",
+        "size": {
+            "width": 1280,
+            "height": 853
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kZrun4nws",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 268.1921397379913,
+                "width": 1129.009708737864,
+                "left": 139.80582524271844,
+                "top": 341.0797170669578
+            },
+            "points": [
+                {
+                    "x": 139.80582524271844,
+                    "y": 341.0797170669578
+                },
+                {
+                    "x": 1268.8155339805824,
+                    "y": 341.0797170669578
+                },
+                {
+                    "x": 1268.8155339805824,
+                    "y": 609.271856804949
+                },
+                {
+                    "x": 139.80582524271844,
+                    "y": 609.271856804949
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

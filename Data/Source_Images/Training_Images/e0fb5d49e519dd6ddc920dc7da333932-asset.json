@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e0fb5d49e519dd6ddc920dc7da333932",
+        "name": "Aircraft20-20LPP_foto06_EFA.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Aircraft20-20LPP_foto06_EFA.jpg",
+        "size": {
+            "width": 503,
+            "height": 335
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "w0uAQzDRA",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 229.27478134110788,
+                "width": 371.6339805825243,
+                "left": 58.11359223300971,
+                "top": 48.83000409985423
+            },
+            "points": [
+                {
+                    "x": 58.11359223300971,
+                    "y": 48.83000409985423
+                },
+                {
+                    "x": 429.747572815534,
+                    "y": 48.83000409985423
+                },
+                {
+                    "x": 429.747572815534,
+                    "y": 278.1047854409621
+                },
+                {
+                    "x": 58.11359223300971,
+                    "y": 278.1047854409621
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

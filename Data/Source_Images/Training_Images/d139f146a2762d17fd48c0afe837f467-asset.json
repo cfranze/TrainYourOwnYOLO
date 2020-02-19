@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d139f146a2762d17fd48c0afe837f467",
+        "name": "d_g650ER_a_print_00219_v01r03.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/d_g650ER_a_print_00219_v01r03.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yXCGRdqw7",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 682.448275862069,
+                "width": 1371.9611650485438,
+                "left": 315.02912621359224,
+                "top": 177.2456896551724
+            },
+            "points": [
+                {
+                    "x": 315.02912621359224,
+                    "y": 177.2456896551724
+                },
+                {
+                    "x": 1686.990291262136,
+                    "y": 177.2456896551724
+                },
+                {
+                    "x": 1686.990291262136,
+                    "y": 859.6939655172414
+                },
+                {
+                    "x": 315.02912621359224,
+                    "y": 859.6939655172414
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

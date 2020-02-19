@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "de08b314ee3116756870c4eca1bf2423",
+        "name": "rust-corrosion-pipeline-metal-skincorrosion-260nw-1079663546.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rust-corrosion-pipeline-metal-skincorrosion-260nw-1079663546.jpg",
+        "size": {
+            "width": 347,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yzuZgmR-E",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 236.44796380090497,
+                "width": 342.40921532846716,
+                "left": 0.8756130246350365,
+                "top": 3.167420814479638
+            },
+            "points": [
+                {
+                    "x": 0.8756130246350365,
+                    "y": 3.167420814479638
+                },
+                {
+                    "x": 343.2848283531022,
+                    "y": 3.167420814479638
+                },
+                {
+                    "x": 343.2848283531022,
+                    "y": 239.6153846153846
+                },
+                {
+                    "x": 0.8756130246350365,
+                    "y": 239.6153846153846
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

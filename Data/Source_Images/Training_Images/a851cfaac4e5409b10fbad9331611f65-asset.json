@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a851cfaac4e5409b10fbad9331611f65",
+        "name": "65592074-old-aluminum-background-detail-of-a-military-aircraft-surface-corrosion-oxidized-metal-texture-with-.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/65592074-old-aluminum-background-detail-of-a-military-aircraft-surface-corrosion-oxidized-metal-texture-with-.jpg",
+        "size": {
+            "width": 866,
+            "height": 1300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UEcLUZSiS",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 855.1470588235295,
+                "width": 499.8177260186758,
+                "left": 0,
+                "top": 0.7352941176470589
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0.7352941176470589
+                },
+                {
+                    "x": 499.8177260186758,
+                    "y": 0.7352941176470589
+                },
+                {
+                    "x": 499.8177260186758,
+                    "y": 855.8823529411766
+                },
+                {
+                    "x": 0,
+                    "y": 855.8823529411766
+                }
+            ]
+        },
+        {
+            "id": "CGfJHhb9H",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 522.0588235294118,
+                "width": 280.1703894312394,
+                "left": 585.8296105687607,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 585.8296105687607,
+                    "y": 0
+                },
+                {
+                    "x": 866.0000000000001,
+                    "y": 0
+                },
+                {
+                    "x": 866.0000000000001,
+                    "y": 522.0588235294118
+                },
+                {
+                    "x": 585.8296105687607,
+                    "y": 522.0588235294118
+                }
+            ]
+        },
+        {
+            "id": "SpgDOS3lY",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 569.8529411764706,
+                "width": 863.7141606536503,
+                "left": 0,
+                "top": 730.1470588235295
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 730.1470588235295
+                },
+                {
+                    "x": 863.7141606536503,
+                    "y": 730.1470588235295
+                },
+                {
+                    "x": 863.7141606536503,
+                    "y": 1300
+                },
+                {
+                    "x": 0,
+                    "y": 1300
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

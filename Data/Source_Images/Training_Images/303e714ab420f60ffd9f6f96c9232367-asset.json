@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "303e714ab420f60ffd9f6f96c9232367",
+        "name": "rust-caused-by-exposure-to-salt-water-and-salty-sea-air-coast-the-JMD7B0.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rust-caused-by-exposure-to-salt-water-and-salty-sea-air-coast-the-JMD7B0.jpg",
+        "size": {
+            "width": 1300,
+            "height": 1065
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ej8Jaz3t5",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 483.1052036199095,
+                "width": 590.9638554216868,
+                "left": 12.688253012048193,
+                "top": 186.73642533936652
+            },
+            "points": [
+                {
+                    "x": 12.688253012048193,
+                    "y": 186.73642533936652
+                },
+                {
+                    "x": 603.652108433735,
+                    "y": 186.73642533936652
+                },
+                {
+                    "x": 603.652108433735,
+                    "y": 669.841628959276
+                },
+                {
+                    "x": 12.688253012048193,
+                    "y": 669.841628959276
+                }
+            ]
+        },
+        {
+            "id": "s047VW3YO",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 796.3404977375566,
+                "width": 840.3614457831326,
+                "left": 448.23042168674704,
+                "top": 13.854638009049774
+            },
+            "points": [
+                {
+                    "x": 448.23042168674704,
+                    "y": 13.854638009049774
+                },
+                {
+                    "x": 1288.5918674698796,
+                    "y": 13.854638009049774
+                },
+                {
+                    "x": 1288.5918674698796,
+                    "y": 810.1951357466063
+                },
+                {
+                    "x": 448.23042168674704,
+                    "y": 810.1951357466063
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

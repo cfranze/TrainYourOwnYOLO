@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1d1cd90fa50dfc89b3ac13580bc869ef",
+        "name": "case-study-IONYX-on-golden-gate-bridge-featured.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/case-study-IONYX-on-golden-gate-bridge-featured.jpg",
+        "size": {
+            "width": 1200,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6ITxl8RKs",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 235.08620689655172,
+                "width": 1067.1844660194174,
+                "left": 132.81553398058253,
+                "top": 120.08890086206895
+            },
+            "points": [
+                {
+                    "x": 132.81553398058253,
+                    "y": 120.08890086206895
+                },
+                {
+                    "x": 1200,
+                    "y": 120.08890086206895
+                },
+                {
+                    "x": 1200,
+                    "y": 355.1751077586207
+                },
+                {
+                    "x": 132.81553398058253,
+                    "y": 355.1751077586207
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

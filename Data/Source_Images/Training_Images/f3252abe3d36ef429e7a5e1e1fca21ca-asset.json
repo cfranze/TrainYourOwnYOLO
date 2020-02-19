@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f3252abe3d36ef429e7a5e1e1fca21ca",
+        "name": "ACA-Technology-Concrete20Corrosion_4.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/ACA-Technology-Concrete20Corrosion_4.jpg",
+        "size": {
+            "width": 667,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "D8Uxcwk-f",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 12.953367875647668,
+                "width": 31.08349514563107,
+                "left": 285.57961165048545,
+                "top": 220.89540155440415
+            },
+            "points": [
+                {
+                    "x": 285.57961165048545,
+                    "y": 220.89540155440415
+                },
+                {
+                    "x": 316.6631067961165,
+                    "y": 220.89540155440415
+                },
+                {
+                    "x": 316.6631067961165,
+                    "y": 233.8487694300518
+                },
+                {
+                    "x": 285.57961165048545,
+                    "y": 233.8487694300518
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

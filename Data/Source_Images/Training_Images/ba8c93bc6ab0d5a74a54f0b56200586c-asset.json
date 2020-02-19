@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ba8c93bc6ab0d5a74a54f0b56200586c",
+        "name": "galvanic-corrosion-steel-pipe.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/galvanic-corrosion-steel-pipe.jpg",
+        "size": {
+            "width": 900,
+            "height": 452
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JurBErWDw",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 436.13164414414416,
+                "width": 467.5113122171946,
+                "left": 227.2398190045249,
+                "top": 15.868355855855857
+            },
+            "points": [
+                {
+                    "x": 227.2398190045249,
+                    "y": 15.868355855855857
+                },
+                {
+                    "x": 694.7511312217194,
+                    "y": 15.868355855855857
+                },
+                {
+                    "x": 694.7511312217194,
+                    "y": 452
+                },
+                {
+                    "x": 227.2398190045249,
+                    "y": 452
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

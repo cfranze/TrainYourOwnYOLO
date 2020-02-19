@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0d384adf81647e6b53d5a5e2eee218d9",
+        "name": "airbus-albatross-one-ALBATROSS0819.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airbus-albatross-one-ALBATROSS0819.jpg",
+        "size": {
+            "width": 900,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-lr4KPY2H",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 165.06550218340612,
+                "width": 629.5631067961165,
+                "left": 147.23300970873785,
+                "top": 247.01828602620088
+            },
+            "points": [
+                {
+                    "x": 147.23300970873785,
+                    "y": 247.01828602620088
+                },
+                {
+                    "x": 776.7961165048544,
+                    "y": 247.01828602620088
+                },
+                {
+                    "x": 776.7961165048544,
+                    "y": 412.083788209607
+                },
+                {
+                    "x": 147.23300970873785,
+                    "y": 412.083788209607
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "fe0f1bb5b3c92c6f7e889a68e998327e",
+        "name": "1420596671234.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/1420596671234.jpeg",
+        "size": {
+            "width": 1280,
+            "height": 960
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JYk_ilgfz",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 958.9867310012063,
+                "width": 1072.0723981900453,
+                "left": 165.06787330316743,
+                "top": 1.0132689987937273
+            },
+            "points": [
+                {
+                    "x": 165.06787330316743,
+                    "y": 1.0132689987937273
+                },
+                {
+                    "x": 1237.1402714932128,
+                    "y": 1.0132689987937273
+                },
+                {
+                    "x": 1237.1402714932128,
+                    "y": 960.0000000000001
+                },
+                {
+                    "x": 165.06787330316743,
+                    "y": 960.0000000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

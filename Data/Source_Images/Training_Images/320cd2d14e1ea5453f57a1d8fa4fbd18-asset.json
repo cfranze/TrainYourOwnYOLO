@@ -1,0 +1,80 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "320cd2d14e1ea5453f57a1d8fa4fbd18",
+        "name": "Different-Types-of-Corrosion-in-Metals.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Different-Types-of-Corrosion-in-Metals.png",
+        "size": {
+            "width": 800,
+            "height": 350
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6jpB-1mLw",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 266.3190857438017,
+                "width": 687.7828054298642,
+                "left": 40.18099547511312,
+                "top": 83.68091425619835
+            },
+            "points": [
+                {
+                    "x": 40.18099547511312,
+                    "y": 83.68091425619835
+                },
+                {
+                    "x": 727.9638009049773,
+                    "y": 83.68091425619835
+                },
+                {
+                    "x": 727.9638009049773,
+                    "y": 350
+                },
+                {
+                    "x": 40.18099547511312,
+                    "y": 350
+                }
+            ]
+        },
+        {
+            "id": "HTlPm9Hnf",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 349.84181301652893,
+                "width": 799.6380090497737,
+                "left": 0.36199095022624433,
+                "top": 0.15818698347107438
+            },
+            "points": [
+                {
+                    "x": 0.36199095022624433,
+                    "y": 0.15818698347107438
+                },
+                {
+                    "x": 800,
+                    "y": 0.15818698347107438
+                },
+                {
+                    "x": 800,
+                    "y": 350
+                },
+                {
+                    "x": 0.36199095022624433,
+                    "y": 350
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

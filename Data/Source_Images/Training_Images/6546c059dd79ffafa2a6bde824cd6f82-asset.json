@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6546c059dd79ffafa2a6bde824cd6f82",
+        "name": "End20grain20DSCN1992.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/End20grain20DSCN1992.jpg",
+        "size": {
+            "width": 992,
+            "height": 744
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "myKeas4ny",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 387.25693606755124,
+                "width": 989.7556561085973,
+                "left": 2.244343891402715,
+                "top": 285.7310012062726
+            },
+            "points": [
+                {
+                    "x": 2.244343891402715,
+                    "y": 285.7310012062726
+                },
+                {
+                    "x": 992,
+                    "y": 285.7310012062726
+                },
+                {
+                    "x": 992,
+                    "y": 672.9879372738238
+                },
+                {
+                    "x": 2.244343891402715,
+                    "y": 672.9879372738238
+                }
+            ]
+        },
+        {
+            "id": "b130ycwd_",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 320.8443908323281,
+                "width": 360.8904977375566,
+                "left": 507.67058823529413,
+                "top": 82.00603136308806
+            },
+            "points": [
+                {
+                    "x": 507.67058823529413,
+                    "y": 82.00603136308806
+                },
+                {
+                    "x": 868.5610859728507,
+                    "y": 82.00603136308806
+                },
+                {
+                    "x": 868.5610859728507,
+                    "y": 402.8504221954162
+                },
+                {
+                    "x": 507.67058823529413,
+                    "y": 402.8504221954162
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

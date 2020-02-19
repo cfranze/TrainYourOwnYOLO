@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8ba768c960803bad34defef7d32c2095",
+        "name": "Pitting-Corrosion-Holes.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Pitting-Corrosion-Holes.jpg",
+        "size": {
+            "width": 710,
+            "height": 296
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "p8y4RSJkM",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 48.79826464208243,
+                "width": 694.579185520362,
+                "left": 14.135746606334843,
+                "top": 123.1795010845987
+            },
+            "points": [
+                {
+                    "x": 14.135746606334843,
+                    "y": 123.1795010845987
+                },
+                {
+                    "x": 708.7149321266969,
+                    "y": 123.1795010845987
+                },
+                {
+                    "x": 708.7149321266969,
+                    "y": 171.97776572668113
+                },
+                {
+                    "x": 14.135746606334843,
+                    "y": 171.97776572668113
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

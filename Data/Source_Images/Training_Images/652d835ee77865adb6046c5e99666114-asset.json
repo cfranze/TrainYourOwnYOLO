@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "652d835ee77865adb6046c5e99666114",
+        "name": "image16_3.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/image16_3.jpeg",
+        "size": {
+            "width": 104,
+            "height": 104
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "X0sts9TF5",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 42.35294117647059,
+                "width": 101.23529411764706,
+                "left": 0.9411764705882353,
+                "top": 34.88235294117647
+            },
+            "points": [
+                {
+                    "x": 0.9411764705882353,
+                    "y": 34.88235294117647
+                },
+                {
+                    "x": 102.17647058823529,
+                    "y": 34.88235294117647
+                },
+                {
+                    "x": 102.17647058823529,
+                    "y": 77.23529411764706
+                },
+                {
+                    "x": 0.9411764705882353,
+                    "y": 77.23529411764706
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

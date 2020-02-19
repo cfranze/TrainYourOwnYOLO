@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9279d4b7e44a920b9e5da6ef44dcda27",
+        "name": "ConcreteCoorFSSD10JPG.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/ConcreteCoorFSSD10JPG.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hXr3sh75L",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 472.7037516170763,
+                "width": 577.5533980582524,
+                "left": 62.446601941747566,
+                "top": 7.2962483829236735
+            },
+            "points": [
+                {
+                    "x": 62.446601941747566,
+                    "y": 7.2962483829236735
+                },
+                {
+                    "x": 640,
+                    "y": 7.2962483829236735
+                },
+                {
+                    "x": 640,
+                    "y": 479.99999999999994
+                },
+                {
+                    "x": 62.446601941747566,
+                    "y": 479.99999999999994
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

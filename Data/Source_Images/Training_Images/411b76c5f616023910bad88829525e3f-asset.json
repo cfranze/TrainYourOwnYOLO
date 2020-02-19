@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "411b76c5f616023910bad88829525e3f",
+        "name": "Galvanic-corrosion-of-the-carbon-steel-wall-adjacent-to-the-stainless-steel-lining-in-a-2.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Galvanic-corrosion-of-the-carbon-steel-wall-adjacent-to-the-stainless-steel-lining-in-a-2.png",
+        "size": {
+            "width": 850,
+            "height": 631
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NLWdUO4ea",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 612.1699147381242,
+                "width": 813.4615384615385,
+                "left": 18.846153846153847,
+                "top": 9.727276187576127
+            },
+            "points": [
+                {
+                    "x": 18.846153846153847,
+                    "y": 9.727276187576127
+                },
+                {
+                    "x": 832.3076923076924,
+                    "y": 9.727276187576127
+                },
+                {
+                    "x": 832.3076923076924,
+                    "y": 621.8971909257003
+                },
+                {
+                    "x": 18.846153846153847,
+                    "y": 621.8971909257003
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

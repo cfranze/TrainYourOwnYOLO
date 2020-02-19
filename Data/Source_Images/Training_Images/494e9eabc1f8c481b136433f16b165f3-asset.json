@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "494e9eabc1f8c481b136433f16b165f3",
+        "name": "Corrosion-Flyer-vf.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Corrosion-Flyer-vf.jpg",
+        "size": {
+            "width": 2501,
+            "height": 1210
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dJNDPsfT5",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 1209.6021730961925,
+                "width": 1703.3509708737863,
+                "left": 490.4873786407767,
+                "top": 0.3978269038076152
+            },
+            "points": [
+                {
+                    "x": 490.4873786407767,
+                    "y": 0.3978269038076152
+                },
+                {
+                    "x": 2193.838349514563,
+                    "y": 0.3978269038076152
+                },
+                {
+                    "x": 2193.838349514563,
+                    "y": 1210
+                },
+                {
+                    "x": 490.4873786407767,
+                    "y": 1210
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

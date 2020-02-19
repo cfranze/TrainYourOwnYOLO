@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2f3ab382dae0f573937d89d4cd41287f",
+        "name": "001-figure3-shutterstock_607093718_Figure3_2_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/001-figure3-shutterstock_607093718_Figure3_2_1.jpg",
+        "size": {
+            "width": 900,
+            "height": 550
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "d1JYFVhWR",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 68.0952380952381,
+                "width": 76.89320388349515,
+                "left": 416.3592233009708,
+                "top": 255.554935515873
+            },
+            "points": [
+                {
+                    "x": 416.3592233009708,
+                    "y": 255.554935515873
+                },
+                {
+                    "x": 493.252427184466,
+                    "y": 255.554935515873
+                },
+                {
+                    "x": 493.252427184466,
+                    "y": 323.6501736111111
+                },
+                {
+                    "x": 416.3592233009708,
+                    "y": 323.6501736111111
+                }
+            ]
+        },
+        {
+            "id": "kVcETHffS",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 50.198412698412696,
+                "width": 74.27184466019418,
+                "left": 193.54368932038832,
+                "top": 222.81684027777777
+            },
+            "points": [
+                {
+                    "x": 193.54368932038832,
+                    "y": 222.81684027777777
+                },
+                {
+                    "x": 267.81553398058253,
+                    "y": 222.81684027777777
+                },
+                {
+                    "x": 267.81553398058253,
+                    "y": 273.0152529761905
+                },
+                {
+                    "x": 193.54368932038832,
+                    "y": 273.0152529761905
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

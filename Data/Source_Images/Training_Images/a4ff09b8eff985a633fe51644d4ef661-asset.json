@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a4ff09b8eff985a633fe51644d4ef661",
+        "name": "FH7ZTX8GLE1IAPI.LARGE.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/FH7ZTX8GLE1IAPI.LARGE.jpg",
+        "size": {
+            "width": 1024,
+            "height": 681
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "y-Xbltu1U",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 637.4530612244898,
+                "width": 341.0244343891403,
+                "left": 575.9420814479638,
+                "top": 31.444132653061224
+            },
+            "points": [
+                {
+                    "x": 575.9420814479638,
+                    "y": 31.444132653061224
+                },
+                {
+                    "x": 916.9665158371041,
+                    "y": 31.444132653061224
+                },
+                {
+                    "x": 916.9665158371041,
+                    "y": 668.897193877551
+                },
+                {
+                    "x": 575.9420814479638,
+                    "y": 668.897193877551
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b5a17572a79fe0acb0ccab4d920192c8",
+        "name": "rusting-metal-support-struts-on-a-pier-after-corrosion-by-sea-water-KKBHWA.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rusting-metal-support-struts-on-a-pier-after-corrosion-by-sea-water-KKBHWA.jpg",
+        "size": {
+            "width": 1300,
+            "height": 937
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-b_loHye8",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 754.185069008783,
+                "width": 1141.1764705882354,
+                "left": 34.70588235294118,
+                "top": 15.54992354140527
+            },
+            "points": [
+                {
+                    "x": 34.70588235294118,
+                    "y": 15.54992354140527
+                },
+                {
+                    "x": 1175.8823529411766,
+                    "y": 15.54992354140527
+                },
+                {
+                    "x": 1175.8823529411766,
+                    "y": 769.7349925501883
+                },
+                {
+                    "x": 34.70588235294118,
+                    "y": 769.7349925501883
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1f60f304ef5a7e41dc604544cd2f4de5",
+        "name": "ordinary-Corrosion-architecture-copper-02.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/ordinary-Corrosion-architecture-copper-02.jpg",
+        "size": {
+            "width": 1800,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "T7Yokihr7",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 306.1058344640434,
+                "width": 324.9773755656109,
+                "left": 851.131221719457,
+                "top": 332.70437584803256
+            },
+            "points": [
+                {
+                    "x": 851.131221719457,
+                    "y": 332.70437584803256
+                },
+                {
+                    "x": 1176.1085972850678,
+                    "y": 332.70437584803256
+                },
+                {
+                    "x": 1176.1085972850678,
+                    "y": 638.8102103120759
+                },
+                {
+                    "x": 851.131221719457,
+                    "y": 638.8102103120759
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

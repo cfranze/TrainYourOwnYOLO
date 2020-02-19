@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b8f94cd1463433f835228d5ea1df3820",
+        "name": "DieselCorrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/DieselCorrosion.jpg",
+        "size": {
+            "width": 600,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9056JbHnE",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 398.7321913161465,
+                "width": 599.4570135746606,
+                "left": 0.5429864253393665,
+                "top": 1.26780868385346
+            },
+            "points": [
+                {
+                    "x": 0.5429864253393665,
+                    "y": 1.26780868385346
+                },
+                {
+                    "x": 600,
+                    "y": 1.26780868385346
+                },
+                {
+                    "x": 600,
+                    "y": 400
+                },
+                {
+                    "x": 0.5429864253393665,
+                    "y": 400
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

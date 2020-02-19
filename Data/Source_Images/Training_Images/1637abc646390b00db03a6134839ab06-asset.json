@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1637abc646390b00db03a6134839ab06",
+        "name": "ahl-1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/ahl-1.jpg",
+        "size": {
+            "width": 1546,
+            "height": 924
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OOt7ibSK3",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 207.75,
+                "width": 572.6203883495145,
+                "left": 386.5,
+                "top": 156.45703125
+            },
+            "points": [
+                {
+                    "x": 386.5,
+                    "y": 156.45703125
+                },
+                {
+                    "x": 959.1203883495145,
+                    "y": 156.45703125
+                },
+                {
+                    "x": 959.1203883495145,
+                    "y": 364.20703125
+                },
+                {
+                    "x": 386.5,
+                    "y": 364.20703125
+                }
+            ]
+        },
+        {
+            "id": "pq1-eYic9",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 334.5,
+                "width": 862.3077669902913,
+                "left": 315.20388349514565,
+                "top": 369.45703125
+            },
+            "points": [
+                {
+                    "x": 315.20388349514565,
+                    "y": 369.45703125
+                },
+                {
+                    "x": 1177.511650485437,
+                    "y": 369.45703125
+                },
+                {
+                    "x": 1177.511650485437,
+                    "y": 703.95703125
+                },
+                {
+                    "x": 315.20388349514565,
+                    "y": 703.95703125
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

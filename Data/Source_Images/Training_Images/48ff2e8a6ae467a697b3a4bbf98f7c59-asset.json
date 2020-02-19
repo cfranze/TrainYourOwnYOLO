@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "48ff2e8a6ae467a697b3a4bbf98f7c59",
+        "name": "2003-Scout-235_Cracked_Aluminum_T-Top_Tube_Near_Weld_3.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/2003-Scout-235_Cracked_Aluminum_T-Top_Tube_Near_Weld_3.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uk4HiHfsq",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 83.37756332931244,
+                "width": 234.85972850678735,
+                "left": 129.158371040724,
+                "top": 138.60072376357058
+            },
+            "points": [
+                {
+                    "x": 129.158371040724,
+                    "y": 138.60072376357058
+                },
+                {
+                    "x": 364.0180995475113,
+                    "y": 138.60072376357058
+                },
+                {
+                    "x": 364.0180995475113,
+                    "y": 221.978287092883
+                },
+                {
+                    "x": 129.158371040724,
+                    "y": 221.978287092883
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

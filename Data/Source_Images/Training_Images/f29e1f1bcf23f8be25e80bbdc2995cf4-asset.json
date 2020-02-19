@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f29e1f1bcf23f8be25e80bbdc2995cf4",
+        "name": "Copper_Ingot_Crete.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Copper_Ingot_Crete.jpg",
+        "size": {
+            "width": 800,
+            "height": 508
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OwHaWVUqt",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 471.10397553516816,
+                "width": 746.4077669902913,
+                "left": 22.9126213592233,
+                "top": 22.938646788990823
+            },
+            "points": [
+                {
+                    "x": 22.9126213592233,
+                    "y": 22.938646788990823
+                },
+                {
+                    "x": 769.3203883495146,
+                    "y": 22.938646788990823
+                },
+                {
+                    "x": 769.3203883495146,
+                    "y": 494.042622324159
+                },
+                {
+                    "x": 22.9126213592233,
+                    "y": 494.042622324159
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

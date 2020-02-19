@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "f236e65588a3ca4b4bbaed7dd5d4c7ba",
+        "name": "what-starts-a-copper-pipe-to-leak_1.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/what-starts-a-copper-pipe-to-leak_1.png",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "h8PsvRcrr",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 224.9457177322075,
+                "width": 452.343891402715,
+                "left": 98.75113122171946,
+                "top": 77.51507840772015
+            },
+            "points": [
+                {
+                    "x": 98.75113122171946,
+                    "y": 77.51507840772015
+                },
+                {
+                    "x": 551.0950226244345,
+                    "y": 77.51507840772015
+                },
+                {
+                    "x": 551.0950226244345,
+                    "y": 302.46079613992765
+                },
+                {
+                    "x": 98.75113122171946,
+                    "y": 302.46079613992765
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

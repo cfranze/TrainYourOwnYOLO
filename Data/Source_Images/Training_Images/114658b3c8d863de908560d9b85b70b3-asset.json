@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "114658b3c8d863de908560d9b85b70b3",
+        "name": "IFP71_Sep17_Sprinkler_MK_4.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/IFP71_Sep17_Sprinkler_MK_4.jpg",
+        "size": {
+            "width": 1300,
+            "height": 722
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "inxUcYndr",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 583.4188467019544,
+                "width": 1297.6470588235295,
+                "left": 2.3529411764705883,
+                "top": 138.58115329804562
+            },
+            "points": [
+                {
+                    "x": 2.3529411764705883,
+                    "y": 138.58115329804562
+                },
+                {
+                    "x": 1300,
+                    "y": 138.58115329804562
+                },
+                {
+                    "x": 1300,
+                    "y": 722
+                },
+                {
+                    "x": 2.3529411764705883,
+                    "y": 722
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

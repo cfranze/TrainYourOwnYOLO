@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f96f0bfbbdfdbbfea9830557ab0b5c93",
+        "name": "dreamstime_m_76883488_leaking-copper-water-pipe_1000px.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/dreamstime_m_76883488_leaking-copper-water-pipe_1000px.jpg",
+        "size": {
+            "width": 1000,
+            "height": 666
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Be5rYrWtY",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 203.60054347826087,
+                "width": 257.0135746606335,
+                "left": 603.1674208144797,
+                "top": 380.478515625
+            },
+            "points": [
+                {
+                    "x": 603.1674208144797,
+                    "y": 380.478515625
+                },
+                {
+                    "x": 860.1809954751131,
+                    "y": 380.478515625
+                },
+                {
+                    "x": 860.1809954751131,
+                    "y": 584.0790591032609
+                },
+                {
+                    "x": 603.1674208144797,
+                    "y": 584.0790591032609
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0e3958318365cab87d9c6f8819f50c01",
+        "name": "rusty-metal-panel.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rusty-metal-panel.jpg",
+        "size": {
+            "width": 1366,
+            "height": 768
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9swgfbMsz",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 740.8360128617364,
+                "width": 1340.6579185520363,
+                "left": 9.271493212669684,
+                "top": 6.337620578778136
+            },
+            "points": [
+                {
+                    "x": 9.271493212669684,
+                    "y": 6.337620578778136
+                },
+                {
+                    "x": 1349.929411764706,
+                    "y": 6.337620578778136
+                },
+                {
+                    "x": 1349.929411764706,
+                    "y": 747.1736334405145
+                },
+                {
+                    "x": 9.271493212669684,
+                    "y": 747.1736334405145
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4675019bf2d25c3de54fda1166fea015",
+        "name": "corroded-steel-chain_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corroded-steel-chain_1.jpg",
+        "size": {
+            "width": 1000,
+            "height": 729
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AdaW6TCqi",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 497.00133155792275,
+                "width": 795.6310679611651,
+                "left": 41.74757281553398,
+                "top": 129.52854527296938
+            },
+            "points": [
+                {
+                    "x": 41.74757281553398,
+                    "y": 129.52854527296938
+                },
+                {
+                    "x": 837.3786407766991,
+                    "y": 129.52854527296938
+                },
+                {
+                    "x": 837.3786407766991,
+                    "y": 626.5298768308921
+                },
+                {
+                    "x": 41.74757281553398,
+                    "y": 626.5298768308921
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

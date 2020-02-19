@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "14f1014c273fe75388deeecd58251d1c",
+        "name": "methods-and-materials-for-corrosion-control-and-prevention.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/methods-and-materials-for-corrosion-control-and-prevention.jpg",
+        "size": {
+            "width": 536,
+            "height": 406
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jzIbFZ6v0",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 394.84348864994024,
+                "width": 529.9366515837104,
+                "left": 4.365610859728506,
+                "top": 6.790919952210275
+            },
+            "points": [
+                {
+                    "x": 4.365610859728506,
+                    "y": 6.790919952210275
+                },
+                {
+                    "x": 534.302262443439,
+                    "y": 6.790919952210275
+                },
+                {
+                    "x": 534.302262443439,
+                    "y": 401.63440860215053
+                },
+                {
+                    "x": 4.365610859728506,
+                    "y": 401.63440860215053
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

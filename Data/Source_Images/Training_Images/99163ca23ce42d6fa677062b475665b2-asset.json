@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "99163ca23ce42d6fa677062b475665b2",
+        "name": "Metal_14December_3rd-Edits-Wagner-Enterprises263.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/Metal_14December_3rd-Edits-Wagner-Enterprises263.jpg",
+        "size": {
+            "width": 1200,
+            "height": 1798
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ohz9U4KBj",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 1087.1391402714933,
+                "width": 891.864406779661,
+                "left": 107.79661016949152,
+                "top": 290.85294117647055
+            },
+            "points": [
+                {
+                    "x": 107.79661016949152,
+                    "y": 290.85294117647055
+                },
+                {
+                    "x": 999.6610169491526,
+                    "y": 290.85294117647055
+                },
+                {
+                    "x": 999.6610169491526,
+                    "y": 1377.9920814479638
+                },
+                {
+                    "x": 107.79661016949152,
+                    "y": 1377.9920814479638
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6410afba1f05942d7b01d3d36c034fe0",
+        "name": "Copyright-DGA-1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Copyright-DGA-1.jpg",
+        "size": {
+            "width": 300,
+            "height": 201
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NrAY2RWCG",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 51.12391304347826,
+                "width": 164.27184466019418,
+                "left": 86.35922330097087,
+                "top": 51.576800271739124
+            },
+            "points": [
+                {
+                    "x": 86.35922330097087,
+                    "y": 51.576800271739124
+                },
+                {
+                    "x": 250.63106796116503,
+                    "y": 51.576800271739124
+                },
+                {
+                    "x": 250.63106796116503,
+                    "y": 102.70071331521739
+                },
+                {
+                    "x": 86.35922330097087,
+                    "y": 102.70071331521739
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

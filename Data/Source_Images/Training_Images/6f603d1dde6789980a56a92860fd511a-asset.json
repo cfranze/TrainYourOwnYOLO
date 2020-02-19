@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6f603d1dde6789980a56a92860fd511a",
+        "name": "2019-08-05-Su-57-will-be-first-demonstrated-at-the-static-parking-MAKS_920x600_0af.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2019-08-05-Su-57-will-be-first-demonstrated-at-the-static-parking-MAKS_920x600_0af.jpg",
+        "size": {
+            "width": 920,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tAL6jVY22",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 440.17857142857144,
+                "width": 747.6116504854369,
+                "left": 87.0873786407767,
+                "top": 133.8169642857143
+            },
+            "points": [
+                {
+                    "x": 87.0873786407767,
+                    "y": 133.8169642857143
+                },
+                {
+                    "x": 834.6990291262136,
+                    "y": 133.8169642857143
+                },
+                {
+                    "x": 834.6990291262136,
+                    "y": 573.9955357142858
+                },
+                {
+                    "x": 87.0873786407767,
+                    "y": 573.9955357142858
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

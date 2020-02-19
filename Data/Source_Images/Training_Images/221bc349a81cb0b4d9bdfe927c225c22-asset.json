@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "221bc349a81cb0b4d9bdfe927c225c22",
+        "name": "Experience-Mustang-Flight-adventure.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Experience-Mustang-Flight-adventure.jpg",
+        "size": {
+            "width": 1600,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TVloDJxwi",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 432.579185520362,
+                "width": 1255.2036199095023,
+                "left": 136.65158371040724,
+                "top": 620.8144796380091
+            },
+            "points": [
+                {
+                    "x": 136.65158371040724,
+                    "y": 620.8144796380091
+                },
+                {
+                    "x": 1391.8552036199096,
+                    "y": 620.8144796380091
+                },
+                {
+                    "x": 1391.8552036199096,
+                    "y": 1053.393665158371
+                },
+                {
+                    "x": 136.65158371040724,
+                    "y": 1053.393665158371
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

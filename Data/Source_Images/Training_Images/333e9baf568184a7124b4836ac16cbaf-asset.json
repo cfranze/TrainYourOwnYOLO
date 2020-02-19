@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "333e9baf568184a7124b4836ac16cbaf",
+        "name": "cone_bottom_stainless_tank_044bf3bb-8143-4af7-9b71-ba962a03698e_600x.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/cone_bottom_stainless_tank_044bf3bb-8143-4af7-9b71-ba962a03698e_600x.jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KoIo6QSGz",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 575.5656108597285,
+                "width": 416.0633484162896,
+                "left": 88.23529411764706,
+                "top": 10.180995475113123
+            },
+            "points": [
+                {
+                    "x": 88.23529411764706,
+                    "y": 10.180995475113123
+                },
+                {
+                    "x": 504.2986425339367,
+                    "y": 10.180995475113123
+                },
+                {
+                    "x": 504.2986425339367,
+                    "y": 585.7466063348417
+                },
+                {
+                    "x": 88.23529411764706,
+                    "y": 585.7466063348417
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

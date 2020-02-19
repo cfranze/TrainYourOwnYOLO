@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0955189e03e74ea50fbc1b2a5d94b977",
+        "name": "beech-baron.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/beech-baron.jpg",
+        "size": {
+            "width": 1200,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YsIYGHaPo",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 646.8704512372634,
+                "width": 1035.7281553398057,
+                "left": 119.41747572815534,
+                "top": 63.27328966521106
+            },
+            "points": [
+                {
+                    "x": 119.41747572815534,
+                    "y": 63.27328966521106
+                },
+                {
+                    "x": 1155.1456310679612,
+                    "y": 63.27328966521106
+                },
+                {
+                    "x": 1155.1456310679612,
+                    "y": 710.1437409024745
+                },
+                {
+                    "x": 119.41747572815534,
+                    "y": 710.1437409024745
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

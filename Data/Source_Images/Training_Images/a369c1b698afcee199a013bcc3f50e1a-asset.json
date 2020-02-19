@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a369c1b698afcee199a013bcc3f50e1a",
+        "name": "klm.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/klm.jpg",
+        "size": {
+            "width": 2000,
+            "height": 1333
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2841oHAHR",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 923.5924308588063,
+                "width": 1987.378640776699,
+                "left": 12.62135922330097,
+                "top": 251.7565502183406
+            },
+            "points": [
+                {
+                    "x": 12.62135922330097,
+                    "y": 251.7565502183406
+                },
+                {
+                    "x": 2000,
+                    "y": 251.7565502183406
+                },
+                {
+                    "x": 2000,
+                    "y": 1175.3489810771468
+                },
+                {
+                    "x": 12.62135922330097,
+                    "y": 1175.3489810771468
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

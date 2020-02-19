@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "c198551e3ece723ca7768e567e85263b",
+        "name": "213-2139485_wall-cracked-cracking-cracks-ground-overlay-walls.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/213-2139485_wall-cracked-cracking-cracks-ground-overlay-walls.png",
+        "size": {
+            "width": 920,
+            "height": 881
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MuK7EJFkI",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 801.2714932126697,
+                "width": 486.9122426868906,
+                "left": 215.8664003250271,
+                "top": 40.362556561085974
+            },
+            "points": [
+                {
+                    "x": 215.8664003250271,
+                    "y": 40.362556561085974
+                },
+                {
+                    "x": 702.7786430119177,
+                    "y": 40.362556561085974
+                },
+                {
+                    "x": 702.7786430119177,
+                    "y": 841.6340497737557
+                },
+                {
+                    "x": 215.8664003250271,
+                    "y": 841.6340497737557
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

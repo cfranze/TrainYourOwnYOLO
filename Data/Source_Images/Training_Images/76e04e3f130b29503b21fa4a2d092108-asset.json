@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "76e04e3f130b29503b21fa4a2d092108",
+        "name": "corrosion-patina-lady-liberty.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-patina-lady-liberty.jpg",
+        "size": {
+            "width": 870,
+            "height": 580
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "feBOY6JQX",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 578.4500090975255,
+                "width": 482.3009708737864,
+                "left": 123.74271844660194,
+                "top": 1.5499909024745269
+            },
+            "points": [
+                {
+                    "x": 123.74271844660194,
+                    "y": 1.5499909024745269
+                },
+                {
+                    "x": 606.0436893203884,
+                    "y": 1.5499909024745269
+                },
+                {
+                    "x": 606.0436893203884,
+                    "y": 580
+                },
+                {
+                    "x": 123.74271844660194,
+                    "y": 580
+                }
+            ]
+        },
+        {
+            "id": "Op5smCKR3",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 91.31754912663756,
+                "width": 662.6359223300971,
+                "left": 163.8640776699029,
+                "top": 488.6824508733624
+            },
+            "points": [
+                {
+                    "x": 163.8640776699029,
+                    "y": 488.6824508733624
+                },
+                {
+                    "x": 826.5,
+                    "y": 488.6824508733624
+                },
+                {
+                    "x": 826.5,
+                    "y": 580
+                },
+                {
+                    "x": 163.8640776699029,
+                    "y": 580
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

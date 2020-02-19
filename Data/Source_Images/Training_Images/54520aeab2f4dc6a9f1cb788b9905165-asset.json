@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "54520aeab2f4dc6a9f1cb788b9905165",
+        "name": "6402_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/6402_1.jpg",
+        "size": {
+            "width": 700,
+            "height": 1003
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "b6rOYnZd_",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 280.25,
+                "width": 693.7867200162075,
+                "left": 6.213279983792544,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 6.213279983792544,
+                    "y": 0
+                },
+                {
+                    "x": 700,
+                    "y": 0
+                },
+                {
+                    "x": 700,
+                    "y": 280.25
+                },
+                {
+                    "x": 6.213279983792544,
+                    "y": 280.25
+                }
+            ]
+        },
+        {
+            "id": "fQYoz9XGc",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 998.4615384615385,
+                "width": 405.05090153970826,
+                "left": 294.94909846029174,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 294.94909846029174,
+                    "y": 0
+                },
+                {
+                    "x": 700,
+                    "y": 0
+                },
+                {
+                    "x": 700,
+                    "y": 998.4615384615385
+                },
+                {
+                    "x": 294.94909846029174,
+                    "y": 998.4615384615385
+                }
+            ]
+        },
+        {
+            "id": "LJMyX_5X_",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 267.2019230769231,
+                "width": 197.38021677471636,
+                "left": 0,
+                "top": 735.7980769230769
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 735.7980769230769
+                },
+                {
+                    "x": 197.38021677471636,
+                    "y": 735.7980769230769
+                },
+                {
+                    "x": 197.38021677471636,
+                    "y": 1003
+                },
+                {
+                    "x": 0,
+                    "y": 1003
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

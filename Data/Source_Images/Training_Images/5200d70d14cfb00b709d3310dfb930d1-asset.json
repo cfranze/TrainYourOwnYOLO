@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5200d70d14cfb00b709d3310dfb930d1",
+        "name": "Water-pipe-corrosion-water-quality-odj355c5ooutjhu7xsswe8cjqqr7z3gbgpa1qfageg.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Water-pipe-corrosion-water-quality-odj355c5ooutjhu7xsswe8cjqqr7z3gbgpa1qfageg.jpg",
+        "size": {
+            "width": 1140,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zAgu3XKRW",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 309.7938144329897,
+                "width": 395.1312217194571,
+                "left": 313.6289592760181,
+                "top": 177.14239690721647
+            },
+            "points": [
+                {
+                    "x": 313.6289592760181,
+                    "y": 177.14239690721647
+                },
+                {
+                    "x": 708.7601809954751,
+                    "y": 177.14239690721647
+                },
+                {
+                    "x": 708.7601809954751,
+                    "y": 486.9362113402061
+                },
+                {
+                    "x": 313.6289592760181,
+                    "y": 486.9362113402061
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

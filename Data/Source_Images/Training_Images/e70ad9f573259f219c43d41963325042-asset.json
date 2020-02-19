@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e70ad9f573259f219c43d41963325042",
+        "name": "220px-Corroding_machinery_at_old_White_Island_sulphur_mineJPG.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/220px-Corroding_machinery_at_old_White_Island_sulphur_mineJPG.jpg",
+        "size": {
+            "width": 220,
+            "height": 165
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZUkDX6Yj7",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 135.65006468305305,
+                "width": 219.4660194174757,
+                "left": 0.5339805825242718,
+                "top": 28.86966364812419
+            },
+            "points": [
+                {
+                    "x": 0.5339805825242718,
+                    "y": 28.86966364812419
+                },
+                {
+                    "x": 220,
+                    "y": 28.86966364812419
+                },
+                {
+                    "x": 220,
+                    "y": 164.51972833117725
+                },
+                {
+                    "x": 0.5339805825242718,
+                    "y": 164.51972833117725
+                }
+            ]
+        },
+        {
+            "id": "KLeqyrjjg",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 156.9421086675291,
+                "width": 97.8252427184466,
+                "left": 30.11650485436893,
+                "top": 8.057891332470893
+            },
+            "points": [
+                {
+                    "x": 30.11650485436893,
+                    "y": 8.057891332470893
+                },
+                {
+                    "x": 127.94174757281553,
+                    "y": 8.057891332470893
+                },
+                {
+                    "x": 127.94174757281553,
+                    "y": 165
+                },
+                {
+                    "x": 30.11650485436893,
+                    "y": 165
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

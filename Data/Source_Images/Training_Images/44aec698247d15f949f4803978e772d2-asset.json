@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "44aec698247d15f949f4803978e772d2",
+        "name": "Airplane-fire.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Airplane-fire.jpg",
+        "size": {
+            "width": 970,
+            "height": 546
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kc2TFEVOj",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 419.8551724137931,
+                "width": 463.81067961165047,
+                "left": 363.04368932038835,
+                "top": 51.672898706896554
+            },
+            "points": [
+                {
+                    "x": 363.04368932038835,
+                    "y": 51.672898706896554
+                },
+                {
+                    "x": 826.8543689320388,
+                    "y": 51.672898706896554
+                },
+                {
+                    "x": 826.8543689320388,
+                    "y": 471.5280711206897
+                },
+                {
+                    "x": 363.04368932038835,
+                    "y": 471.5280711206897
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

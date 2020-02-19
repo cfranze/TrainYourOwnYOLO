@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "975292525c6b85fe4581481750ebd066",
+        "name": "swage2_1305off.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/swage2_1305off.png",
+        "size": {
+            "width": 400,
+            "height": 169
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EoPxwNUGx",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 31.68749999999999,
+                "width": 249.59276018099547,
+                "left": 9.049773755656108,
+                "top": 75.79215738758032
+            },
+            "points": [
+                {
+                    "x": 9.049773755656108,
+                    "y": 75.79215738758032
+                },
+                {
+                    "x": 258.6425339366516,
+                    "y": 75.79215738758032
+                },
+                {
+                    "x": 258.6425339366516,
+                    "y": 107.4796573875803
+                },
+                {
+                    "x": 9.049773755656108,
+                    "y": 107.4796573875803
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

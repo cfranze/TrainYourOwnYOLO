@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cef37e399fb1e4ea49a14e0b7ea93530",
+        "name": "190810_ktrk_unitedplanecamera_hpMain_16x9_992.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190810_ktrk_unitedplanecamera_hpMain_16x9_992.jpg",
+        "size": {
+            "width": 992,
+            "height": 558
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SnTMOwVir",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 164.03275862068966,
+                "width": 437.2504854368932,
+                "left": 378.5009708737864,
+                "top": 207.02521551724138
+            },
+            "points": [
+                {
+                    "x": 378.5009708737864,
+                    "y": 207.02521551724138
+                },
+                {
+                    "x": 815.7514563106796,
+                    "y": 207.02521551724138
+                },
+                {
+                    "x": 815.7514563106796,
+                    "y": 371.05797413793107
+                },
+                {
+                    "x": 378.5009708737864,
+                    "y": 371.05797413793107
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

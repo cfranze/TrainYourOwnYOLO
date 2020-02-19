@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "11b6c89ad3f43a463c02f68d426a1f3a",
+        "name": "Transport.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Transport.jpg",
+        "size": {
+            "width": 810,
+            "height": 455
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "77O8C6Fqw",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 430.7986560880829,
+                "width": 806.4611650485436,
+                "left": 3.5388349514563107,
+                "top": 24.2013439119171
+            },
+            "points": [
+                {
+                    "x": 3.5388349514563107,
+                    "y": 24.2013439119171
+                },
+                {
+                    "x": 810,
+                    "y": 24.2013439119171
+                },
+                {
+                    "x": 810,
+                    "y": 455.00000000000006
+                },
+                {
+                    "x": 3.5388349514563107,
+                    "y": 455.00000000000006
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

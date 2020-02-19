@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d54ec06e00492aad85e6a42941dc0c79",
+        "name": "958868d1422309854-aluminum-frame-corrosion-shock-mount-superlight-2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/958868d1422309854-aluminum-frame-corrosion-shock-mount-superlight-2.jpg",
+        "size": {
+            "width": 1024,
+            "height": 768
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-iulo_sTj",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 325.8783958602846,
+                "width": 275.38640776699026,
+                "left": 134.2135922330097,
+                "top": 255.58602846054333
+            },
+            "points": [
+                {
+                    "x": 134.2135922330097,
+                    "y": 255.58602846054333
+                },
+                {
+                    "x": 409.59999999999997,
+                    "y": 255.58602846054333
+                },
+                {
+                    "x": 409.59999999999997,
+                    "y": 581.4644243208279
+                },
+                {
+                    "x": 134.2135922330097,
+                    "y": 581.4644243208279
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

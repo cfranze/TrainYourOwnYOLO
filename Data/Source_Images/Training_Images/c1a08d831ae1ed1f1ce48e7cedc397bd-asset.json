@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "c1a08d831ae1ed1f1ce48e7cedc397bd",
+        "name": "PMXST05000_736F6E.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/PMXST05000_736F6E.png",
+        "size": {
+            "width": 1140,
+            "height": 855
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yd2kG4TJt",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 763.2086851628468,
+                "width": 442.0723981900453,
+                "left": 346.6425339366516,
+                "top": 51.95491556091676
+            },
+            "points": [
+                {
+                    "x": 346.6425339366516,
+                    "y": 51.95491556091676
+                },
+                {
+                    "x": 788.7149321266969,
+                    "y": 51.95491556091676
+                },
+                {
+                    "x": 788.7149321266969,
+                    "y": 815.1636007237635
+                },
+                {
+                    "x": 346.6425339366516,
+                    "y": 815.1636007237635
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

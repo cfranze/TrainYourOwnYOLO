@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53c8ae4a3a49326ee43431805b77e802",
+        "name": "industries-commercial-tanks.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/industries-commercial-tanks.jpg",
+        "size": {
+            "width": 400,
+            "height": 420
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uCP0WEyTP",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 334.71719457013575,
+                "width": 147.03087885985747,
+                "left": 91.90172209026127,
+                "top": 64.85294117647058
+            },
+            "points": [
+                {
+                    "x": 91.90172209026127,
+                    "y": 64.85294117647058
+                },
+                {
+                    "x": 238.93260095011874,
+                    "y": 64.85294117647058
+                },
+                {
+                    "x": 238.93260095011874,
+                    "y": 399.5701357466063
+                },
+                {
+                    "x": 91.90172209026127,
+                    "y": 399.5701357466063
+                }
+            ]
+        },
+        {
+            "id": "lrQ7SL78L",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 290.0565610859728,
+                "width": 128.02850356294536,
+                "left": 185.72595011876484,
+                "top": 14.96606334841629
+            },
+            "points": [
+                {
+                    "x": 185.72595011876484,
+                    "y": 14.96606334841629
+                },
+                {
+                    "x": 313.7544536817102,
+                    "y": 14.96606334841629
+                },
+                {
+                    "x": 313.7544536817102,
+                    "y": 305.0226244343891
+                },
+                {
+                    "x": 185.72595011876484,
+                    "y": 305.0226244343891
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

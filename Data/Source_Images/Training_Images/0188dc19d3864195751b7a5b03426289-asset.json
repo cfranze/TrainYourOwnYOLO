@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0188dc19d3864195751b7a5b03426289",
+        "name": "Corrosion-Types-You-Can-Prevent-With-Thermal-Spray-Coatings.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Corrosion-Types-You-Can-Prevent-With-Thermal-Spray-Coatings.jpg",
+        "size": {
+            "width": 500,
+            "height": 333
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "h2qfPvr-9",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 88.832361516035,
+                "width": 499.2718446601942,
+                "left": 0.7281553398058253,
+                "top": 0.2389190051020408
+            },
+            "points": [
+                {
+                    "x": 0.7281553398058253,
+                    "y": 0.2389190051020408
+                },
+                {
+                    "x": 500,
+                    "y": 0.2389190051020408
+                },
+                {
+                    "x": 500,
+                    "y": 89.07128052113703
+                },
+                {
+                    "x": 0.7281553398058253,
+                    "y": 89.07128052113703
+                }
+            ]
+        },
+        {
+            "id": "aeeYWdK1t",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 96.1137026239067,
+                "width": 369.90291262135923,
+                "left": 130.09708737864077,
+                "top": 91.98381696428572
+            },
+            "points": [
+                {
+                    "x": 130.09708737864077,
+                    "y": 91.98381696428572
+                },
+                {
+                    "x": 500,
+                    "y": 91.98381696428572
+                },
+                {
+                    "x": 500,
+                    "y": 188.09751958819243
+                },
+                {
+                    "x": 130.09708737864077,
+                    "y": 188.09751958819243
+                }
+            ]
+        },
+        {
+            "id": "E7Y-AOrnk",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 141.5045212281341,
+                "width": 277.9126213592233,
+                "left": 222.0873786407767,
+                "top": 191.4954787718659
+            },
+            "points": [
+                {
+                    "x": 222.0873786407767,
+                    "y": 191.4954787718659
+                },
+                {
+                    "x": 500,
+                    "y": 191.4954787718659
+                },
+                {
+                    "x": 500,
+                    "y": 333
+                },
+                {
+                    "x": 222.0873786407767,
+                    "y": 333
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

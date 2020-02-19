@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7d4c6e2766297837b17dccac0e8098e4",
+        "name": "190721135435-02-venezuela-su-30-0721-exlarge-169.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190721135435-02-venezuela-su-30-0721-exlarge-169.jpg",
+        "size": {
+            "width": 780,
+            "height": 438
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "jagw-kA8d",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 238.2901554404145,
+                "width": 715.6310679611651,
+                "left": 4.922330097087379,
+                "top": 86.76432966321244
+            },
+            "points": [
+                {
+                    "x": 4.922330097087379,
+                    "y": 86.76432966321244
+                },
+                {
+                    "x": 720.5533980582525,
+                    "y": 86.76432966321244
+                },
+                {
+                    "x": 720.5533980582525,
+                    "y": 325.054485103627
+                },
+                {
+                    "x": 4.922330097087379,
+                    "y": 325.054485103627
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

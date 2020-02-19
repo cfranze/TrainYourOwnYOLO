@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fb07e94cd80d528b91bf5526d7c8a54d",
+        "name": "sst-slider-corrosion-rust-ok.960.285.s.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/sst-slider-corrosion-rust-ok.960.285.s.jpg",
+        "size": {
+            "width": 960,
+            "height": 285
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5LracWpP-",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 132.9420731707317,
+                "width": 433.9547511312217,
+                "left": 474.7873303167421,
+                "top": 23.915181974085364
+            },
+            "points": [
+                {
+                    "x": 474.7873303167421,
+                    "y": 23.915181974085364
+                },
+                {
+                    "x": 908.7420814479639,
+                    "y": 23.915181974085364
+                },
+                {
+                    "x": 908.7420814479639,
+                    "y": 156.85725514481706
+                },
+                {
+                    "x": 474.7873303167421,
+                    "y": 156.85725514481706
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

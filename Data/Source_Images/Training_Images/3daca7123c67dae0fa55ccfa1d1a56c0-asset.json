@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3daca7123c67dae0fa55ccfa1d1a56c0",
+        "name": "701_9900_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/701_9900_1.jpg",
+        "size": {
+            "width": 1200,
+            "height": 798
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ktq1DsBuP",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 196.2963503649635,
+                "width": 760.1941747572815,
+                "left": 245.8252427184466,
+                "top": 96.08218521897811
+            },
+            "points": [
+                {
+                    "x": 245.8252427184466,
+                    "y": 96.08218521897811
+                },
+                {
+                    "x": 1006.0194174757281,
+                    "y": 96.08218521897811
+                },
+                {
+                    "x": 1006.0194174757281,
+                    "y": 292.37853558394164
+                },
+                {
+                    "x": 245.8252427184466,
+                    "y": 292.37853558394164
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

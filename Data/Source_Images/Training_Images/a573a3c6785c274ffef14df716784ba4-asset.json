@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a573a3c6785c274ffef14df716784ba4",
+        "name": "not-all-corrosion-is-this-apparent_16001003_77678_1_14033272_500-500x324.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/not-all-corrosion-is-this-apparent_16001003_77678_1_14033272_500-500x324.jpg",
+        "size": {
+            "width": 500,
+            "height": 324
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4alrMoAT4",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 310.877094972067,
+                "width": 468.552036199095,
+                "left": 3.3936651583710407,
+                "top": 6.798315293296089
+            },
+            "points": [
+                {
+                    "x": 3.3936651583710407,
+                    "y": 6.798315293296089
+                },
+                {
+                    "x": 471.9457013574661,
+                    "y": 6.798315293296089
+                },
+                {
+                    "x": 471.9457013574661,
+                    "y": 317.67541026536315
+                },
+                {
+                    "x": 3.3936651583710407,
+                    "y": 317.67541026536315
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

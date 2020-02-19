@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d2a9d17086c23be3c081882e70a1ce09",
+        "name": "190906095526-american-airlines-mechanic-faces-sabotage-charge-marsh-nr-vpx-00000225-exlarge-169.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190906095526-american-airlines-mechanic-faces-sabotage-charge-marsh-nr-vpx-00000225-exlarge-169.jpg",
+        "size": {
+            "width": 780,
+            "height": 438
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TTz_kN6Jv",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 223.53886010362694,
+                "width": 561.5242718446602,
+                "left": 89.35922330097087,
+                "top": 72.01303432642487
+            },
+            "points": [
+                {
+                    "x": 89.35922330097087,
+                    "y": 72.01303432642487
+                },
+                {
+                    "x": 650.8834951456311,
+                    "y": 72.01303432642487
+                },
+                {
+                    "x": 650.8834951456311,
+                    "y": 295.55189443005185
+                },
+                {
+                    "x": 89.35922330097087,
+                    "y": 295.55189443005185
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

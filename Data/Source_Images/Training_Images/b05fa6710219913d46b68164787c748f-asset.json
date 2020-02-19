@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b05fa6710219913d46b68164787c748f",
+        "name": "F-21.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/F-21.jpg",
+        "size": {
+            "width": 1024,
+            "height": 653
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v00sThg2l",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 487.0167427701674,
+                "width": 957.3902912621359,
+                "left": 27.836893203883495,
+                "top": 102.2874928652968
+            },
+            "points": [
+                {
+                    "x": 27.836893203883495,
+                    "y": 102.2874928652968
+                },
+                {
+                    "x": 985.2271844660194,
+                    "y": 102.2874928652968
+                },
+                {
+                    "x": 985.2271844660194,
+                    "y": 589.3042356354642
+                },
+                {
+                    "x": 27.836893203883495,
+                    "y": 589.3042356354642
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

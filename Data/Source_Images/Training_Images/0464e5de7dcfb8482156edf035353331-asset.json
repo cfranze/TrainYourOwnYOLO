@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0464e5de7dcfb8482156edf035353331",
+        "name": "corrosion-and-oxidation-on-a-copper-sheet-a-copper-component-that-has-been-exposed-to-air-for-some-months-and-is-showing-distinct-corrosion-copper-r-R2GH57.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-and-oxidation-on-a-copper-sheet-a-copper-component-that-has-been-exposed-to-air-for-some-months-and-is-showing-distinct-corrosion-copper-r-R2GH57.jpg",
+        "size": {
+            "width": 1300,
+            "height": 1016
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kjXWrPBjQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 596.3478260869565,
+                "width": 656.9417475728156,
+                "left": 149.56310679611653,
+                "top": 244.8496894409938
+            },
+            "points": [
+                {
+                    "x": 149.56310679611653,
+                    "y": 244.8496894409938
+                },
+                {
+                    "x": 806.5048543689321,
+                    "y": 244.8496894409938
+                },
+                {
+                    "x": 806.5048543689321,
+                    "y": 841.1975155279504
+                },
+                {
+                    "x": 149.56310679611653,
+                    "y": 841.1975155279504
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

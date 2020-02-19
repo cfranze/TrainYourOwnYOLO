@@ -1,0 +1,80 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1aab7a522b95dedb6ee1c8abdf9f0cdd",
+        "name": "Crevice-Corrosion-teaser_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Crevice-Corrosion-teaser_1.jpg",
+        "size": {
+            "width": 900,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kGHsQp2f6",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 245.45454545454544,
+                "width": 691.0859728506787,
+                "left": 85.92760180995475,
+                "top": 85.34811736770692
+            },
+            "points": [
+                {
+                    "x": 85.92760180995475,
+                    "y": 85.34811736770692
+                },
+                {
+                    "x": 777.0135746606335,
+                    "y": 85.34811736770692
+                },
+                {
+                    "x": 777.0135746606335,
+                    "y": 330.80266282225233
+                },
+                {
+                    "x": 85.92760180995475,
+                    "y": 330.80266282225233
+                }
+            ]
+        },
+        {
+            "id": "dT0a5pa3J",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 449.9300373134328,
+                "width": 712.6696832579186,
+                "left": 97.33031674208145,
+                "top": 150.06996268656715
+            },
+            "points": [
+                {
+                    "x": 97.33031674208145,
+                    "y": 150.06996268656715
+                },
+                {
+                    "x": 810,
+                    "y": 150.06996268656715
+                },
+                {
+                    "x": 810,
+                    "y": 600
+                },
+                {
+                    "x": 97.33031674208145,
+                    "y": 600
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

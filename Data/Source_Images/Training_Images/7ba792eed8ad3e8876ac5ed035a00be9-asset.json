@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7ba792eed8ad3e8876ac5ed035a00be9",
+        "name": "corrosion-applications-graphic-271814-edited.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-applications-graphic-271814-edited.jpg",
+        "size": {
+            "width": 335,
+            "height": 174
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aYsjiNx4C",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 173.6747663551402,
+                "width": 334.8373786407767,
+                "left": 0.16262135922330098,
+                "top": 0.3252336448598131
+            },
+            "points": [
+                {
+                    "x": 0.16262135922330098,
+                    "y": 0.3252336448598131
+                },
+                {
+                    "x": 335,
+                    "y": 0.3252336448598131
+                },
+                {
+                    "x": 335,
+                    "y": 174
+                },
+                {
+                    "x": 0.16262135922330098,
+                    "y": 174
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

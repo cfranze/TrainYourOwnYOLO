@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a62b15a1deb327d847aed847ff65c7fa",
+        "name": "Cirrus-TRAC-series-1200x800.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Cirrus-TRAC-series-1200x800.jpg",
+        "size": {
+            "width": 1200,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sdA_d1t-W",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 412.22707423580783,
+                "width": 1041.5533980582525,
+                "left": 73.39805825242718,
+                "top": 195.44213973799125
+            },
+            "points": [
+                {
+                    "x": 73.39805825242718,
+                    "y": 195.44213973799125
+                },
+                {
+                    "x": 1114.9514563106795,
+                    "y": 195.44213973799125
+                },
+                {
+                    "x": 1114.9514563106795,
+                    "y": 607.6692139737991
+                },
+                {
+                    "x": 73.39805825242718,
+                    "y": 607.6692139737991
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

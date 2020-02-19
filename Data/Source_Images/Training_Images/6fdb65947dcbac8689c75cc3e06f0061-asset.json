@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6fdb65947dcbac8689c75cc3e06f0061",
+        "name": "178625_original_R_K_by_wilhei_pixelio.de.jpg.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/178625_original_R_K_by_wilhei_pixelio.de.jpg.jpg",
+        "size": {
+            "width": 1800,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pa82kyO10",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 1198.6389077340568,
+                "width": 1798.3710407239819,
+                "left": 1.6289592760180995,
+                "top": 1.3610922659430122
+            },
+            "points": [
+                {
+                    "x": 1.6289592760180995,
+                    "y": 1.3610922659430122
+                },
+                {
+                    "x": 1800,
+                    "y": 1.3610922659430122
+                },
+                {
+                    "x": 1800,
+                    "y": 1200
+                },
+                {
+                    "x": 1.6289592760180995,
+                    "y": 1200
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

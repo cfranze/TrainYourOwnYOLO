@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9642119781ea130e886d577a299aad15",
+        "name": "GalvanicCorrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/GalvanicCorrosion.jpg",
+        "size": {
+            "width": 1100,
+            "height": 734
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GeSL0OtSw",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 343.130081300813,
+                "width": 400.6787330316742,
+                "left": 547.5113122171946,
+                "top": 204.05983231707316
+            },
+            "points": [
+                {
+                    "x": 547.5113122171946,
+                    "y": 204.05983231707316
+                },
+                {
+                    "x": 948.1900452488688,
+                    "y": 204.05983231707316
+                },
+                {
+                    "x": 948.1900452488688,
+                    "y": 547.1899136178862
+                },
+                {
+                    "x": 547.5113122171946,
+                    "y": 547.1899136178862
+                }
+            ]
+        },
+        {
+            "id": "0CuLHuLnb",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 367,
+                "width": 222.98642533936652,
+                "left": 298.6425339366516,
+                "top": 183.17365345528455
+            },
+            "points": [
+                {
+                    "x": 298.6425339366516,
+                    "y": 183.17365345528455
+                },
+                {
+                    "x": 521.6289592760181,
+                    "y": 183.17365345528455
+                },
+                {
+                    "x": 521.6289592760181,
+                    "y": 550.1736534552846
+                },
+                {
+                    "x": 298.6425339366516,
+                    "y": 550.1736534552846
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

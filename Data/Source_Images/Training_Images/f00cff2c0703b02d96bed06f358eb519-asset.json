@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f00cff2c0703b02d96bed06f358eb519",
+        "name": "220px-Galvanic_corrosion_of_aluminum_and_steel_in_seawater.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/220px-Galvanic_corrosion_of_aluminum_and_steel_in_seawater.jpg",
+        "size": {
+            "width": 220,
+            "height": 207
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lxqaE3o7z",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 192.01357466063348,
+                "width": 51.55152925531915,
+                "left": 0,
+                "top": 0.3512443438914027
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0.3512443438914027
+                },
+                {
+                    "x": 51.55152925531915,
+                    "y": 0.3512443438914027
+                },
+                {
+                    "x": 51.55152925531915,
+                    "y": 192.3648190045249
+                },
+                {
+                    "x": 0,
+                    "y": 192.3648190045249
+                }
+            ]
+        },
+        {
+            "id": "EoWMpPWo-",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 64.1606334841629,
+                "width": 182.49833776595744,
+                "left": 0,
+                "top": 142.8393665158371
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 142.8393665158371
+                },
+                {
+                    "x": 182.49833776595744,
+                    "y": 142.8393665158371
+                },
+                {
+                    "x": 182.49833776595744,
+                    "y": 207
+                },
+                {
+                    "x": 0,
+                    "y": 207
+                }
+            ]
+        },
+        {
+            "id": "bunH2Fd-z",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 131.71662895927602,
+                "width": 103.2749335106383,
+                "left": 0,
+                "top": 75.28337104072398
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 75.28337104072398
+                },
+                {
+                    "x": 103.2749335106383,
+                    "y": 75.28337104072398
+                },
+                {
+                    "x": 103.2749335106383,
+                    "y": 207
+                },
+                {
+                    "x": 0,
+                    "y": 207
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

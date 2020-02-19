@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "912afd06e3c050cbef72379f04572496",
+        "name": "aluminum-corrosion--1080x675.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/aluminum-corrosion--1080x675.jpg",
+        "size": {
+            "width": 1080,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EZXVDDGbd",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 569.2692158385091,
+                "width": 968.3300970873786,
+                "left": 5.766990291262136,
+                "top": 105.73078416149066
+            },
+            "points": [
+                {
+                    "x": 5.766990291262136,
+                    "y": 105.73078416149066
+                },
+                {
+                    "x": 974.0970873786407,
+                    "y": 105.73078416149066
+                },
+                {
+                    "x": 974.0970873786407,
+                    "y": 674.9999999999998
+                },
+                {
+                    "x": 5.766990291262136,
+                    "y": 674.9999999999998
+                }
+            ]
+        },
+        {
+            "id": "HUZTREdf3",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 672.5106754658384,
+                "width": 379.5728155339806,
+                "left": 700.4271844660194,
+                "top": 2.4893245341614905
+            },
+            "points": [
+                {
+                    "x": 700.4271844660194,
+                    "y": 2.4893245341614905
+                },
+                {
+                    "x": 1080,
+                    "y": 2.4893245341614905
+                },
+                {
+                    "x": 1080,
+                    "y": 674.9999999999999
+                },
+                {
+                    "x": 700.4271844660194,
+                    "y": 674.9999999999999
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "a95ddf0eb45095ad221c7e01e410481c",
+        "name": "image32_1.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image32_1.jpeg",
+        "size": {
+            "width": 294,
+            "height": 171
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VS5ZNEiNG",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 66.37312186978298,
+                "width": 156.2766990291262,
+                "left": 112.74757281553399,
+                "top": 7.863965984974959
+            },
+            "points": [
+                {
+                    "x": 112.74757281553399,
+                    "y": 7.863965984974959
+                },
+                {
+                    "x": 269.0242718446602,
+                    "y": 7.863965984974959
+                },
+                {
+                    "x": 269.0242718446602,
+                    "y": 74.23708785475793
+                },
+                {
+                    "x": 112.74757281553399,
+                    "y": 74.23708785475793
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

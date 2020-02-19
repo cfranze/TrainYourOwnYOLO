@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "cf6d0fab88ea57671587ea4a6cdb5f10",
+        "name": "Corrosion-Resistance-Water-Wall-Panels-For-Power.png_350x350.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Corrosion-Resistance-Water-Wall-Panels-For-Power.png_350x350.png",
+        "size": {
+            "width": 350,
+            "height": 350
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "EngjuwJD1",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 228.64819004524887,
+                "width": 349.20814479638005,
+                "left": 0.7918552036199095,
+                "top": 58.79524886877828
+            },
+            "points": [
+                {
+                    "x": 0.7918552036199095,
+                    "y": 58.79524886877828
+                },
+                {
+                    "x": 350,
+                    "y": 58.79524886877828
+                },
+                {
+                    "x": 350,
+                    "y": 287.4434389140271
+                },
+                {
+                    "x": 0.7918552036199095,
+                    "y": 287.4434389140271
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

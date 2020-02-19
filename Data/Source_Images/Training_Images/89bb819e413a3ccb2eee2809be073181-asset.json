@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "89bb819e413a3ccb2eee2809be073181",
+        "name": "pl17816244-corrosion_proof_stainless_steel_rod_1_2083_tool_steel_containing_15_high_cr_content.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/pl17816244-corrosion_proof_stainless_steel_rod_1_2083_tool_steel_containing_15_high_cr_content.jpg",
+        "size": {
+            "width": 700,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UpQrqhwsX",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 216.7721518987342,
+                "width": 138.73303167420815,
+                "left": 106.10859728506787,
+                "top": 215.28382120253167
+            },
+            "points": [
+                {
+                    "x": 106.10859728506787,
+                    "y": 215.28382120253167
+                },
+                {
+                    "x": 244.841628959276,
+                    "y": 215.28382120253167
+                },
+                {
+                    "x": 244.841628959276,
+                    "y": 432.05597310126586
+                },
+                {
+                    "x": 106.10859728506787,
+                    "y": 432.05597310126586
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

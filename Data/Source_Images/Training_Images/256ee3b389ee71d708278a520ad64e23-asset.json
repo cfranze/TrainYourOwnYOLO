@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "256ee3b389ee71d708278a520ad64e23",
+        "name": "stainlessblog_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/stainlessblog_1.jpg",
+        "size": {
+            "width": 483,
+            "height": 724
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fPEI6MuVd",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 711.7149321266968,
+                "width": 338.5093220338983,
+                "left": 3.172245762711864,
+                "top": 3.276018099547511
+            },
+            "points": [
+                {
+                    "x": 3.172245762711864,
+                    "y": 3.276018099547511
+                },
+                {
+                    "x": 341.6815677966102,
+                    "y": 3.276018099547511
+                },
+                {
+                    "x": 341.6815677966102,
+                    "y": 714.9909502262443
+                },
+                {
+                    "x": 3.172245762711864,
+                    "y": 714.9909502262443
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

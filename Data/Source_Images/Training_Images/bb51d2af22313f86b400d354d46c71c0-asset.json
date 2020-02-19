@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bb51d2af22313f86b400d354d46c71c0",
+        "name": "red_rust_corrosion_on_edges.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/red_rust_corrosion_on_edges.jpg",
+        "size": {
+            "width": 5472,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Jqel-FskI",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 2026.9416553595656,
+                "width": 3092.5466063348417,
+                "left": 2320.028959276018,
+                "top": 1590.547489823609
+            },
+            "points": [
+                {
+                    "x": 2320.028959276018,
+                    "y": 1590.547489823609
+                },
+                {
+                    "x": 5412.5755656108595,
+                    "y": 1590.547489823609
+                },
+                {
+                    "x": 5412.5755656108595,
+                    "y": 3617.489145183175
+                },
+                {
+                    "x": 2320.028959276018,
+                    "y": 3617.489145183175
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

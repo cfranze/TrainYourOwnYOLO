@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "524ffd90ce026288fc0fb37b7c1fa74e",
+        "name": "c9e18c24-5ba8-4094-b6f7-fcca8cec246e.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/c9e18c24-5ba8-4094-b6f7-fcca8cec246e.jpg",
+        "size": {
+            "width": 516,
+            "height": 389
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BzBeV6J9_",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 384.0966386554622,
+                "width": 270.6081447963801,
+                "left": 138.92307692307693,
+                "top": 0.9449185924369748
+            },
+            "points": [
+                {
+                    "x": 138.92307692307693,
+                    "y": 0.9449185924369748
+                },
+                {
+                    "x": 409.531221719457,
+                    "y": 0.9449185924369748
+                },
+                {
+                    "x": 409.531221719457,
+                    "y": 385.04155724789916
+                },
+                {
+                    "x": 138.92307692307693,
+                    "y": 385.04155724789916
+                }
+            ]
+        },
+        {
+            "id": "LjDoq4jew",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 286.9633853541417,
+                "width": 105.30135746606335,
+                "left": 409.531221719457,
+                "top": 92.94131715186074
+            },
+            "points": [
+                {
+                    "x": 409.531221719457,
+                    "y": 92.94131715186074
+                },
+                {
+                    "x": 514.8325791855203,
+                    "y": 92.94131715186074
+                },
+                {
+                    "x": 514.8325791855203,
+                    "y": 379.9047025060024
+                },
+                {
+                    "x": 409.531221719457,
+                    "y": 379.9047025060024
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

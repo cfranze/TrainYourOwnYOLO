@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "05b3ef56756460825d0e6eca6023fbb8",
+        "name": "toomanyairpl.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/toomanyairpl.jpg",
+        "size": {
+            "width": 800,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bC4FbLC12",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 354.9514563106796,
+                "width": 791.4563106796116,
+                "left": 3.883495145631068,
+                "top": 20.97087378640777
+            },
+            "points": [
+                {
+                    "x": 3.883495145631068,
+                    "y": 20.97087378640777
+                },
+                {
+                    "x": 795.3398058252427,
+                    "y": 20.97087378640777
+                },
+                {
+                    "x": 795.3398058252427,
+                    "y": 375.92233009708735
+                },
+                {
+                    "x": 3.883495145631068,
+                    "y": 375.92233009708735
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

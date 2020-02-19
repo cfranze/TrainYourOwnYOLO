@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2386d69168f45d64adda56962bf78e31",
+        "name": "0618pffeatureanodizingtotarocasting.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/0618pffeatureanodizingtotarocasting.jpg",
+        "size": {
+            "width": 2400,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Hi65AzRlR",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 1267.7532013969733,
+                "width": 1311.8446601941746,
+                "left": 510.2912621359223,
+                "top": 595.2779394644937
+            },
+            "points": [
+                {
+                    "x": 510.2912621359223,
+                    "y": 595.2779394644937
+                },
+                {
+                    "x": 1822.135922330097,
+                    "y": 595.2779394644937
+                },
+                {
+                    "x": 1822.135922330097,
+                    "y": 1863.031140861467
+                },
+                {
+                    "x": 510.2912621359223,
+                    "y": 1863.031140861467
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

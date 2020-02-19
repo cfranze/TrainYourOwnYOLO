@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dca428eb6cb795f4bcca01ca17846f01",
+        "name": "Jet2-flight-768x473.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Jet2-flight-768x473.jpg",
+        "size": {
+            "width": 768,
+            "height": 473
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aEvQn0KvU",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 252.51496062992126,
+                "width": 765.0174757281553,
+                "left": 2.9825242718446603,
+                "top": 88.0357283464567
+            },
+            "points": [
+                {
+                    "x": 2.9825242718446603,
+                    "y": 88.0357283464567
+                },
+                {
+                    "x": 768,
+                    "y": 88.0357283464567
+                },
+                {
+                    "x": 768,
+                    "y": 340.55068897637796
+                },
+                {
+                    "x": 2.9825242718446603,
+                    "y": 340.55068897637796
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a87c3fee8dceac643419561dc4851a53",
+        "name": "07092019_tzr_tzr_141610-780x501.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/07092019_tzr_tzr_141610-780x501.jpg",
+        "size": {
+            "width": 780,
+            "height": 501
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JE8cdckOu",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 253.90558912386706,
+                "width": 772.4271844660194,
+                "left": 7.572815533980583,
+                "top": 83.08809714879153
+            },
+            "points": [
+                {
+                    "x": 7.572815533980583,
+                    "y": 83.08809714879153
+                },
+                {
+                    "x": 780,
+                    "y": 83.08809714879153
+                },
+                {
+                    "x": 780,
+                    "y": 336.9936862726586
+                },
+                {
+                    "x": 7.572815533980583,
+                    "y": 336.9936862726586
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

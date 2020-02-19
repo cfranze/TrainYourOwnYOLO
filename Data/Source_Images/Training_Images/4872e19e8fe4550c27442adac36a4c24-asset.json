@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4872e19e8fe4550c27442adac36a4c24",
+        "name": "Marine-survey-stainless-steel-chainplate-crevice-corrosion-1080x675.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Marine-survey-stainless-steel-chainplate-crevice-corrosion-1080x675.jpg",
+        "size": {
+            "width": 1080,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PL2zi2R6j",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 515.2858176555716,
+                "width": 172.99547511312215,
+                "left": 463.7647058823529,
+                "top": 159.04260130246018
+            },
+            "points": [
+                {
+                    "x": 463.7647058823529,
+                    "y": 159.04260130246018
+                },
+                {
+                    "x": 636.7601809954751,
+                    "y": 159.04260130246018
+                },
+                {
+                    "x": 636.7601809954751,
+                    "y": 674.3284189580318
+                },
+                {
+                    "x": 463.7647058823529,
+                    "y": 674.3284189580318
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

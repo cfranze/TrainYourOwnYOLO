@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "636d050e68748abf4c6235ceefa220b2",
+        "name": "CopperPipeFailure2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/CopperPipeFailure2.jpg",
+        "size": {
+            "width": 300,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HuGpT2oFv",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 88.79184861717611,
+                "width": 299.5631067961165,
+                "left": 0.4368932038834951,
+                "top": 57.15747816593886
+            },
+            "points": [
+                {
+                    "x": 0.4368932038834951,
+                    "y": 57.15747816593886
+                },
+                {
+                    "x": 300,
+                    "y": 57.15747816593886
+                },
+                {
+                    "x": 300,
+                    "y": 145.94932678311497
+                },
+                {
+                    "x": 0.4368932038834951,
+                    "y": 145.94932678311497
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

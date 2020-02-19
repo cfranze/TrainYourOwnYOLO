@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "945d48389ff19aa34a81fecec286a109",
+        "name": "csm_Korrosionsuntersuchungen_05_06b17634ce.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/csm_Korrosionsuntersuchungen_05_06b17634ce.jpg",
+        "size": {
+            "width": 650,
+            "height": 700
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v7MA0c1Lc",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 699.2081447963801,
+                "width": 648.07637408648,
+                "left": 1.9236259135200975,
+                "top": 0.7918552036199095
+            },
+            "points": [
+                {
+                    "x": 1.9236259135200975,
+                    "y": 0.7918552036199095
+                },
+                {
+                    "x": 650,
+                    "y": 0.7918552036199095
+                },
+                {
+                    "x": 650,
+                    "y": 700
+                },
+                {
+                    "x": 1.9236259135200975,
+                    "y": 700
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

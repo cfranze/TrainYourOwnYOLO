@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9f7b0ef5159ca680b5de7cb3d0ee4ddb",
+        "name": "corrosion-w1134xh350pxl_tcm8-94380.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-w1134xh350pxl_tcm8-94380.jpg",
+        "size": {
+            "width": 1134,
+            "height": 350
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MIR-ou2So",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 348.95096305031444,
+                "width": 1132.3485436893202,
+                "left": 1.6514563106796114,
+                "top": 1.0490369496855345
+            },
+            "points": [
+                {
+                    "x": 1.6514563106796114,
+                    "y": 1.0490369496855345
+                },
+                {
+                    "x": 1134,
+                    "y": 1.0490369496855345
+                },
+                {
+                    "x": 1134,
+                    "y": 350
+                },
+                {
+                    "x": 1.6514563106796114,
+                    "y": 350
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

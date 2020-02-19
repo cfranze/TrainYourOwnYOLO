@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "54a54b0a5fb688766f712fb4f5330949",
+        "name": "10020350-dried-out-grey-ground-with-cracks.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/10020350-dried-out-grey-ground-with-cracks.jpg",
+        "size": {
+            "width": 1300,
+            "height": 863
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Hnq8t5BvG",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 861.4935711852861,
+                "width": 1299.4117647058824,
+                "left": 0.5882352941176471,
+                "top": 1.5064288147138964
+            },
+            "points": [
+                {
+                    "x": 0.5882352941176471,
+                    "y": 1.5064288147138964
+                },
+                {
+                    "x": 1300,
+                    "y": 1.5064288147138964
+                },
+                {
+                    "x": 1300,
+                    "y": 863
+                },
+                {
+                    "x": 0.5882352941176471,
+                    "y": 863
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "df472720652962ee3f8eeaa8055af05f",
+        "name": "pipe-corrosion-copper-sulfate-rusty-water-mineral-closeup-erosion-oxidation-124552571.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/pipe-corrosion-copper-sulfate-rusty-water-mineral-closeup-erosion-oxidation-124552571.jpg",
+        "size": {
+            "width": 1300,
+            "height": 957
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eVG-3t2aL",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 701.2905405405405,
+                "width": 1184.1176470588236,
+                "left": 109.41176470588236,
+                "top": 88.44203969594595
+            },
+            "points": [
+                {
+                    "x": 109.41176470588236,
+                    "y": 88.44203969594595
+                },
+                {
+                    "x": 1293.5294117647059,
+                    "y": 88.44203969594595
+                },
+                {
+                    "x": 1293.5294117647059,
+                    "y": 789.7325802364865
+                },
+                {
+                    "x": 109.41176470588236,
+                    "y": 789.7325802364865
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

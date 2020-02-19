@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e2634c9ad1e337f2a2276c2b2f9b2bb",
+        "name": "corrosion-copper-metal-brass-selective-leaching-rusty-shower-pot.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-copper-metal-brass-selective-leaching-rusty-shower-pot.jpg",
+        "size": {
+            "width": 800,
+            "height": 533
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_kHUSZH4-",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 448.31049562682216,
+                "width": 740.5825242718447,
+                "left": 31.067961165048544,
+                "top": 54.48487609329446
+            },
+            "points": [
+                {
+                    "x": 31.067961165048544,
+                    "y": 54.48487609329446
+                },
+                {
+                    "x": 771.6504854368932,
+                    "y": 54.48487609329446
+                },
+                {
+                    "x": 771.6504854368932,
+                    "y": 502.79537172011663
+                },
+                {
+                    "x": 31.067961165048544,
+                    "y": 502.79537172011663
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

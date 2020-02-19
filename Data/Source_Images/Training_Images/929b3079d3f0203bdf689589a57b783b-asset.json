@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "929b3079d3f0203bdf689589a57b783b",
+        "name": "steel.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/steel.jpg",
+        "size": {
+            "width": 347,
+            "height": 261
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_QoWlXzCU",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 184.5216606498195,
+                "width": 47.88914027149321,
+                "left": 145.70859728506787,
+                "top": 4.89031475631769
+            },
+            "points": [
+                {
+                    "x": 145.70859728506787,
+                    "y": 4.89031475631769
+                },
+                {
+                    "x": 193.59773755656107,
+                    "y": 4.89031475631769
+                },
+                {
+                    "x": 193.59773755656107,
+                    "y": 189.4119754061372
+                },
+                {
+                    "x": 145.70859728506787,
+                    "y": 189.4119754061372
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

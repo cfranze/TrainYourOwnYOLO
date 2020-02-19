@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "4008418462b3ff9b64530db1f0be44ee",
+        "name": "videoblocks-engineering-general-corrosion-in-an-iron-metal-macro-view_ro0xbn83b_thumbnail-full01.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/videoblocks-engineering-general-corrosion-in-an-iron-metal-macro-view_ro0xbn83b_thumbnail-full01.png",
+        "size": {
+            "width": 1920,
+            "height": 1013
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SX5fc10ei",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 989.5428816466552,
+                "width": 1882.6425339366517,
+                "left": 6.950226244343892,
+                "top": 6.963832011149228
+            },
+            "points": [
+                {
+                    "x": 6.950226244343892,
+                    "y": 6.963832011149228
+                },
+                {
+                    "x": 1889.5927601809956,
+                    "y": 6.963832011149228
+                },
+                {
+                    "x": 1889.5927601809956,
+                    "y": 996.5067136578044
+                },
+                {
+                    "x": 6.950226244343892,
+                    "y": 996.5067136578044
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f596a74d5e25fb1707e3c329bbe1de08",
+        "name": "Old-Rust-Steel-Corrosion-Rusted-Iron-Rusty-Metal-4443528.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Old-Rust-Steel-Corrosion-Rusted-Iron-Rusty-Metal-4443528.jpg",
+        "size": {
+            "width": 960,
+            "height": 637
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ujAQgMO2z",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 617.5418443042294,
+                "width": 941.321266968326,
+                "left": 10.42533936651584,
+                "top": 8.255798090040928
+            },
+            "points": [
+                {
+                    "x": 10.42533936651584,
+                    "y": 8.255798090040928
+                },
+                {
+                    "x": 951.7466063348419,
+                    "y": 8.255798090040928
+                },
+                {
+                    "x": 951.7466063348419,
+                    "y": 625.7976423942703
+                },
+                {
+                    "x": 10.42533936651584,
+                    "y": 625.7976423942703
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

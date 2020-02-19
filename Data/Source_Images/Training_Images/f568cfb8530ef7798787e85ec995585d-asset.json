@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f568cfb8530ef7798787e85ec995585d",
+        "name": "lion-air-pilots-fought-to-save-plane-before-fatal-crash.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/lion-air-pilots-fought-to-save-plane-before-fatal-crash.jpg",
+        "size": {
+            "width": 3000,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wwGg0paXZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 947.5982532751092,
+                "width": 2702.9126213592235,
+                "left": 145.63106796116506,
+                "top": 520.6286390101892
+            },
+            "points": [
+                {
+                    "x": 145.63106796116506,
+                    "y": 520.6286390101892
+                },
+                {
+                    "x": 2848.5436893203882,
+                    "y": 520.6286390101892
+                },
+                {
+                    "x": 2848.5436893203882,
+                    "y": 1468.2268922852984
+                },
+                {
+                    "x": 145.63106796116506,
+                    "y": 1468.2268922852984
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

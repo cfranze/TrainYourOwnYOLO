@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "01b4ee01ce5a2cfbe3f117f37f1e2d77",
+        "name": "568478d1497923428-dissolving-aluminum-corrosion-img_4376.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/568478d1497923428-dissolving-aluminum-corrosion-img_4376.jpg",
+        "size": {
+            "width": 2307,
+            "height": 1654
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "D920NDhbk",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 426.36941813261166,
+                "width": 603.6276699029127,
+                "left": 1154.6199029126215,
+                "top": 302.6761248308525
+            },
+            "points": [
+                {
+                    "x": 1154.6199029126215,
+                    "y": 302.6761248308525
+                },
+                {
+                    "x": 1758.247572815534,
+                    "y": 302.6761248308525
+                },
+                {
+                    "x": 1758.247572815534,
+                    "y": 729.0455429634642
+                },
+                {
+                    "x": 1154.6199029126215,
+                    "y": 729.0455429634642
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

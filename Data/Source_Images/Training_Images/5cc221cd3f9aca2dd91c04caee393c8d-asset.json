@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "5cc221cd3f9aca2dd91c04caee393c8d",
+        "name": "15-159659_dark-cracks-texture-stock-photography.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/15-159659_dark-cracks-texture-stock-photography.png",
+        "size": {
+            "width": 300,
+            "height": 287
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "edcNBKM52",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 267.8450226244344,
+                "width": 281.16883116883116,
+                "left": 9.585531655844155,
+                "top": 9.577488687782806
+            },
+            "points": [
+                {
+                    "x": 9.585531655844155,
+                    "y": 9.577488687782806
+                },
+                {
+                    "x": 290.7543628246753,
+                    "y": 9.577488687782806
+                },
+                {
+                    "x": 290.7543628246753,
+                    "y": 277.4225113122172
+                },
+                {
+                    "x": 9.585531655844155,
+                    "y": 277.4225113122172
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

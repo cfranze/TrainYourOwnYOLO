@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7d643207dad81351195c748da0e3f9ab",
+        "name": "ATR4220-20C-FJYW2053.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/ATR4220-20C-FJYW2053.jpg",
+        "size": {
+            "width": 2580,
+            "height": 1932
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wLVqNMRIp",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 1008.5440414507772,
+                "width": 2020.1650485436894,
+                "left": 395.7669902912622,
+                "top": 494.6526878238342
+            },
+            "points": [
+                {
+                    "x": 395.7669902912622,
+                    "y": 494.6526878238342
+                },
+                {
+                    "x": 2415.9320388349515,
+                    "y": 494.6526878238342
+                },
+                {
+                    "x": 2415.9320388349515,
+                    "y": 1503.1967292746115
+                },
+                {
+                    "x": 395.7669902912622,
+                    "y": 1503.1967292746115
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

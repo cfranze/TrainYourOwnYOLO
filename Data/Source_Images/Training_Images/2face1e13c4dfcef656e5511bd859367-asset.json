@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2face1e13c4dfcef656e5511bd859367",
+        "name": "18-1-wec-featured-1920x915.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/18-1-wec-featured-1920x915.jpg",
+        "size": {
+            "width": 1920,
+            "height": 915
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HkoOd1bHA",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 568.9586545303606,
+                "width": 1917.393665158371,
+                "left": 2.60633484162896,
+                "top": 194.9882145398482
+            },
+            "points": [
+                {
+                    "x": 2.60633484162896,
+                    "y": 194.9882145398482
+                },
+                {
+                    "x": 1920,
+                    "y": 194.9882145398482
+                },
+                {
+                    "x": 1920,
+                    "y": 763.9468690702088
+                },
+                {
+                    "x": 2.60633484162896,
+                    "y": 763.9468690702088
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

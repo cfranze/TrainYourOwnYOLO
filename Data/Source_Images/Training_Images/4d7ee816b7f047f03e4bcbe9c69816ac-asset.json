@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4d7ee816b7f047f03e4bcbe9c69816ac",
+        "name": "csm_DA62_Header_fc150549c4.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/csm_DA62_Header_fc150549c4.jpg",
+        "size": {
+            "width": 1082,
+            "height": 722
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DxCaAfKyk",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 190.46947674418607,
+                "width": 994.8097087378642,
+                "left": 87.19029126213593,
+                "top": 216.86891351744188
+            },
+            "points": [
+                {
+                    "x": 87.19029126213593,
+                    "y": 216.86891351744188
+                },
+                {
+                    "x": 1082,
+                    "y": 216.86891351744188
+                },
+                {
+                    "x": 1082,
+                    "y": 407.3383902616279
+                },
+                {
+                    "x": 87.19029126213593,
+                    "y": 407.3383902616279
+                }
+            ]
+        },
+        {
+            "id": "LLp0IFYDx",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 93.3982558139535,
+                "width": 296.23689320388354,
+                "left": 43.595145631067965,
+                "top": 263.04333212209303
+            },
+            "points": [
+                {
+                    "x": 43.595145631067965,
+                    "y": 263.04333212209303
+                },
+                {
+                    "x": 339.8320388349515,
+                    "y": 263.04333212209303
+                },
+                {
+                    "x": 339.8320388349515,
+                    "y": 356.4415879360465
+                },
+                {
+                    "x": 43.595145631067965,
+                    "y": 356.4415879360465
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

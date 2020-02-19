@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a324179505b6dc1f2d855b36a4f8423d",
+        "name": "20160808primeairplaneinflight-20JPG.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/20160808primeairplaneinflight-20JPG.jpg",
+        "size": {
+            "width": 3600,
+            "height": 2400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "I6tjW6kuU",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 1772.92576419214,
+                "width": 3014.5631067961162,
+                "left": 311.06796116504853,
+                "top": 119.95087336244542
+            },
+            "points": [
+                {
+                    "x": 311.06796116504853,
+                    "y": 119.95087336244542
+                },
+                {
+                    "x": 3325.6310679611647,
+                    "y": 119.95087336244542
+                },
+                {
+                    "x": 3325.6310679611647,
+                    "y": 1892.8766375545852
+                },
+                {
+                    "x": 311.06796116504853,
+                    "y": 1892.8766375545852
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

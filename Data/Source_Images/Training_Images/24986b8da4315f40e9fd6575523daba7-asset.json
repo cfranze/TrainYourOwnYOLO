@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "24986b8da4315f40e9fd6575523daba7",
+        "name": "110906848-cracked-texture-cracks-and-scratches-vector-grunge-illustration-.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/110906848-cracked-texture-cracks-and-scratches-vector-grunge-illustration-.jpg",
+        "size": {
+            "width": 1300,
+            "height": 1300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RFskWbCkI",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 976.4705882352941,
+                "width": 1297.058823529412,
+                "left": 0.7352941176470589,
+                "top": 159.55882352941177
+            },
+            "points": [
+                {
+                    "x": 0.7352941176470589,
+                    "y": 159.55882352941177
+                },
+                {
+                    "x": 1297.794117647059,
+                    "y": 159.55882352941177
+                },
+                {
+                    "x": 1297.794117647059,
+                    "y": 1136.0294117647059
+                },
+                {
+                    "x": 0.7352941176470589,
+                    "y": 1136.0294117647059
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

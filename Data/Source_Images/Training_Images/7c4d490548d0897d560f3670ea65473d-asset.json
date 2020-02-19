@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7c4d490548d0897d560f3670ea65473d",
+        "name": "Corrosion-resistant-copper-products.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Corrosion-resistant-copper-products.jpg",
+        "size": {
+            "width": 1024,
+            "height": 768
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OW99JmVWU",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 766.75808538163,
+                "width": 1023.5029126213592,
+                "left": 0.4970873786407767,
+                "top": 1.2419146183699872
+            },
+            "points": [
+                {
+                    "x": 0.4970873786407767,
+                    "y": 1.2419146183699872
+                },
+                {
+                    "x": 1024,
+                    "y": 1.2419146183699872
+                },
+                {
+                    "x": 1024,
+                    "y": 768
+                },
+                {
+                    "x": 0.4970873786407767,
+                    "y": 768
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

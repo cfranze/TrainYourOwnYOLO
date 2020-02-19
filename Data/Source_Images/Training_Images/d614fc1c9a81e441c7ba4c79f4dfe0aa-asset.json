@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d614fc1c9a81e441c7ba4c79f4dfe0aa",
+        "name": "32011296-hardened-and-ground-cracks-.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/32011296-hardened-and-ground-cracks-.jpg",
+        "size": {
+            "width": 1300,
+            "height": 861
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qPEi2iFW6",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 858.1421298668033,
+                "width": 1298.235294117647,
+                "left": 1.1764705882352942,
+                "top": 2.8578701331967213
+            },
+            "points": [
+                {
+                    "x": 1.1764705882352942,
+                    "y": 2.8578701331967213
+                },
+                {
+                    "x": 1299.4117647058824,
+                    "y": 2.8578701331967213
+                },
+                {
+                    "x": 1299.4117647058824,
+                    "y": 861
+                },
+                {
+                    "x": 1.1764705882352942,
+                    "y": 861
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f1f4f020fb29ccf8081ff0d1e84f6930",
+        "name": "10701334-dried-ground-covered-with-cracks-background-for-design.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/10701334-dried-ground-covered-with-cracks-background-for-design.jpg",
+        "size": {
+            "width": 1300,
+            "height": 870
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vuTf4CyX_",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 867.3547297297297,
+                "width": 1300,
+                "left": 0,
+                "top": 2.64527027027027
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 2.64527027027027
+                },
+                {
+                    "x": 1300,
+                    "y": 2.64527027027027
+                },
+                {
+                    "x": 1300,
+                    "y": 870
+                },
+                {
+                    "x": 0,
+                    "y": 870
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

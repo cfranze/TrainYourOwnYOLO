@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "030a867d948a86c74f0bf76abafa4a67",
+        "name": "02__Crack_in_Between_Rotor_Seating_Areas_Approx__Length_60mm_x_Thickness_12_5mm.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/02__Crack_in_Between_Rotor_Seating_Areas_Approx__Length_60mm_x_Thickness_12_5mm.jpg",
+        "size": {
+            "width": 800,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xdwkUygqm",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 128.41639871382637,
+                "width": 248.68778280542986,
+                "left": 295.0226244343891,
+                "top": 118.4912580385852
+            },
+            "points": [
+                {
+                    "x": 295.0226244343891,
+                    "y": 118.4912580385852
+                },
+                {
+                    "x": 543.710407239819,
+                    "y": 118.4912580385852
+                },
+                {
+                    "x": 543.710407239819,
+                    "y": 246.90765675241158
+                },
+                {
+                    "x": 295.0226244343891,
+                    "y": 246.90765675241158
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

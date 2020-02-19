@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c510b0e709432dd503e311bd26fe3c46",
+        "name": "0710050010-01-Steel-Corrosion-in-concrete-shutterstock_23775532-654x1024_2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/0710050010-01-Steel-Corrosion-in-concrete-shutterstock_23775532-654x1024_2.jpg",
+        "size": {
+            "width": 654,
+            "height": 1024
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7NYTtNhjD",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1018.2081447963805,
+                "width": 540.5628318584071,
+                "left": 0,
+                "top": 2.316742081447964
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 2.316742081447964
+                },
+                {
+                    "x": 540.5628318584071,
+                    "y": 2.316742081447964
+                },
+                {
+                    "x": 540.5628318584071,
+                    "y": 1020.5248868778284
+                },
+                {
+                    "x": 0,
+                    "y": 1020.5248868778284
+                }
+            ]
+        },
+        {
+            "id": "p8z3IbKOHa",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 1021.6832579185522,
+                "width": 539.4053097345133,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 539.4053097345133,
+                    "y": 0
+                },
+                {
+                    "x": 539.4053097345133,
+                    "y": 1021.683257918552
+                },
+                {
+                    "x": 0,
+                    "y": 1021.683257918552
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

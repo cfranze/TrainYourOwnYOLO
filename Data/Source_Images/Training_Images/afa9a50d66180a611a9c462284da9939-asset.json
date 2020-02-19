@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "afa9a50d66180a611a9c462284da9939",
+        "name": "10-101675_freeuse-library-cracked-vector-crack-texture-crack-png.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/10-101675_freeuse-library-cracked-vector-crack-texture-crack-png.png",
+        "size": {
+            "width": 820,
+            "height": 620
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1VbVWIXgH",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 546.578947368421,
+                "width": 773.6199095022624,
+                "left": 23.74660633484163,
+                "top": 38.75
+            },
+            "points": [
+                {
+                    "x": 23.74660633484163,
+                    "y": 38.75
+                },
+                {
+                    "x": 797.3665158371041,
+                    "y": 38.75
+                },
+                {
+                    "x": 797.3665158371041,
+                    "y": 585.328947368421
+                },
+                {
+                    "x": 23.74660633484163,
+                    "y": 585.328947368421
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

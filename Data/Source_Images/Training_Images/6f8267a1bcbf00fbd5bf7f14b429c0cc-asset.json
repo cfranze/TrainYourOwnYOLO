@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6f8267a1bcbf00fbd5bf7f14b429c0cc",
+        "name": "aircraft-private-jets-cessna-citation-cj2-356743_44ae7ed84ab447de_350X200_c.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/aircraft-private-jets-cessna-citation-cj2-356743_44ae7ed84ab447de_350X200_c.jpg",
+        "size": {
+            "width": 350,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ubiMYFjOp",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 126.4855687606112,
+                "width": 350,
+                "left": 0,
+                "top": 44.91988539898132
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 44.91988539898132
+                },
+                {
+                    "x": 350,
+                    "y": 44.91988539898132
+                },
+                {
+                    "x": 350,
+                    "y": 171.40545415959252
+                },
+                {
+                    "x": 0,
+                    "y": 171.40545415959252
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

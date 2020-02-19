@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7bb28730b43018c45ee706d23b8d834f",
+        "name": "2006-01_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/2006-01_1.jpg",
+        "size": {
+            "width": 307,
+            "height": 323
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oX-ejSz-Q",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 274.7692307692308,
+                "width": 74.92261904761904,
+                "left": 111.14473586309524,
+                "top": 36.53846153846153
+            },
+            "points": [
+                {
+                    "x": 111.14473586309524,
+                    "y": 36.53846153846153
+                },
+                {
+                    "x": 186.06735491071427,
+                    "y": 36.53846153846153
+                },
+                {
+                    "x": 186.06735491071427,
+                    "y": 311.30769230769226
+                },
+                {
+                    "x": 111.14473586309524,
+                    "y": 311.30769230769226
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

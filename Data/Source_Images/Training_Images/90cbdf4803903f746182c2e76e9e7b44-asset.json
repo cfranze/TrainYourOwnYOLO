@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "90cbdf4803903f746182c2e76e9e7b44",
+        "name": "Chemical-substances-that-accelerate-rusting-in-metals-corrosion-of-metals.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Chemical-substances-that-accelerate-rusting-in-metals-corrosion-of-metals.png",
+        "size": {
+            "width": 800,
+            "height": 350
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pGfPOYAac",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 328.8040465631929,
+                "width": 164.66019417475727,
+                "left": 495.92233009708735,
+                "top": 21.195953436807095
+            },
+            "points": [
+                {
+                    "x": 495.92233009708735,
+                    "y": 21.195953436807095
+                },
+                {
+                    "x": 660.5825242718447,
+                    "y": 21.195953436807095
+                },
+                {
+                    "x": 660.5825242718447,
+                    "y": 350
+                },
+                {
+                    "x": 495.92233009708735,
+                    "y": 350
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

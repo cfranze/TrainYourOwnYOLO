@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "72ddfa6461e73af2a556ceb22bdbac28",
+        "name": "pump-room-corrosion-cleaning.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/pump-room-corrosion-cleaning.jpg",
+        "size": {
+            "width": 560,
+            "height": 373
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5daLL27nz",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 329.16236413043475,
+                "width": 317.7556561085973,
+                "left": 4.8144796380090495,
+                "top": 12.67379628057065
+            },
+            "points": [
+                {
+                    "x": 4.8144796380090495,
+                    "y": 12.67379628057065
+                },
+                {
+                    "x": 322.5701357466063,
+                    "y": 12.67379628057065
+                },
+                {
+                    "x": 322.5701357466063,
+                    "y": 341.8361604110054
+                },
+                {
+                    "x": 4.8144796380090495,
+                    "y": 341.8361604110054
+                }
+            ]
+        },
+        {
+            "id": "aSNrJ2CYE",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 71.4578804347826,
+                "width": 63.095022624434385,
+                "left": 495.131221719457,
+                "top": 2.7913234544836953
+            },
+            "points": [
+                {
+                    "x": 495.131221719457,
+                    "y": 2.7913234544836953
+                },
+                {
+                    "x": 558.2262443438914,
+                    "y": 2.7913234544836953
+                },
+                {
+                    "x": 558.2262443438914,
+                    "y": 74.2492038892663
+                },
+                {
+                    "x": 495.131221719457,
+                    "y": 74.2492038892663
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

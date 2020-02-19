@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "93b813f199dd0b0851d5d3398942517c",
+        "name": "aluminum_exfoliation_corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/aluminum_exfoliation_corrosion.jpg",
+        "size": {
+            "width": 375,
+            "height": 276
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nHWiBXE-Y",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 195.33121701846966,
+                "width": 366.08009708737865,
+                "left": 0,
+                "top": 57.36535290237468
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 57.36535290237468
+                },
+                {
+                    "x": 366.08009708737865,
+                    "y": 57.36535290237468
+                },
+                {
+                    "x": 366.08009708737865,
+                    "y": 252.69656992084435
+                },
+                {
+                    "x": 0,
+                    "y": 252.69656992084435
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

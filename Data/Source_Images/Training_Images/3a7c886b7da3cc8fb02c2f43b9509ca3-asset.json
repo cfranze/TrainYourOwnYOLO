@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3a7c886b7da3cc8fb02c2f43b9509ca3",
+        "name": "discharge-corrosion-galvanized-parshall-flume.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/discharge-corrosion-galvanized-parshall-flume.jpg",
+        "size": {
+            "width": 300,
+            "height": 225
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KKTtguqpP",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 105.03618817852835,
+                "width": 218.552036199095,
+                "left": 5.83710407239819,
+                "top": 86.13917370325694
+            },
+            "points": [
+                {
+                    "x": 5.83710407239819,
+                    "y": 86.13917370325694
+                },
+                {
+                    "x": 224.3891402714932,
+                    "y": 86.13917370325694
+                },
+                {
+                    "x": 224.3891402714932,
+                    "y": 191.17536188178528
+                },
+                {
+                    "x": 5.83710407239819,
+                    "y": 191.17536188178528
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

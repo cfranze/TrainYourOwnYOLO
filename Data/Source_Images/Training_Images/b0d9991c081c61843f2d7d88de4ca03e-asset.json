@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b0d9991c081c61843f2d7d88de4ca03e",
+        "name": "ampaire_337.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/ampaire_337.jpg",
+        "size": {
+            "width": 1600,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "o53w0bkUJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 549.3103448275862,
+                "width": 1254.3689320388348,
+                "left": 160.7766990291262,
+                "top": 177.1875
+            },
+            "points": [
+                {
+                    "x": 160.7766990291262,
+                    "y": 177.1875
+                },
+                {
+                    "x": 1415.1456310679612,
+                    "y": 177.1875
+                },
+                {
+                    "x": 1415.1456310679612,
+                    "y": 726.4978448275862
+                },
+                {
+                    "x": 160.7766990291262,
+                    "y": 726.4978448275862
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

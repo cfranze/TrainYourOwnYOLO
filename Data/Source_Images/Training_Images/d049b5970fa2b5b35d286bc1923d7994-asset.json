@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d049b5970fa2b5b35d286bc1923d7994",
+        "name": "severe-concrete-corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/severe-concrete-corrosion.jpg",
+        "size": {
+            "width": 863,
+            "height": 702
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AJoy3a4iv",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 533.25,
+                "width": 683.1752529898804,
+                "left": 173.77104415823368,
+                "top": 8.338235294117647
+            },
+            "points": [
+                {
+                    "x": 173.77104415823368,
+                    "y": 8.338235294117647
+                },
+                {
+                    "x": 856.9462971481141,
+                    "y": 8.338235294117647
+                },
+                {
+                    "x": 856.9462971481141,
+                    "y": 541.5882352941176
+                },
+                {
+                    "x": 173.77104415823368,
+                    "y": 541.5882352941176
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

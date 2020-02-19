@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "503e51f93d8f60360ad79cdafdc63755",
+        "name": "Rusty_Barbed_Wire.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Rusty_Barbed_Wire.jpg",
+        "size": {
+            "width": 4000,
+            "height": 3000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yFTIQLn0o",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 2432.29794933655,
+                "width": 3927.601809954751,
+                "left": 66.96832579185521,
+                "top": 567.7020506634499
+            },
+            "points": [
+                {
+                    "x": 66.96832579185521,
+                    "y": 567.7020506634499
+                },
+                {
+                    "x": 3994.5701357466064,
+                    "y": 567.7020506634499
+                },
+                {
+                    "x": 3994.5701357466064,
+                    "y": 3000
+                },
+                {
+                    "x": 66.96832579185521,
+                    "y": 3000
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

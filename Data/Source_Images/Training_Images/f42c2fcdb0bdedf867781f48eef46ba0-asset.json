@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f42c2fcdb0bdedf867781f48eef46ba0",
+        "name": "1200px-Asphalt_deterioration.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/1200px-Asphalt_deterioration.jpg",
+        "size": {
+            "width": 1200,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Duia8bCFu",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 1600,
+                "width": 1198.1900452488687,
+                "left": 1.8099547511312217,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 1.8099547511312217,
+                    "y": 0
+                },
+                {
+                    "x": 1200,
+                    "y": 0
+                },
+                {
+                    "x": 1200,
+                    "y": 1600
+                },
+                {
+                    "x": 1.8099547511312217,
+                    "y": 1600
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

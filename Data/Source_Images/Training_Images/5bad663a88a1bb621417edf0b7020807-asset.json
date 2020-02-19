@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5bad663a88a1bb621417edf0b7020807",
+        "name": "Steel-without-corrosion-resistant-coating-rusts-1030x690_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Steel-without-corrosion-resistant-coating-rusts-1030x690_1.jpg",
+        "size": {
+            "width": 1030,
+            "height": 690
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DUQIErF48",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 391.1554054054054,
+                "width": 409.20361990950227,
+                "left": 90.88235294117648,
+                "top": 15.50168918918919
+            },
+            "points": [
+                {
+                    "x": 90.88235294117648,
+                    "y": 15.50168918918919
+                },
+                {
+                    "x": 500.08597285067873,
+                    "y": 15.50168918918919
+                },
+                {
+                    "x": 500.08597285067873,
+                    "y": 406.6570945945946
+                },
+                {
+                    "x": 90.88235294117648,
+                    "y": 406.6570945945946
+                }
+            ]
+        },
+        {
+            "id": "xl8a-lRO0",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 253.15540540540542,
+                "width": 883.6561085972851,
+                "left": 19.108597285067873,
+                "top": 411.3192567567568
+            },
+            "points": [
+                {
+                    "x": 19.108597285067873,
+                    "y": 411.3192567567568
+                },
+                {
+                    "x": 902.7647058823529,
+                    "y": 411.3192567567568
+                },
+                {
+                    "x": 902.7647058823529,
+                    "y": 664.4746621621622
+                },
+                {
+                    "x": 19.108597285067873,
+                    "y": 664.4746621621622
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

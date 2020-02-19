@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6c9b2dd188f64b9e706ffa814b5e7af1",
+        "name": "65317410-fragments-of-old-large-water-pipes-after-many-years-of-operation-corroded-metal-pipe-destroyed-rusty.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/65317410-fragments-of-old-large-water-pipes-after-many-years-of-operation-corroded-metal-pipe-destroyed-rusty.jpg",
+        "size": {
+            "width": 1300,
+            "height": 866
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qLTs4Y2QN",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 691.7900874635568,
+                "width": 538.9320388349515,
+                "left": 188.68932038834953,
+                "top": 70.15144405976676
+            },
+            "points": [
+                {
+                    "x": 188.68932038834953,
+                    "y": 70.15144405976676
+                },
+                {
+                    "x": 727.621359223301,
+                    "y": 70.15144405976676
+                },
+                {
+                    "x": 727.621359223301,
+                    "y": 761.9415315233236
+                },
+                {
+                    "x": 188.68932038834953,
+                    "y": 761.9415315233236
+                }
+            ]
+        },
+        {
+            "id": "yII0CJRHl",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 418.48250728862973,
+                "width": 109.17475728155341,
+                "left": 779.368932038835,
+                "top": 225.42549653790087
+            },
+            "points": [
+                {
+                    "x": 779.368932038835,
+                    "y": 225.42549653790087
+                },
+                {
+                    "x": 888.5436893203885,
+                    "y": 225.42549653790087
+                },
+                {
+                    "x": 888.5436893203885,
+                    "y": 643.9080038265306
+                },
+                {
+                    "x": 779.368932038835,
+                    "y": 643.9080038265306
+                }
+            ]
+        },
+        {
+            "id": "Cr8pyI1ku",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 199.45772594752185,
+                "width": 149.56310679611653,
+                "left": 1064.611650485437,
+                "top": 245.62374726676384
+            },
+            "points": [
+                {
+                    "x": 1064.611650485437,
+                    "y": 245.62374726676384
+                },
+                {
+                    "x": 1214.1747572815534,
+                    "y": 245.62374726676384
+                },
+                {
+                    "x": 1214.1747572815534,
+                    "y": 445.0814732142857
+                },
+                {
+                    "x": 1064.611650485437,
+                    "y": 445.0814732142857
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

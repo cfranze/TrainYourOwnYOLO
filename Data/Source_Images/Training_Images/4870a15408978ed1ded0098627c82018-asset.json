@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4870a15408978ed1ded0098627c82018",
+        "name": "severe-corrosion-steel-roof-sheet_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/severe-corrosion-steel-roof-sheet_1.jpg",
+        "size": {
+            "width": 753,
+            "height": 430
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2TteVZYCW",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 395.92709984152134,
+                "width": 622.1619909502263,
+                "left": 118.91266968325792,
+                "top": 24.537812004754358
+            },
+            "points": [
+                {
+                    "x": 118.91266968325792,
+                    "y": 24.537812004754358
+                },
+                {
+                    "x": 741.0746606334842,
+                    "y": 24.537812004754358
+                },
+                {
+                    "x": 741.0746606334842,
+                    "y": 420.4649118462757
+                },
+                {
+                    "x": 118.91266968325792,
+                    "y": 420.4649118462757
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

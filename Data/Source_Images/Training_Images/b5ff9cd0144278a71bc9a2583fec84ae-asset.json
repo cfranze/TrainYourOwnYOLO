@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b5ff9cd0144278a71bc9a2583fec84ae",
+        "name": "Water_Pipe_Leak_111_DJFs_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Water_Pipe_Leak_111_DJFs_1.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v71q23YlO",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 295.8745476477684,
+                "width": 119.89140271493214,
+                "left": 268.7420814479638,
+                "top": 129.9155609167672
+            },
+            "points": [
+                {
+                    "x": 268.7420814479638,
+                    "y": 129.9155609167672
+                },
+                {
+                    "x": 388.63348416289597,
+                    "y": 129.9155609167672
+                },
+                {
+                    "x": 388.63348416289597,
+                    "y": 425.7901085645356
+                },
+                {
+                    "x": 268.7420814479638,
+                    "y": 425.7901085645356
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

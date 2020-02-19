@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6399dc4d51a2bdd161510a1b683a907d",
+        "name": "crevicecorrosion_1JPG.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/crevicecorrosion_1JPG.jpg",
+        "size": {
+            "width": 1200,
+            "height": 630
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "T8vFvE1h-",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 171.07758620689657,
+                "width": 39.095022624434385,
+                "left": 747.1493212669683,
+                "top": 362.86099137931035
+            },
+            "points": [
+                {
+                    "x": 747.1493212669683,
+                    "y": 362.86099137931035
+                },
+                {
+                    "x": 786.2443438914027,
+                    "y": 362.86099137931035
+                },
+                {
+                    "x": 786.2443438914027,
+                    "y": 533.938577586207
+                },
+                {
+                    "x": 747.1493212669683,
+                    "y": 533.938577586207
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

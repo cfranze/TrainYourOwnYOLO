@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b34dc12db9a0325d4b277c6b7884e297",
+        "name": "Hero-Mako-small.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Hero-Mako-small.jpg",
+        "size": {
+            "width": 1024,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BhYRYn8Y8",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 325.2262443438914,
+                "width": 900.6674033149172,
+                "left": 2.386740331491713,
+                "top": 391.9683257918552
+            },
+            "points": [
+                {
+                    "x": 2.386740331491713,
+                    "y": 391.9683257918552
+                },
+                {
+                    "x": 903.0541436464089,
+                    "y": 391.9683257918552
+                },
+                {
+                    "x": 903.0541436464089,
+                    "y": 717.1945701357466
+                },
+                {
+                    "x": 2.386740331491713,
+                    "y": 717.1945701357466
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "96c56a25ff375e96b8f4221690e3fb25",
+        "name": "sterndrive_corrosion_595d19e91027308ef1ae388bd24b47300e7ae716.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/sterndrive_corrosion_595d19e91027308ef1ae388bd24b47300e7ae716.jpg",
+        "size": {
+            "width": 384,
+            "height": 288
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FJQMkt7E1",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 266.28709288299154,
+                "width": 300.0760180995475,
+                "left": 50.56289592760181,
+                "top": 4.125452352231605
+            },
+            "points": [
+                {
+                    "x": 50.56289592760181,
+                    "y": 4.125452352231605
+                },
+                {
+                    "x": 350.6389140271493,
+                    "y": 4.125452352231605
+                },
+                {
+                    "x": 350.6389140271493,
+                    "y": 270.41254523522315
+                },
+                {
+                    "x": 50.56289592760181,
+                    "y": 270.41254523522315
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

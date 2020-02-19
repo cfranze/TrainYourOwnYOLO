@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7f18a139c2603ac67015af9557c9988a",
+        "name": "rusted-metal-paint-chips-from-decayed-machinery-close-up-of-corrosion-aged-iron-PJK623.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rusted-metal-paint-chips-from-decayed-machinery-close-up-of-corrosion-aged-iron-PJK623.jpg",
+        "size": {
+            "width": 1300,
+            "height": 956
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xqf5O5pIU",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 767.269372693727,
+                "width": 1062.9411764705883,
+                "left": 10,
+                "top": 73.85151445264454
+            },
+            "points": [
+                {
+                    "x": 10,
+                    "y": 73.85151445264454
+                },
+                {
+                    "x": 1072.9411764705883,
+                    "y": 73.85151445264454
+                },
+                {
+                    "x": 1072.9411764705883,
+                    "y": 841.1208871463715
+                },
+                {
+                    "x": 10,
+                    "y": 841.1208871463715
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

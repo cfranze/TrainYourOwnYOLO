@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "75df451066a9d85d1326faff4cc88e62",
+        "name": "2017-02-28-Kalaugher-aircraft.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2017-02-28-Kalaugher-aircraft.jpg",
+        "size": {
+            "width": 700,
+            "height": 472
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oB_OAJXwT",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 256.7136690647482,
+                "width": 384.6601941747573,
+                "left": 88.68932038834951,
+                "top": 102.72473021582735
+            },
+            "points": [
+                {
+                    "x": 88.68932038834951,
+                    "y": 102.72473021582735
+                },
+                {
+                    "x": 473.3495145631068,
+                    "y": 102.72473021582735
+                },
+                {
+                    "x": 473.3495145631068,
+                    "y": 359.43839928057554
+                },
+                {
+                    "x": 88.68932038834951,
+                    "y": 359.43839928057554
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

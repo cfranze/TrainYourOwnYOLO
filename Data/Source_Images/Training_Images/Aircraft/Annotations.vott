@@ -1,0 +1,3873 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "aircraft",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGJlNDM1ODBhOTJhODcwMjU4YTFjMjIwYzc4YjFlZGYyMzk3ZWM2NGZlZjA2MGEwMzA4YTE1MDlkMzk2NTU2MzYyNTRmYWNiOTBmZTU1MTkyMjk3ZjVmZTA5NTJiNWM4OTU2Mzk5ODVlYzM0MDc4ZjhhNDRlZGY3MTJkYzBlNmY3MDM4NjJjY2NiNWQ5ZDYyNmRmMmY4ZjhhOGZkMWE2NjM0Nzg3NjdkMmJkNmNjN2Y4MTVhNTRhM2I3YmZkMjdlOWQ1ZGM0NmViMjAzZTZiNzA2NDM4YTI3ZWM5NWEwYjhkN2Q4YWFlYmMyNDkwMjM2ZjQ2NDgyMzAwNmUzYjg3NSIsIml2IjoiY2EyN2MwZGU5NGMyYTQ4OWJjZWYzMzI3OWViMTk4ODJiZDNlNDI0ZWJmMTQ4NDI3In0="
+        },
+        "id": "vBzq2JsQM"
+    },
+    "targetConnection": {
+        "name": "aircraft",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDk4MWJiY2IwYTE3NTgwMjE2OWU5YjM0OTkzM2U4ZjFhYjNhZGE2MmIyODExMzkyNGFhNjkyNzkxOWE0OWNiMWQ1M2MyNmVlNzgyNzcwYjNhYjNlYThhMzMzZjk5MDRiYTI3NzIyZjZkMmMxYTdhZTNlYzE1Zjc4NGNhNGJmZWYyNjQ2ODVkOWQ2NDhlOTYzZWU2NWQ0YmFhMjlkZGMxOGZiNDQ4NzkxNjU1ZmYxOGNhZGM2NzhhYjFiOWEyODE5YzRkZWJmNDRjNDkyNjllODI3MGY2MDkwMDU1OWFhYjdlZTM1Nzk5MzkyNmIwN2QzYzlmMDQ5OWExYmI3NGE3MSIsIml2IjoiYjhiNDY3MWVjNTEyMTQzMWJlYzRiYzkyNTUxNTI1YWU4ZmQ1NmRhODM0MjdhMmM5In0="
+        },
+        "id": "vBzq2JsQM"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "airplane",
+            "color": "#5db300"
+        }
+    ],
+    "id": "WOuWZ4IcZ",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOWY1NGM2ZWRlZTdjYTkxZTAyZWM1ZmI1OWFkYjMyN2I1YTQyYmY2ZDY3MjAzMGY4MWZlMDIwY2ZjODNkMGFmZjdjNGNhODE3YTdlMDU0Y2FkZDVkZTYzZWY4ZTQ1NmE5IiwiaXYiOiIzMTNkZjJkNTU3ZTlhNDUyMzU4MTkwZDU1ZWM0MGIyZjY5ZjI5NjExMzMyZTI2OTgifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "3d04ddd9b170788c3f82179c590d6b02",
+    "assets": {
+        "f82b329d48a66016f719c089971bae81": {
+            "format": "jpg",
+            "id": "f82b329d48a66016f719c089971bae81",
+            "name": "01_Common-Myths-About-Airplanes-You-Need-to-Stop-Believing_559714906_motive56-760x506.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/01_Common-Myths-About-Airplanes-You-Need-to-Stop-Believing_559714906_motive56-760x506.jpg",
+            "size": {
+                "width": 760,
+                "height": 506
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a87c3fee8dceac643419561dc4851a53": {
+            "format": "jpg",
+            "id": "a87c3fee8dceac643419561dc4851a53",
+            "name": "07092019_tzr_tzr_141610-780x501.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/07092019_tzr_tzr_141610-780x501.jpg",
+            "size": {
+                "width": 780,
+                "height": 501
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a91a43ce845b45c8c56fea69a3bb2191": {
+            "format": "jpg",
+            "id": "a91a43ce845b45c8c56fea69a3bb2191",
+            "name": "0709_sweeps_rv_10.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/0709_sweeps_rv_10.jpg",
+            "size": {
+                "width": 3200,
+                "height": 1800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eff61a63fdf03c68d5fa343fc4cef7d6": {
+            "format": "jpg",
+            "id": "eff61a63fdf03c68d5fa343fc4cef7d6",
+            "name": "081819.N.DNT.SeaplaneC2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/081819.N.DNT.SeaplaneC2.jpg",
+            "size": {
+                "width": 1140,
+                "height": 712
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f7f98d9dc3721a4f5aa39ad9e2a171c": {
+            "format": "jpg",
+            "id": "1f7f98d9dc3721a4f5aa39ad9e2a171c",
+            "name": "1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1.jpg",
+            "size": {
+                "width": 266,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1f568b03d8601c88e4ffeb78ee47140": {
+            "format": "jpg",
+            "id": "b1f568b03d8601c88e4ffeb78ee47140",
+            "name": "1127588194-1280x720.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1127588194-1280x720.jpg",
+            "size": {
+                "width": 450,
+                "height": 253
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d6868981204874462943105e821f228": {
+            "format": "jpg",
+            "id": "7d6868981204874462943105e821f228",
+            "name": "12688044084_26b1b5c23b_b.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/12688044084_26b1b5c23b_b.jpg",
+            "size": {
+                "width": 1024,
+                "height": 595
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b24948e92077d7eb00f34ef9a559551": {
+            "format": "jpg",
+            "id": "0b24948e92077d7eb00f34ef9a559551",
+            "name": "14h_sep2018_donfunkeimg_5281_live.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/14h_sep2018_donfunkeimg_5281_live.jpg",
+            "size": {
+                "width": 4200,
+                "height": 3600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6518db321e17152cf1fd1cc4fe306957": {
+            "format": "jpg",
+            "id": "6518db321e17152cf1fd1cc4fe306957",
+            "name": "1518489875789_GHE1F9LQU.1-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1518489875789_GHE1F9LQU.1-1.jpg",
+            "size": {
+                "width": 995,
+                "height": 610
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5ac011d4de9890aa2bc4309affc5a835": {
+            "format": "jpg",
+            "id": "5ac011d4de9890aa2bc4309affc5a835",
+            "name": "1523513-airplane-wallpapers-1920x1080-4k.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1523513-airplane-wallpapers-1920x1080-4k.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9e235f99f28f2bac14485d807a14063": {
+            "format": "jpg",
+            "id": "f9e235f99f28f2bac14485d807a14063",
+            "name": "1537400876704.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1537400876704.jpg",
+            "size": {
+                "width": 620,
+                "height": 349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "867cf72680663502b67bbf001cda9678": {
+            "format": "jpg",
+            "id": "867cf72680663502b67bbf001cda9678",
+            "name": "1548809690964.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1548809690964.jpg",
+            "size": {
+                "width": 620,
+                "height": 349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f74453548e6d887d2396db8103d782ae": {
+            "format": "jpeg",
+            "id": "f74453548e6d887d2396db8103d782ae",
+            "name": "1820_LM_F35_SIDE_MISSION_MARKS.jpg.pc-adaptive.full.medium.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1820_LM_F35_SIDE_MISSION_MARKS.jpg.pc-adaptive.full.medium.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c4688d868497919c2c8bdb56a800663": {
+            "format": "gif",
+            "id": "3c4688d868497919c2c8bdb56a800663",
+            "name": "190604-flying-v-al-1210_9adb0c90b67eea4c600ba05d415c79c9.fit-760w.gif",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190604-flying-v-al-1210_9adb0c90b67eea4c600ba05d415c79c9.fit-760w.gif",
+            "size": {
+                "width": 600,
+                "height": 300
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5c13c89ee2cfaf1078beeb5863ce13f8": {
+            "format": "jpg",
+            "id": "5c13c89ee2cfaf1078beeb5863ce13f8",
+            "name": "190620120644-qsta-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190620120644-qsta-1.jpg",
+            "size": {
+                "width": 3220,
+                "height": 1811
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e97408b31a234b972d2e4889ea3c0ed8": {
+            "format": "jpg",
+            "id": "e97408b31a234b972d2e4889ea3c0ed8",
+            "name": "190710181319-321-overview-mid-dec-.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190710181319-321-overview-mid-dec-.jpg",
+            "size": {
+                "width": 3252,
+                "height": 1829
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d4c6e2766297837b17dccac0e8098e4": {
+            "format": "jpg",
+            "id": "7d4c6e2766297837b17dccac0e8098e4",
+            "name": "190721135435-02-venezuela-su-30-0721-exlarge-169.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190721135435-02-venezuela-su-30-0721-exlarge-169.jpg",
+            "size": {
+                "width": 780,
+                "height": 438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cef37e399fb1e4ea49a14e0b7ea93530": {
+            "format": "jpg",
+            "id": "cef37e399fb1e4ea49a14e0b7ea93530",
+            "name": "190810_ktrk_unitedplanecamera_hpMain_16x9_992.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190810_ktrk_unitedplanecamera_hpMain_16x9_992.jpg",
+            "size": {
+                "width": 992,
+                "height": 558
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2a9d17086c23be3c081882e70a1ce09": {
+            "format": "jpg",
+            "id": "d2a9d17086c23be3c081882e70a1ce09",
+            "name": "190906095526-american-airlines-mechanic-faces-sabotage-charge-marsh-nr-vpx-00000225-exlarge-169.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190906095526-american-airlines-mechanic-faces-sabotage-charge-marsh-nr-vpx-00000225-exlarge-169.jpg",
+            "size": {
+                "width": 780,
+                "height": 438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "850b93ae40ad975aed8a3282a0436a46": {
+            "format": "jpg",
+            "id": "850b93ae40ad975aed8a3282a0436a46",
+            "name": "190917134855-air-india-file-2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/190917134855-air-india-file-2.jpg",
+            "size": {
+                "width": 1350,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03ed61e91669c3decb2b0a709b2e6570": {
+            "format": "jpg",
+            "id": "03ed61e91669c3decb2b0a709b2e6570",
+            "name": "1st_Fighter_Wing_hosts_coalition_aerial_exercise_28329.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/1st_Fighter_Wing_hosts_coalition_aerial_exercise_28329.jpg",
+            "size": {
+                "width": 4928,
+                "height": 3280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a324179505b6dc1f2d855b36a4f8423d": {
+            "format": "jpg",
+            "id": "a324179505b6dc1f2d855b36a4f8423d",
+            "name": "20160808primeairplaneinflight-20JPG.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/20160808primeairplaneinflight-20JPG.jpg",
+            "size": {
+                "width": 3600,
+                "height": 2400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75df451066a9d85d1326faff4cc88e62": {
+            "format": "jpg",
+            "id": "75df451066a9d85d1326faff4cc88e62",
+            "name": "2017-02-28-Kalaugher-aircraft.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2017-02-28-Kalaugher-aircraft.jpg",
+            "size": {
+                "width": 700,
+                "height": 472
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f8dc16fdbbdbea1268a6aa202e0bf1a": {
+            "format": "png",
+            "id": "9f8dc16fdbbdbea1268a6aa202e0bf1a",
+            "name": "2018-SR22T-750x398.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2018-SR22T-750x398.png",
+            "size": {
+                "width": 750,
+                "height": 398
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f603d1dde6789980a56a92860fd511a": {
+            "format": "jpg",
+            "id": "6f603d1dde6789980a56a92860fd511a",
+            "name": "2019-08-05-Su-57-will-be-first-demonstrated-at-the-static-parking-MAKS_920x600_0af.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2019-08-05-Su-57-will-be-first-demonstrated-at-the-static-parking-MAKS_920x600_0af.jpg",
+            "size": {
+                "width": 920,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6274b2181bdbd955bbcfd50e9f6bb8ca": {
+            "format": "jpg",
+            "id": "6274b2181bdbd955bbcfd50e9f6bb8ca",
+            "name": "2019-7-Innovate-Electric-Airplanes-02-WB.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2019-7-Innovate-Electric-Airplanes-02-WB.jpg",
+            "size": {
+                "width": 1200,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ececefc8264b53005f88130a2a7a67e": {
+            "format": "jpg",
+            "id": "4ececefc8264b53005f88130a2a7a67e",
+            "name": "222e0b84-f164-4fb1-90e7-d20bc27acd8c.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/222e0b84-f164-4fb1-90e7-d20bc27acd8c.jpg",
+            "size": {
+                "width": 1180,
+                "height": 842
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cce9f606be7084c03589a85851f09612": {
+            "format": "jpg",
+            "id": "cce9f606be7084c03589a85851f09612",
+            "name": "2P2PDTHPPYTHIMPTXKVUEIXS5A.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/2P2PDTHPPYTHIMPTXKVUEIXS5A.jpg",
+            "size": {
+                "width": 2000,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fee3412e88df436ee5219aa3cb152410": {
+            "format": "jpg",
+            "id": "fee3412e88df436ee5219aa3cb152410",
+            "name": "300px-ANA_777-300_Taking_off_from_JFK.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/300px-ANA_777-300_Taking_off_from_JFK.jpg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c4fd369b463b2391f798fea06504f3c": {
+            "format": "jpg",
+            "id": "5c4fd369b463b2391f798fea06504f3c",
+            "name": "300px-Cessna172-CatalinaTakeOffJPG.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/300px-Cessna172-CatalinaTakeOffJPG.jpg",
+            "size": {
+                "width": 300,
+                "height": 218
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b5fff7453b784d1cd0712325d794390": {
+            "format": "jpg",
+            "id": "3b5fff7453b784d1cd0712325d794390",
+            "name": "300px-Mi-8_28RA-2447729_Helicopter_in_SPB.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/300px-Mi-8_28RA-2447729_Helicopter_in_SPB.jpg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5fac9310abb05227f078b93d20455382": {
+            "format": "jpg",
+            "id": "5fac9310abb05227f078b93d20455382",
+            "name": "344054main_ec85-33297-23_full_0_crop.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/344054main_ec85-33297-23_full_0_crop.jpg",
+            "size": {
+                "width": 1140,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c58a616fd70fecb9ac1e200eec37267": {
+            "format": "jpg",
+            "id": "3c58a616fd70fecb9ac1e200eec37267",
+            "name": "41a72dc6-aae0-4adf-9c77-d586214f8552-large16x9_1280x720_80627P00FIEWU.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/41a72dc6-aae0-4adf-9c77-d586214f8552-large16x9_1280x720_80627P00FIEWU.jpg",
+            "size": {
+                "width": 986,
+                "height": 555
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d9a471651dacdb863b2fecc644fc8c7": {
+            "format": "jpg",
+            "id": "4d9a471651dacdb863b2fecc644fc8c7",
+            "name": "475688_cb7f_6.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/475688_cb7f_6.jpg",
+            "size": {
+                "width": 240,
+                "height": 135
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03092914de14ce12501e8f7357f597bd": {
+            "format": "jpg",
+            "id": "03092914de14ce12501e8f7357f597bd",
+            "name": "484e5297-d3e0-4897-9ab5-ebea51a317ff.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/484e5297-d3e0-4897-9ab5-ebea51a317ff.jpg",
+            "size": {
+                "width": 660,
+                "height": 350
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c53d3517e1feafff123019267149032a": {
+            "format": "jpg",
+            "id": "c53d3517e1feafff123019267149032a",
+            "name": "5-biggest-mistakes-plane-011.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/5-biggest-mistakes-plane-011.jpg",
+            "size": {
+                "width": 1400,
+                "height": 795
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a381ff71f6d198bf6bbd29508474240": {
+            "format": "jpg",
+            "id": "3a381ff71f6d198bf6bbd29508474240",
+            "name": "593482582001_6083903144001_6083900268001-vs.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/593482582001_6083903144001_6083900268001-vs.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1d3c1cf7e9f18b2f864a67d607d9db96": {
+            "format": "jpg",
+            "id": "1d3c1cf7e9f18b2f864a67d607d9db96",
+            "name": "5b771edd64dce826308b465a-750-563.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/5b771edd64dce826308b465a-750-563.jpg",
+            "size": {
+                "width": 750,
+                "height": 563
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46d590de9fd448ff1f4df75d7b6ac217": {
+            "format": "jpg",
+            "id": "46d590de9fd448ff1f4df75d7b6ac217",
+            "name": "5c7db0cb262898184c317845-750-562.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/5c7db0cb262898184c317845-750-562.jpg",
+            "size": {
+                "width": 750,
+                "height": 562
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7bedac8cdf656501ad9e8e0744a9f044": {
+            "format": "jpeg",
+            "id": "7bedac8cdf656501ad9e8e0744a9f044",
+            "name": "5d82882824000012277db515.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/5d82882824000012277db515.jpeg",
+            "size": {
+                "width": 5079,
+                "height": 3386
+            },
+            "state": 2,
+            "type": 1
+        },
+        "282983f9713c240e6866816c4c0963e3": {
+            "format": "png",
+            "id": "282983f9713c240e6866816c4c0963e3",
+            "name": "600x338-business-2.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/600x338-business-2.png",
+            "size": {
+                "width": 600,
+                "height": 338
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4ff1354f242efd12a1839a55bbe518a8": {
+            "format": "jpg",
+            "id": "4ff1354f242efd12a1839a55bbe518a8",
+            "name": "694940094001_5989348110001_5989346606001-vs.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/694940094001_5989348110001_5989346606001-vs.jpg",
+            "size": {
+                "width": 931,
+                "height": 524
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3daca7123c67dae0fa55ccfa1d1a56c0": {
+            "format": "jpg",
+            "id": "3daca7123c67dae0fa55ccfa1d1a56c0",
+            "name": "701_9900_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/701_9900_1.jpg",
+            "size": {
+                "width": 1200,
+                "height": 798
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d11ebbf4bb36e877edfa29553932624c": {
+            "format": "jpg",
+            "id": "d11ebbf4bb36e877edfa29553932624c",
+            "name": "777.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/777.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7fd6a1df935872a077c6a49ab2923415": {
+            "format": "jpg",
+            "id": "7fd6a1df935872a077c6a49ab2923415",
+            "name": "920x920.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/920x920.jpg",
+            "size": {
+                "width": 920,
+                "height": 613
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b107301a40ec8c5bf78f437ffe24ef3": {
+            "format": "jpg",
+            "id": "6b107301a40ec8c5bf78f437ffe24ef3",
+            "name": "960x0.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/960x0.jpg",
+            "size": {
+                "width": 960,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9a420fffa01b73f2287ad387a628876": {
+            "format": "jpg",
+            "id": "e9a420fffa01b73f2287ad387a628876",
+            "name": "960x00.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/960x00.jpg",
+            "size": {
+                "width": 960,
+                "height": 605
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e20989a22a936b03045b1df23c6a9fa": {
+            "format": "jpg",
+            "id": "4e20989a22a936b03045b1df23c6a9fa",
+            "name": "a321xlr-01750xx3500-1967-0-510.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/a321xlr-01750xx3500-1967-0-510.jpg",
+            "size": {
+                "width": 750,
+                "height": 421
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1637abc646390b00db03a6134839ab06": {
+            "format": "jpg",
+            "id": "1637abc646390b00db03a6134839ab06",
+            "name": "ahl-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/ahl-1.jpg",
+            "size": {
+                "width": 1546,
+                "height": 924
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4efe721cd953a3f8482f1bd8eb6bd6d7": {
+            "format": "jpg",
+            "id": "4efe721cd953a3f8482f1bd8eb6bd6d7",
+            "name": "air-france-airplane-AIRFRANCECO0719.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/air-france-airplane-AIRFRANCECO0719.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1338e6501552cadb55f50570d2f0d449": {
+            "format": "jpg",
+            "id": "1338e6501552cadb55f50570d2f0d449",
+            "name": "Air-New-Zealand-Boeing-747-400.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Air-New-Zealand-Boeing-747-400.jpg",
+            "size": {
+                "width": 1600,
+                "height": 548
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d384adf81647e6b53d5a5e2eee218d9": {
+            "format": "jpg",
+            "id": "0d384adf81647e6b53d5a5e2eee218d9",
+            "name": "airbus-albatross-one-ALBATROSS0819.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airbus-albatross-one-ALBATROSS0819.jpg",
+            "size": {
+                "width": 900,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8958cfe70eeb9e8afd6f3ee8616561b9": {
+            "format": "jpg",
+            "id": "8958cfe70eeb9e8afd6f3ee8616561b9",
+            "name": "Airbus-Bird-of-Prey-concept-plane.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Airbus-Bird-of-Prey-concept-plane.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1bd37fc262e076a7f2862ff42c599458": {
+            "format": "jpg",
+            "id": "1bd37fc262e076a7f2862ff42c599458",
+            "name": "Airbus-Family-formation-flight1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Airbus-Family-formation-flight1.jpg",
+            "size": {
+                "width": 300,
+                "height": 221
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f11435cb7df37a92e140133da0fa8530": {
+            "format": "png",
+            "id": "f11435cb7df37a92e140133da0fa8530",
+            "name": "airbus-passenger-aircraft-family-formation2.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airbus-passenger-aircraft-family-formation2.png",
+            "size": {
+                "width": 300,
+                "height": 171
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4b162df57331c5d61bc36a21a4dc848": {
+            "format": "jpg",
+            "id": "b4b162df57331c5d61bc36a21a4dc848",
+            "name": "aircraft-anatomy.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/aircraft-anatomy.jpg",
+            "size": {
+                "width": 800,
+                "height": 550
+            },
+            "state": 1,
+            "type": 1
+        },
+        "19d22c8ee3cad7288b559ab4a70c8eff": {
+            "format": "jpg",
+            "id": "19d22c8ee3cad7288b559ab4a70c8eff",
+            "name": "aircraft-overran-runway-Mumbai-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/aircraft-overran-runway-Mumbai-1.jpg",
+            "size": {
+                "width": 2200,
+                "height": 1467
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f8267a1bcbf00fbd5bf7f14b429c0cc": {
+            "format": "jpg",
+            "id": "6f8267a1bcbf00fbd5bf7f14b429c0cc",
+            "name": "aircraft-private-jets-cessna-citation-cj2-356743_44ae7ed84ab447de_350X200_c.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/aircraft-private-jets-cessna-citation-cj2-356743_44ae7ed84ab447de_350X200_c.jpg",
+            "size": {
+                "width": 350,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0fb5d49e519dd6ddc920dc7da333932": {
+            "format": "jpg",
+            "id": "e0fb5d49e519dd6ddc920dc7da333932",
+            "name": "Aircraft20-20LPP_foto06_EFA.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Aircraft20-20LPP_foto06_EFA.jpg",
+            "size": {
+                "width": 503,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44aec698247d15f949f4803978e772d2": {
+            "format": "jpg",
+            "id": "44aec698247d15f949f4803978e772d2",
+            "name": "Airplane-fire.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Airplane-fire.jpg",
+            "size": {
+                "width": 970,
+                "height": 546
+            },
+            "state": 2,
+            "type": 1
+        },
+        "baa5f7a6661530aa4d654de113d35fea": {
+            "format": "jpg",
+            "id": "baa5f7a6661530aa4d654de113d35fea",
+            "name": "airplane-stolen-seattle-dash8-a400-august-10.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airplane-stolen-seattle-dash8-a400-august-10.jpg",
+            "size": {
+                "width": 2405,
+                "height": 1603
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87fb1505b491c9a861269c5872a6be9f": {
+            "format": "jpg",
+            "id": "87fb1505b491c9a861269c5872a6be9f",
+            "name": "airplane-travel-tip.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airplane-travel-tip.jpg",
+            "size": {
+                "width": 670,
+                "height": 405
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3483005b12925699131d76ec338ebc4b": {
+            "format": "jpg",
+            "id": "3483005b12925699131d76ec338ebc4b",
+            "name": "Airplane.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Airplane.jpg",
+            "size": {
+                "width": 748,
+                "height": 499
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b3db49edbd431449c2b7d516e9f0c77": {
+            "format": "jpg",
+            "id": "2b3db49edbd431449c2b7d516e9f0c77",
+            "name": "airplane0.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airplane0.jpg",
+            "size": {
+                "width": 800,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74b3087a434d328d8a089fd07254bc2f": {
+            "format": "jpg",
+            "id": "74b3087a434d328d8a089fd07254bc2f",
+            "name": "airplane1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airplane1.jpg",
+            "size": {
+                "width": 2400,
+                "height": 1600
+            },
+            "state": 1,
+            "type": 1
+        },
+        "21941e5182a90085606bf1a0ac29cba8": {
+            "format": "jpg",
+            "id": "21941e5182a90085606bf1a0ac29cba8",
+            "name": "airplane_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airplane_1.jpg",
+            "size": {
+                "width": 1200,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "493a378b65d8ed6dbea1387170ad0833": {
+            "format": "jpg",
+            "id": "493a378b65d8ed6dbea1387170ad0833",
+            "name": "airplane_gettyimages-866616238.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airplane_gettyimages-866616238.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d4df75b14170984239c2f2808d36cc91": {
+            "format": "jpg",
+            "id": "d4df75b14170984239c2f2808d36cc91",
+            "name": "airtaxisergeysan1sstock.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/airtaxisergeysan1sstock.jpg",
+            "size": {
+                "width": 550,
+                "height": 334
+            },
+            "state": 1,
+            "type": 1
+        },
+        "16f87c19c5208a9666f0b978e35c8690": {
+            "format": "jpg",
+            "id": "16f87c19c5208a9666f0b978e35c8690",
+            "name": "amazon-prime-air.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/amazon-prime-air.jpg",
+            "size": {
+                "width": 3600,
+                "height": 2400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0d9991c081c61843f2d7d88de4ca03e": {
+            "format": "jpg",
+            "id": "b0d9991c081c61843f2d7d88de4ca03e",
+            "name": "ampaire_337.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/ampaire_337.jpg",
+            "size": {
+                "width": 1600,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1cac277e9b35ef4aa2506fe2b9475cc": {
+            "format": "jpg",
+            "id": "f1cac277e9b35ef4aa2506fe2b9475cc",
+            "name": "Arrivee-Slider-v2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Arrivee-Slider-v2.jpg",
+            "size": {
+                "width": 1920,
+                "height": 732
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d643207dad81351195c748da0e3f9ab": {
+            "format": "jpg",
+            "id": "7d643207dad81351195c748da0e3f9ab",
+            "name": "ATR4220-20C-FJYW2053.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/ATR4220-20C-FJYW2053.jpg",
+            "size": {
+                "width": 2580,
+                "height": 1932
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd54285a831d4ddf77eaf27da0d2b22d": {
+            "format": "jpg",
+            "id": "fd54285a831d4ddf77eaf27da0d2b22d",
+            "name": "AW609-tiltrotor-exterior-1-HELIHYBRIDD0419.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/AW609-tiltrotor-exterior-1-HELIHYBRIDD0419.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d4ddebda1d9b96d7e59db88e600e2a65": {
+            "format": "jpg",
+            "id": "d4ddebda1d9b96d7e59db88e600e2a65",
+            "name": "bea-380-f-hpje-revised.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/bea-380-f-hpje-revised.jpg",
+            "size": {
+                "width": 390,
+                "height": 220
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0955189e03e74ea50fbc1b2a5d94b977": {
+            "format": "jpg",
+            "id": "0955189e03e74ea50fbc1b2a5d94b977",
+            "name": "beech-baron.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/beech-baron.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "463f603ade967be5f275fce33bdcdc6c": {
+            "format": "jpg",
+            "id": "463f603ade967be5f275fce33bdcdc6c",
+            "name": "beluga3.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/beluga3.jpg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f85659568276592b18cc5f206dfb6441": {
+            "format": "jpg",
+            "id": "f85659568276592b18cc5f206dfb6441",
+            "name": "Boeing-737-800.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Boeing-737-800.jpg",
+            "size": {
+                "width": 960,
+                "height": 580
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e90f4bbd142024011783c2e6a41eb3aa": {
+            "format": "jpg",
+            "id": "e90f4bbd142024011783c2e6a41eb3aa",
+            "name": "boeing-737max.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/boeing-737max.jpg",
+            "size": {
+                "width": 780,
+                "height": 439
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f23c5cc7244d6c24169ce8a8300b5542": {
+            "format": "jpg",
+            "id": "f23c5cc7244d6c24169ce8a8300b5542",
+            "name": "boeing-hypersonic-spy-aircraft-concept.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/boeing-hypersonic-spy-aircraft-concept.jpg",
+            "size": {
+                "width": 1600,
+                "height": 800
+            },
+            "state": 1,
+            "type": 1
+        },
+        "dd552ee5ef468b88d995b02e2ad4cad4": {
+            "format": "png",
+            "id": "dd552ee5ef468b88d995b02e2ad4cad4",
+            "name": "Boeings-New-Planes-are-Fuel-Savers_crop.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Boeings-New-Planes-are-Fuel-Savers_crop.png",
+            "size": {
+                "width": 1140,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ceb41eb6177467fb024ea3ba315beed": {
+            "format": "jpeg",
+            "id": "7ceb41eb6177467fb024ea3ba315beed",
+            "name": "bombardier-challenger.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/bombardier-challenger.jpeg",
+            "size": {
+                "width": 750,
+                "height": 562
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa6828176911ac47f3a1a9d031c2447a": {
+            "format": "jpg",
+            "id": "aa6828176911ac47f3a1a9d031c2447a",
+            "name": "Can-the-airplane-wings-break-off-in-strong-turbulence-780x405.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Can-the-airplane-wings-break-off-in-strong-turbulence-780x405.jpg",
+            "size": {
+                "width": 780,
+                "height": 405
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9ece523db9716c73d51ecad9d9fd6ef": {
+            "format": "png",
+            "id": "f9ece523db9716c73d51ecad9d9fd6ef",
+            "name": "celebrating-dr-herbert-kleber-6753651837108229-s.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/celebrating-dr-herbert-kleber-6753651837108229-s.png",
+            "size": {
+                "width": 120,
+                "height": 44
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f453b86683ef603e79411bbcd0fa4b38": {
+            "format": "png",
+            "id": "f453b86683ef603e79411bbcd0fa4b38",
+            "name": "celebrating-dr-herbert-kleber-6753651837108229-s_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/celebrating-dr-herbert-kleber-6753651837108229-s_1.png",
+            "size": {
+                "width": 120,
+                "height": 44
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2b4072db255bf3a78de8ffae29e2f734": {
+            "format": "png",
+            "id": "2b4072db255bf3a78de8ffae29e2f734",
+            "name": "checkmark2.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/checkmark2.png",
+            "size": {
+                "width": 25,
+                "height": 21
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ea999729327f17ec0647ed591c7a7562": {
+            "format": "png",
+            "id": "ea999729327f17ec0647ed591c7a7562",
+            "name": "checkmark2_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/checkmark2_1.png",
+            "size": {
+                "width": 25,
+                "height": 21
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a62b15a1deb327d847aed847ff65c7fa": {
+            "format": "jpg",
+            "id": "a62b15a1deb327d847aed847ff65c7fa",
+            "name": "Cirrus-TRAC-series-1200x800.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Cirrus-TRAC-series-1200x800.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40abe530c1d0ab645110e852444e86fe": {
+            "format": "jpg",
+            "id": "40abe530c1d0ab645110e852444e86fe",
+            "name": "Climate-change-basics-air-travel-climate-change-hero.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Climate-change-basics-air-travel-climate-change-hero.jpg",
+            "size": {
+                "width": 2800,
+                "height": 1680
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fca76b2239058e8508e0086e74059e8f": {
+            "format": "jpg",
+            "id": "fca76b2239058e8508e0086e74059e8f",
+            "name": "Collection_of_military_aircraft.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Collection_of_military_aircraft.jpg",
+            "size": {
+                "width": 2997,
+                "height": 2404
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b4fe0c8879c3feab7f9598c48d125b2": {
+            "format": "jpg",
+            "id": "4b4fe0c8879c3feab7f9598c48d125b2",
+            "name": "Concorde-British-Airways.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Concorde-British-Airways.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1141
+            },
+            "state": 2,
+            "type": 1
+        },
+        "89b94555307d72492c477c17bce495c4": {
+            "format": "jpg",
+            "id": "89b94555307d72492c477c17bce495c4",
+            "name": "constructeur.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/constructeur.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51589449dcc373d3c14aa19e412e4369": {
+            "format": "jpg",
+            "id": "51589449dcc373d3c14aa19e412e4369",
+            "name": "continental-airlines-boeing-737-800.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/continental-airlines-boeing-737-800.jpg",
+            "size": {
+                "width": 1540,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6410afba1f05942d7b01d3d36c034fe0": {
+            "format": "jpg",
+            "id": "6410afba1f05942d7b01d3d36c034fe0",
+            "name": "Copyright-DGA-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Copyright-DGA-1.jpg",
+            "size": {
+                "width": 300,
+                "height": 201
+            },
+            "state": 2,
+            "type": 1
+        },
+        "102526fd992bd3acbbfcb158d13c5944": {
+            "format": "jpg",
+            "id": "102526fd992bd3acbbfcb158d13c5944",
+            "name": "cover_aircraft.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/cover_aircraft.jpg",
+            "size": {
+                "width": 3647,
+                "height": 1433
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d7ee816b7f047f03e4bcbe9c69816ac": {
+            "format": "jpg",
+            "id": "4d7ee816b7f047f03e4bcbe9c69816ac",
+            "name": "csm_DA62_Header_fc150549c4.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/csm_DA62_Header_fc150549c4.jpg",
+            "size": {
+                "width": 1082,
+                "height": 722
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34eb9dc456a68105f62b93ab8938f796": {
+            "format": "jpg",
+            "id": "34eb9dc456a68105f62b93ab8938f796",
+            "name": "DA00031027_Si-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/DA00031027_Si-1.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1066
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4b695ae273ba01dc38a415a70023739": {
+            "format": "jpeg",
+            "id": "f4b695ae273ba01dc38a415a70023739",
+            "name": "Dacta.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Dacta.jpeg",
+            "size": {
+                "width": 647,
+                "height": 363
+            },
+            "state": 2,
+            "type": 1
+        },
+        "092ca1dc4e1619e98bfecbc5cf810bf3": {
+            "format": "jpeg",
+            "id": "092ca1dc4e1619e98bfecbc5cf810bf3",
+            "name": "defiant.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/defiant.jpeg",
+            "size": {
+                "width": 777,
+                "height": 437
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a3f40800f9ef236c5257fd8d7d2e54d8": {
+            "format": "jpg",
+            "id": "a3f40800f9ef236c5257fd8d7d2e54d8",
+            "name": "d_g450_a_mkt_952_v01r02.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/d_g450_a_mkt_952_v01r02.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d139f146a2762d17fd48c0afe837f467": {
+            "format": "jpg",
+            "id": "d139f146a2762d17fd48c0afe837f467",
+            "name": "d_g650ER_a_print_00219_v01r03.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/d_g650ER_a_print_00219_v01r03.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2b8cfd546d19fb2218a1d37909fb90d": {
+            "format": "jpg",
+            "id": "d2b8cfd546d19fb2218a1d37909fb90d",
+            "name": "d_mach_flyingv_190605.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/d_mach_flyingv_190605.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "72cf53572b0b91d393922886f63debc6": {
+            "format": "jpg",
+            "id": "72cf53572b0b91d393922886f63debc6",
+            "name": "Ethiopia-Plane-Crash-e1552503233778.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Ethiopia-Plane-Crash-e1552503233778.jpg",
+            "size": {
+                "width": 5866,
+                "height": 3315
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2587e9d99e6f805b00d98794094b253": {
+            "format": "jpg",
+            "id": "d2587e9d99e6f805b00d98794094b253",
+            "name": "europeanaircraftsales_piper_m600_1400x800_2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/europeanaircraftsales_piper_m600_1400x800_2.jpg",
+            "size": {
+                "width": 1400,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "737e350f2a57931dc70b36e43926ed0a": {
+            "format": "jpg",
+            "id": "737e350f2a57931dc70b36e43926ed0a",
+            "name": "eviation-alice.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/eviation-alice.jpg",
+            "size": {
+                "width": 1000,
+                "height": 563
+            },
+            "state": 1,
+            "type": 1
+        },
+        "221bc349a81cb0b4d9bdfe927c225c22": {
+            "format": "jpg",
+            "id": "221bc349a81cb0b4d9bdfe927c225c22",
+            "name": "Experience-Mustang-Flight-adventure.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Experience-Mustang-Flight-adventure.jpg",
+            "size": {
+                "width": 1600,
+                "height": 1600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b05fa6710219913d46b68164787c748f": {
+            "format": "jpg",
+            "id": "b05fa6710219913d46b68164787c748f",
+            "name": "F-21.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/F-21.jpg",
+            "size": {
+                "width": 1024,
+                "height": 653
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f128897a9e67fd75b66cbfff51290614": {
+            "format": "jpg",
+            "id": "f128897a9e67fd75b66cbfff51290614",
+            "name": "f-35-demo-team-3000.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/f-35-demo-team-3000.jpg",
+            "size": {
+                "width": 3000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25f1eecf076736ec43dcc73b4344585d": {
+            "format": "png",
+            "id": "25f1eecf076736ec43dcc73b4344585d",
+            "name": "fb_32x32.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/fb_32x32.png",
+            "size": {
+                "width": 32,
+                "height": 32
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3fffd1af017eb682441e3c8d67b755e4": {
+            "format": "png",
+            "id": "3fffd1af017eb682441e3c8d67b755e4",
+            "name": "fb_32x32_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/fb_32x32_1.png",
+            "size": {
+                "width": 32,
+                "height": 32
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1887ba13971321f5d63210723a747085": {
+            "format": "jpg",
+            "id": "1887ba13971321f5d63210723a747085",
+            "name": "fly.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/fly.jpg",
+            "size": {
+                "width": 2500,
+                "height": 1667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f1420406a4320c5806d040cc44d400a": {
+            "format": "jpg",
+            "id": "4f1420406a4320c5806d040cc44d400a",
+            "name": "flying-V-airplane-TU-delft-KLM-designboom-600.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/flying-V-airplane-TU-delft-KLM-designboom-600.jpg",
+            "size": {
+                "width": 500,
+                "height": 600
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7608279860a53a27b1135ade40a65e5b": {
+            "format": "png",
+            "id": "7608279860a53a27b1135ade40a65e5b",
+            "name": "flying-v-plane-passenger-seats-wings-1200x630.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/flying-v-plane-passenger-seats-wings-1200x630.png",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4893d57093fdee9000f400b1605e9926": {
+            "format": "jpg",
+            "id": "4893d57093fdee9000f400b1605e9926",
+            "name": "flying-v.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/flying-v.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1000
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a2bdac7e50651930d0d56c88ca27f77b": {
+            "format": "png",
+            "id": "a2bdac7e50651930d0d56c88ca27f77b",
+            "name": "frigate-mom.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/frigate-mom.png",
+            "size": {
+                "width": 1400,
+                "height": 699
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8bc9bf206f812eec8813ee3213f57c32": {
+            "format": "jpg",
+            "id": "8bc9bf206f812eec8813ee3213f57c32",
+            "name": "gettyimages-1163604659.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/gettyimages-1163604659.jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef93cb1505b400d26ed80d20606edb85": {
+            "format": "jpg",
+            "id": "ef93cb1505b400d26ed80d20606edb85",
+            "name": "GettyImages-755742867.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/GettyImages-755742867.jpg",
+            "size": {
+                "width": 2121,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7bc90679a4a627b70bd24d37dc6bee83": {
+            "format": "jpg",
+            "id": "7bc90679a4a627b70bd24d37dc6bee83",
+            "name": "GettyImages-952501862-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/GettyImages-952501862-1.jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e313a87386aa25a40fb33769d3d651f": {
+            "format": "jpg",
+            "id": "9e313a87386aa25a40fb33769d3d651f",
+            "name": "gn-gift_guide_variable_c.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/gn-gift_guide_variable_c.jpg",
+            "size": {
+                "width": 970,
+                "height": 545
+            },
+            "state": 2,
+            "type": 1
+        },
+        "304f7ff72dc102e6c728e4e355512ff6": {
+            "format": "png",
+            "id": "304f7ff72dc102e6c728e4e355512ff6",
+            "name": "googlemic_color_24dp.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/googlemic_color_24dp.png",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d2ad0e266f9e5cf9a2e0545fb840f0bb": {
+            "format": "png",
+            "id": "d2ad0e266f9e5cf9a2e0545fb840f0bb",
+            "name": "googlemic_color_24dp_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/googlemic_color_24dp_1.png",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "39dec8c84476028ef317b6703c80f757": {
+            "format": "jpg",
+            "id": "39dec8c84476028ef317b6703c80f757",
+            "name": "gulfstream.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/gulfstream.jpg",
+            "size": {
+                "width": 747,
+                "height": 439
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0fd405080d068c7278c777f4ec52ddf1": {
+            "format": "jpg",
+            "id": "0fd405080d068c7278c777f4ec52ddf1",
+            "name": "hermeus_render_1600x900-800x450.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/hermeus_render_1600x900-800x450.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b34dc12db9a0325d4b277c6b7884e297": {
+            "format": "jpg",
+            "id": "b34dc12db9a0325d4b277c6b7884e297",
+            "name": "Hero-Mako-small.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Hero-Mako-small.jpg",
+            "size": {
+                "width": 1024,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ec792c46e04012249615ffeef065af0": {
+            "format": "jpg",
+            "id": "9ec792c46e04012249615ffeef065af0",
+            "name": "High20res20outdoor20mockup-1280x720.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/High20res20outdoor20mockup-1280x720.jpg",
+            "size": {
+                "width": 450,
+                "height": 253
+            },
+            "state": 1,
+            "type": 1
+        },
+        "64d58f858a6d1bf627c6cb82c0935b71": {
+            "format": "jpg",
+            "id": "64d58f858a6d1bf627c6cb82c0935b71",
+            "name": "https3A2F2Fspecials-images.forbesimg.com2Fdam2Fimageserve2F11652502042F960x0.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/https3A2F2Fspecials-images.forbesimg.com2Fdam2Fimageserve2F11652502042F960x0.jpg",
+            "size": {
+                "width": 960,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d05534460ffa6ed2f741aada7972427f": {
+            "format": "jpeg",
+            "id": "d05534460ffa6ed2f741aada7972427f",
+            "name": "image.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image.jpeg",
+            "size": {
+                "width": 176,
+                "height": 286
+            },
+            "state": 2,
+            "type": 1
+        },
+        "231d556aea0cd883842c9f8f8165ebfe": {
+            "format": "jpg",
+            "id": "231d556aea0cd883842c9f8f8165ebfe",
+            "name": "image.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image.jpg",
+            "size": {
+                "width": 350,
+                "height": 350
+            },
+            "state": 1,
+            "type": 1
+        },
+        "238483f18dd9700b0c269400d1a3804c": {
+            "format": "png",
+            "id": "238483f18dd9700b0c269400d1a3804c",
+            "name": "image.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image.png",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d2b311b7ae6834dd0c61c2450304b473": {
+            "format": "jpeg",
+            "id": "d2b311b7ae6834dd0c61c2450304b473",
+            "name": "image0.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image0.jpeg",
+            "size": {
+                "width": 266,
+                "height": 190
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b0e9c10df4cb944ce93d5a5daf083e5": {
+            "format": "jpg",
+            "id": "8b0e9c10df4cb944ce93d5a5daf083e5",
+            "name": "image0.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image0.jpg",
+            "size": {
+                "width": 350,
+                "height": 350
+            },
+            "state": 1,
+            "type": 1
+        },
+        "05c35ad0b7cda12bf6bb9e3ccf6ebbda": {
+            "format": "png",
+            "id": "05c35ad0b7cda12bf6bb9e3ccf6ebbda",
+            "name": "image0.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image0.png",
+            "size": {
+                "width": 188,
+                "height": 64
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7d3036a6addc1f6a3d5004e4c26ef339": {
+            "format": "jpeg",
+            "id": "7d3036a6addc1f6a3d5004e4c26ef339",
+            "name": "image0_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image0_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a435ede121684d669d481b2b9c13b3ac": {
+            "format": "png",
+            "id": "a435ede121684d669d481b2b9c13b3ac",
+            "name": "image0_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image0_1.png",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7ace75c9d1265dd71dcdb1893cfeaa66": {
+            "format": "jpeg",
+            "id": "7ace75c9d1265dd71dcdb1893cfeaa66",
+            "name": "image1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image1.jpeg",
+            "size": {
+                "width": 266,
+                "height": 190
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e3684176e840140a24aa19507b4ae56d": {
+            "format": "jpg",
+            "id": "e3684176e840140a24aa19507b4ae56d",
+            "name": "image1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image1.jpg",
+            "size": {
+                "width": 350,
+                "height": 350
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a0b3fc384f5c0436f6e33b0f16e4f990": {
+            "format": "png",
+            "id": "a0b3fc384f5c0436f6e33b0f16e4f990",
+            "name": "image1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image1.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9b3d2d2f5c0b43a9c491386f91c44a32": {
+            "format": "jpeg",
+            "id": "9b3d2d2f5c0b43a9c491386f91c44a32",
+            "name": "image10.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image10.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2ef384aa10f9d5fde06b300d8bff0e0b": {
+            "format": "png",
+            "id": "2ef384aa10f9d5fde06b300d8bff0e0b",
+            "name": "image10.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image10.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d21e5a0013b28a0c7f51de9338819929": {
+            "format": "jpeg",
+            "id": "d21e5a0013b28a0c7f51de9338819929",
+            "name": "image10_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image10_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ac29a84f155220d37213ccdc5e65b5ea": {
+            "format": "jpeg",
+            "id": "ac29a84f155220d37213ccdc5e65b5ea",
+            "name": "image11.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image11.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9b222bf996c28348daff527414aa3440": {
+            "format": "png",
+            "id": "9b222bf996c28348daff527414aa3440",
+            "name": "image11.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image11.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3e671f3374f743d91a20a6dadc51c340": {
+            "format": "jpeg",
+            "id": "3e671f3374f743d91a20a6dadc51c340",
+            "name": "image11_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image11_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8acae548ed035db96484c69a35410e7c": {
+            "format": "jpeg",
+            "id": "8acae548ed035db96484c69a35410e7c",
+            "name": "image12.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image12.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e872f2ff8ec9ef7ccaa1df261a7dc399": {
+            "format": "png",
+            "id": "e872f2ff8ec9ef7ccaa1df261a7dc399",
+            "name": "image12.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image12.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9e6aae6ae34713e34fdc393a4b1d8b90": {
+            "format": "jpeg",
+            "id": "9e6aae6ae34713e34fdc393a4b1d8b90",
+            "name": "image12_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image12_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84ce1d007148ac5261c99833cf5f84d2": {
+            "format": "jpeg",
+            "id": "84ce1d007148ac5261c99833cf5f84d2",
+            "name": "image13.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image13.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8c10bd06e98fdac28f7ec8672adef7c": {
+            "format": "png",
+            "id": "f8c10bd06e98fdac28f7ec8672adef7c",
+            "name": "image13.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image13.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3ac307465e440bb6ed26610c63891df5": {
+            "format": "jpeg",
+            "id": "3ac307465e440bb6ed26610c63891df5",
+            "name": "image13_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image13_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "06efbaaa521facdd4cbea39d96f55efd": {
+            "format": "jpeg",
+            "id": "06efbaaa521facdd4cbea39d96f55efd",
+            "name": "image14.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image14.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0d80b11a7a39f1f859511c274b9788e": {
+            "format": "jpeg",
+            "id": "b0d80b11a7a39f1f859511c274b9788e",
+            "name": "image14_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image14_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ef93d69e8ac530a55d61da9646c96a74": {
+            "format": "jpeg",
+            "id": "ef93d69e8ac530a55d61da9646c96a74",
+            "name": "image15.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image15.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "01fb60530021a13b37635236d4d72c33": {
+            "format": "jpeg",
+            "id": "01fb60530021a13b37635236d4d72c33",
+            "name": "image15_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image15_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d30ec195f781bc1234b33115d1c00a25": {
+            "format": "jpeg",
+            "id": "d30ec195f781bc1234b33115d1c00a25",
+            "name": "image16.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image16.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6baa6f718e43961de762d5bffece4802": {
+            "format": "jpeg",
+            "id": "6baa6f718e43961de762d5bffece4802",
+            "name": "image16_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image16_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24173433be4c900593619edd867a833f": {
+            "format": "jpeg",
+            "id": "24173433be4c900593619edd867a833f",
+            "name": "image17.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image17.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0e54f89ffea6b73d148bae7aaf369d31": {
+            "format": "jpeg",
+            "id": "0e54f89ffea6b73d148bae7aaf369d31",
+            "name": "image17_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image17_1.jpeg",
+            "size": {
+                "width": 205,
+                "height": 246
+            },
+            "state": 2,
+            "type": 1
+        },
+        "babd8d99cc4940340cf337982e3b6bb9": {
+            "format": "jpeg",
+            "id": "babd8d99cc4940340cf337982e3b6bb9",
+            "name": "image18.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image18.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a5cefaf43617e6dfa6f1ea59537c0169": {
+            "format": "jpeg",
+            "id": "a5cefaf43617e6dfa6f1ea59537c0169",
+            "name": "image18_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image18_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60cfc52fb620f1ba5cdb001af0a39444": {
+            "format": "jpeg",
+            "id": "60cfc52fb620f1ba5cdb001af0a39444",
+            "name": "image19.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image19.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "40abb092a610d0abbec765fc3e13d45e": {
+            "format": "jpeg",
+            "id": "40abb092a610d0abbec765fc3e13d45e",
+            "name": "image19_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image19_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e00b6c0aff04b1d1ba4f78586bdf8b9c": {
+            "format": "jpeg",
+            "id": "e00b6c0aff04b1d1ba4f78586bdf8b9c",
+            "name": "image1_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image1_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7d979c9f99c1c54ecf6d4d31674a474d": {
+            "format": "png",
+            "id": "7d979c9f99c1c54ecf6d4d31674a474d",
+            "name": "image1_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image1_1.png",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "518e8770c2152218dbc1736cd1980cad": {
+            "format": "jpeg",
+            "id": "518e8770c2152218dbc1736cd1980cad",
+            "name": "image2.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image2.jpeg",
+            "size": {
+                "width": 289,
+                "height": 174
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5bbf55ab29e3fa25a66b96f59306fb3": {
+            "format": "jpg",
+            "id": "b5bbf55ab29e3fa25a66b96f59306fb3",
+            "name": "image2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image2.jpg",
+            "size": {
+                "width": 350,
+                "height": 350
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8939faa86d1c8e75947b075ba456179e": {
+            "format": "png",
+            "id": "8939faa86d1c8e75947b075ba456179e",
+            "name": "image2.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image2.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "213e8a8ec2dda2ed63345f697dcd9971": {
+            "format": "jpeg",
+            "id": "213e8a8ec2dda2ed63345f697dcd9971",
+            "name": "image20.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image20.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e908a9bc4e0c4cd517d2945e6bb31cf8": {
+            "format": "jpeg",
+            "id": "e908a9bc4e0c4cd517d2945e6bb31cf8",
+            "name": "image20_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image20_1.jpeg",
+            "size": {
+                "width": 288,
+                "height": 175
+            },
+            "state": 2,
+            "type": 1
+        },
+        "491036522e464dd227129c60f6f3970a": {
+            "format": "jpeg",
+            "id": "491036522e464dd227129c60f6f3970a",
+            "name": "image21.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image21.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbf1f0ed1cacb792b96d5c4f3c8b3fb1": {
+            "format": "jpeg",
+            "id": "fbf1f0ed1cacb792b96d5c4f3c8b3fb1",
+            "name": "image21_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image21_1.jpeg",
+            "size": {
+                "width": 288,
+                "height": 175
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c3641e249d59b5819a6d7efda08392b": {
+            "format": "jpeg",
+            "id": "7c3641e249d59b5819a6d7efda08392b",
+            "name": "image22.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image22.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cb2dd356bdb1e5ff41367449a278a4cb": {
+            "format": "jpeg",
+            "id": "cb2dd356bdb1e5ff41367449a278a4cb",
+            "name": "image22_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image22_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "063c8e32fb5334a5d3cd6738e3326916": {
+            "format": "jpeg",
+            "id": "063c8e32fb5334a5d3cd6738e3326916",
+            "name": "image23.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image23.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "66dab72677a18c660931e88a524f4195": {
+            "format": "jpeg",
+            "id": "66dab72677a18c660931e88a524f4195",
+            "name": "image23_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image23_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c59ae32592f5c35c1167315a167b8a0d": {
+            "format": "jpeg",
+            "id": "c59ae32592f5c35c1167315a167b8a0d",
+            "name": "image24.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image24.jpeg",
+            "size": {
+                "width": 280,
+                "height": 180
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e5c03ea5c1d32d8b714afa22eda1a5f": {
+            "format": "jpeg",
+            "id": "4e5c03ea5c1d32d8b714afa22eda1a5f",
+            "name": "image24_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image24_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aab09b91010ed8fde1a9910032c7a0fe": {
+            "format": "jpeg",
+            "id": "aab09b91010ed8fde1a9910032c7a0fe",
+            "name": "image25.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image25.jpeg",
+            "size": {
+                "width": 274,
+                "height": 184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c9cddb97633b3f255ccea804ebd0fc4": {
+            "format": "jpeg",
+            "id": "4c9cddb97633b3f255ccea804ebd0fc4",
+            "name": "image25_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image25_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04f5bf69e81cf1c44aba1cd118fc80ce": {
+            "format": "jpeg",
+            "id": "04f5bf69e81cf1c44aba1cd118fc80ce",
+            "name": "image26.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image26.jpeg",
+            "size": {
+                "width": 274,
+                "height": 184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c78b4819c33afe7a9d5d6ce62a0b56a": {
+            "format": "jpeg",
+            "id": "0c78b4819c33afe7a9d5d6ce62a0b56a",
+            "name": "image26_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image26_1.jpeg",
+            "size": {
+                "width": 299,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4960de04c1a78b375e0818151334dfc2": {
+            "format": "jpeg",
+            "id": "4960de04c1a78b375e0818151334dfc2",
+            "name": "image27.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image27.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18f1505a752340cce59104e1020f7ef1": {
+            "format": "jpeg",
+            "id": "18f1505a752340cce59104e1020f7ef1",
+            "name": "image27_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image27_1.jpeg",
+            "size": {
+                "width": 299,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b70efb269e0542707d216c85007b6ffe": {
+            "format": "jpeg",
+            "id": "b70efb269e0542707d216c85007b6ffe",
+            "name": "image28.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image28.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b055e690e0e12f369aa06f1e7eff36dc": {
+            "format": "jpeg",
+            "id": "b055e690e0e12f369aa06f1e7eff36dc",
+            "name": "image28_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image28_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4216d9c9f97fec9aeb3c0ba32ab4f7a": {
+            "format": "jpeg",
+            "id": "a4216d9c9f97fec9aeb3c0ba32ab4f7a",
+            "name": "image29.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image29.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "383a23f426fe40571a7ec85770ecc2a5": {
+            "format": "jpeg",
+            "id": "383a23f426fe40571a7ec85770ecc2a5",
+            "name": "image29_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image29_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "265d7b31858bf508221b3df418c47597": {
+            "format": "jpeg",
+            "id": "265d7b31858bf508221b3df418c47597",
+            "name": "image2_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image2_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0c564350b88ed3b102658b380abb03b8": {
+            "format": "png",
+            "id": "0c564350b88ed3b102658b380abb03b8",
+            "name": "image2_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image2_1.png",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f5b805f72023ccdb14c7f689399cf615": {
+            "format": "jpeg",
+            "id": "f5b805f72023ccdb14c7f689399cf615",
+            "name": "image3.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image3.jpeg",
+            "size": {
+                "width": 263,
+                "height": 191
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1332cb277f16687e2505d9d026c73bcd": {
+            "format": "png",
+            "id": "1332cb277f16687e2505d9d026c73bcd",
+            "name": "image3.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image3.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b331343a26e35f8103079156c24bd07d": {
+            "format": "jpeg",
+            "id": "b331343a26e35f8103079156c24bd07d",
+            "name": "image30.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image30.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "666dc7cd689d78d2bb4095f4769abb0e": {
+            "format": "jpeg",
+            "id": "666dc7cd689d78d2bb4095f4769abb0e",
+            "name": "image30_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image30_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "129da609c95238281fa9effaa7a2094a": {
+            "format": "jpeg",
+            "id": "129da609c95238281fa9effaa7a2094a",
+            "name": "image31.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image31.jpeg",
+            "size": {
+                "width": 318,
+                "height": 159
+            },
+            "state": 1,
+            "type": 1
+        },
+        "761cbe7a8d5d60aac204dfbc299fa8de": {
+            "format": "jpeg",
+            "id": "761cbe7a8d5d60aac204dfbc299fa8de",
+            "name": "image31_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image31_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f3e8c1916aa18b2d60b9a6f05f15c52": {
+            "format": "jpeg",
+            "id": "2f3e8c1916aa18b2d60b9a6f05f15c52",
+            "name": "image32.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image32.jpeg",
+            "size": {
+                "width": 318,
+                "height": 159
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a95ddf0eb45095ad221c7e01e410481c": {
+            "format": "jpeg",
+            "id": "a95ddf0eb45095ad221c7e01e410481c",
+            "name": "image32_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image32_1.jpeg",
+            "size": {
+                "width": 294,
+                "height": 171
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f3c48c89355f97c961ad065771a106a": {
+            "format": "jpeg",
+            "id": "3f3c48c89355f97c961ad065771a106a",
+            "name": "image33.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image33.jpeg",
+            "size": {
+                "width": 298,
+                "height": 169
+            },
+            "state": 2,
+            "type": 1
+        },
+        "089ac3dee83897a86436fd0749eea54d": {
+            "format": "jpeg",
+            "id": "089ac3dee83897a86436fd0749eea54d",
+            "name": "image33_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image33_1.jpeg",
+            "size": {
+                "width": 294,
+                "height": 171
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f81328afa576e8cd4f9d74ec95399a4": {
+            "format": "jpeg",
+            "id": "3f81328afa576e8cd4f9d74ec95399a4",
+            "name": "image34.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image34.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 1,
+            "type": 1
+        },
+        "00eb2ba9eaa7f81b04f6bf4dde334107": {
+            "format": "jpeg",
+            "id": "00eb2ba9eaa7f81b04f6bf4dde334107",
+            "name": "image34_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image34_1.jpeg",
+            "size": {
+                "width": 299,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfebdc699fae6ba1c5c78bd66c98cbfa": {
+            "format": "jpeg",
+            "id": "cfebdc699fae6ba1c5c78bd66c98cbfa",
+            "name": "image35.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image35.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 1,
+            "type": 1
+        },
+        "dcb4cd905cbca0577388c6b3c699320d": {
+            "format": "jpeg",
+            "id": "dcb4cd905cbca0577388c6b3c699320d",
+            "name": "image35_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image35_1.jpeg",
+            "size": {
+                "width": 299,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5f6ab9e38525e1a5ea0ccdffb371ddc": {
+            "format": "jpeg",
+            "id": "c5f6ab9e38525e1a5ea0ccdffb371ddc",
+            "name": "image36.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image36.jpeg",
+            "size": {
+                "width": 284,
+                "height": 177
+            },
+            "state": 2,
+            "type": 1
+        },
+        "15e905fc0d1f36de8fe0a3f1556bdadc": {
+            "format": "jpeg",
+            "id": "15e905fc0d1f36de8fe0a3f1556bdadc",
+            "name": "image36_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image36_1.jpeg",
+            "size": {
+                "width": 266,
+                "height": 190
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4f18606a3b837318b83f5df3be80c7b": {
+            "format": "jpeg",
+            "id": "f4f18606a3b837318b83f5df3be80c7b",
+            "name": "image37.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image37.jpeg",
+            "size": {
+                "width": 284,
+                "height": 177
+            },
+            "state": 2,
+            "type": 1
+        },
+        "553394f37cea75b5667a1d5bb6c867ca": {
+            "format": "jpeg",
+            "id": "553394f37cea75b5667a1d5bb6c867ca",
+            "name": "image37_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image37_1.jpeg",
+            "size": {
+                "width": 289,
+                "height": 174
+            },
+            "state": 2,
+            "type": 1
+        },
+        "057bdf3ee2b2f0361829009a8d46026c": {
+            "format": "jpeg",
+            "id": "057bdf3ee2b2f0361829009a8d46026c",
+            "name": "image38.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image38.jpeg",
+            "size": {
+                "width": 298,
+                "height": 169
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3dc8f49b18b0d9b28e1db861ce4b9e92": {
+            "format": "jpeg",
+            "id": "3dc8f49b18b0d9b28e1db861ce4b9e92",
+            "name": "image38_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image38_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e4fb5c9c68db094f4813049cfabb4f7e": {
+            "format": "jpeg",
+            "id": "e4fb5c9c68db094f4813049cfabb4f7e",
+            "name": "image39.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image39.jpeg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 1,
+            "type": 1
+        },
+        "72675862f0f10e7da13d045fd2789b59": {
+            "format": "jpeg",
+            "id": "72675862f0f10e7da13d045fd2789b59",
+            "name": "image39_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image39_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9df7b7d0e949b2270114529bb03315ef": {
+            "format": "jpeg",
+            "id": "9df7b7d0e949b2270114529bb03315ef",
+            "name": "image3_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image3_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4da746b5dea4d34a8d4d9b5e6af7d57b": {
+            "format": "png",
+            "id": "4da746b5dea4d34a8d4d9b5e6af7d57b",
+            "name": "image3_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image3_1.png",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "78745db3ddf9a27819c3f179e80428de": {
+            "format": "jpeg",
+            "id": "78745db3ddf9a27819c3f179e80428de",
+            "name": "image4.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image4.jpeg",
+            "size": {
+                "width": 263,
+                "height": 191
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c952869853cff89f17dfef7c143364b": {
+            "format": "png",
+            "id": "0c952869853cff89f17dfef7c143364b",
+            "name": "image4.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image4.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3740a49ab8888ebe3e7c9847e5e178a9": {
+            "format": "jpeg",
+            "id": "3740a49ab8888ebe3e7c9847e5e178a9",
+            "name": "image40.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image40.jpeg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 1,
+            "type": 1
+        },
+        "094ba640390c29dac64c9d3c06e4d646": {
+            "format": "jpeg",
+            "id": "094ba640390c29dac64c9d3c06e4d646",
+            "name": "image40_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image40_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae8757158df34028f83d84a80d2335f8": {
+            "format": "jpeg",
+            "id": "ae8757158df34028f83d84a80d2335f8",
+            "name": "image41.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image41.jpeg",
+            "size": {
+                "width": 262,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cddcd8dc5a538b528d369c593ac3756": {
+            "format": "jpeg",
+            "id": "7cddcd8dc5a538b528d369c593ac3756",
+            "name": "image41_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image41_1.jpeg",
+            "size": {
+                "width": 283,
+                "height": 178
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9020d25064cd351e87d1e0ed19ab5735": {
+            "format": "jpeg",
+            "id": "9020d25064cd351e87d1e0ed19ab5735",
+            "name": "image42.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image42.jpeg",
+            "size": {
+                "width": 262,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87291e9709ac955e462adfb6e7b69a27": {
+            "format": "jpeg",
+            "id": "87291e9709ac955e462adfb6e7b69a27",
+            "name": "image42_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image42_1.jpeg",
+            "size": {
+                "width": 283,
+                "height": 178
+            },
+            "state": 2,
+            "type": 1
+        },
+        "978ead58cf93ee621203770d127f6612": {
+            "format": "jpeg",
+            "id": "978ead58cf93ee621203770d127f6612",
+            "name": "image43.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image43.jpeg",
+            "size": {
+                "width": 251,
+                "height": 201
+            },
+            "state": 1,
+            "type": 1
+        },
+        "97e5181428af4c8d32589df6f004e7ff": {
+            "format": "jpeg",
+            "id": "97e5181428af4c8d32589df6f004e7ff",
+            "name": "image43_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image43_1.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0ef25070815e624f7bf950bef193f2ce": {
+            "format": "jpeg",
+            "id": "0ef25070815e624f7bf950bef193f2ce",
+            "name": "image44.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image44.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de251d29d7e691eceed1d696a5148411": {
+            "format": "jpeg",
+            "id": "de251d29d7e691eceed1d696a5148411",
+            "name": "image44_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image44_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cf07db8679bcb27d3cf2e7345e42c08a": {
+            "format": "jpeg",
+            "id": "cf07db8679bcb27d3cf2e7345e42c08a",
+            "name": "image45.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image45.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0bb7a710e87210d37324d7d524d8be4": {
+            "format": "jpeg",
+            "id": "b0bb7a710e87210d37324d7d524d8be4",
+            "name": "image45_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image45_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5b8df90edbe87a34b41a7f41f51b5b67": {
+            "format": "jpeg",
+            "id": "5b8df90edbe87a34b41a7f41f51b5b67",
+            "name": "image46.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image46.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfdf4474987b63cf5d38bcb04c7d384d": {
+            "format": "jpeg",
+            "id": "bfdf4474987b63cf5d38bcb04c7d384d",
+            "name": "image46_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image46_1.jpeg",
+            "size": {
+                "width": 290,
+                "height": 174
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aae2dedce06160c646acc8b5edc9d5e9": {
+            "format": "jpeg",
+            "id": "aae2dedce06160c646acc8b5edc9d5e9",
+            "name": "image47.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image47.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "075a73ba230a785dfb924be56d71d0df": {
+            "format": "jpeg",
+            "id": "075a73ba230a785dfb924be56d71d0df",
+            "name": "image47_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image47_1.jpeg",
+            "size": {
+                "width": 290,
+                "height": 174
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cebf8373c84e562595574285d814a59b": {
+            "format": "jpeg",
+            "id": "cebf8373c84e562595574285d814a59b",
+            "name": "image48.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image48.jpeg",
+            "size": {
+                "width": 299,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65a02f28bef60062f05081c73fe9729e": {
+            "format": "jpeg",
+            "id": "65a02f28bef60062f05081c73fe9729e",
+            "name": "image48_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image48_1.jpeg",
+            "size": {
+                "width": 370,
+                "height": 136
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd432eae01fd1e37fe241293292b0522": {
+            "format": "jpeg",
+            "id": "bd432eae01fd1e37fe241293292b0522",
+            "name": "image49.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image49.jpeg",
+            "size": {
+                "width": 299,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2120b007f622bdea5ffdbc632ac5ba91": {
+            "format": "jpeg",
+            "id": "2120b007f622bdea5ffdbc632ac5ba91",
+            "name": "image49_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image49_1.jpeg",
+            "size": {
+                "width": 370,
+                "height": 136
+            },
+            "state": 2,
+            "type": 1
+        },
+        "644f933627caa375b5b9e89b00c893a6": {
+            "format": "jpeg",
+            "id": "644f933627caa375b5b9e89b00c893a6",
+            "name": "image4_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image4_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "89917041c29303cd6485245ed9c78c4a": {
+            "format": "png",
+            "id": "89917041c29303cd6485245ed9c78c4a",
+            "name": "image4_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image4_1.png",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e8338018936879b2d6e97359ba4797d": {
+            "format": "jpeg",
+            "id": "6e8338018936879b2d6e97359ba4797d",
+            "name": "image5.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image5.jpeg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6bd0d4bec8f1f81200465ba8ab0a5d62": {
+            "format": "png",
+            "id": "6bd0d4bec8f1f81200465ba8ab0a5d62",
+            "name": "image5.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image5.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f5eb4b5d73ba1af27a4b3f8c9f59eabc": {
+            "format": "jpeg",
+            "id": "f5eb4b5d73ba1af27a4b3f8c9f59eabc",
+            "name": "image5_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image5_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "199000797f3947e00fbf9cb904e9efe5": {
+            "format": "png",
+            "id": "199000797f3947e00fbf9cb904e9efe5",
+            "name": "image5_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image5_1.png",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "763d0eaf37db355391dace95e1e3d8c2": {
+            "format": "jpeg",
+            "id": "763d0eaf37db355391dace95e1e3d8c2",
+            "name": "image6.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image6.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "aa21062ea1426a02f3fda9c826746faa": {
+            "format": "png",
+            "id": "aa21062ea1426a02f3fda9c826746faa",
+            "name": "image6.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image6.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bc31ae0d01b2dc398dcb6b62925d0f2e": {
+            "format": "jpeg",
+            "id": "bc31ae0d01b2dc398dcb6b62925d0f2e",
+            "name": "image6_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image6_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "03f8147ebe3dc49cdeb06deb760bbf26": {
+            "format": "png",
+            "id": "03f8147ebe3dc49cdeb06deb760bbf26",
+            "name": "image6_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image6_1.png",
+            "size": {
+                "width": 188,
+                "height": 64
+            },
+            "state": 1,
+            "type": 1
+        },
+        "20188dba7d1dd7a885407b3a1d020950": {
+            "format": "jpeg",
+            "id": "20188dba7d1dd7a885407b3a1d020950",
+            "name": "image7.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image7.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "624b38876f043764491a75a02b45aa30": {
+            "format": "png",
+            "id": "624b38876f043764491a75a02b45aa30",
+            "name": "image7.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image7.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "99bc79d3cd54561121dc9e3f312c581a": {
+            "format": "jpeg",
+            "id": "99bc79d3cd54561121dc9e3f312c581a",
+            "name": "image7_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image7_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5cffff04919cf1b99e7961c91193eef7": {
+            "format": "png",
+            "id": "5cffff04919cf1b99e7961c91193eef7",
+            "name": "image7_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image7_1.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "720c27f936830563666537b4c5a23739": {
+            "format": "jpeg",
+            "id": "720c27f936830563666537b4c5a23739",
+            "name": "image8.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image8.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "78d1309ff9dfdee5499d0d886da6a155": {
+            "format": "png",
+            "id": "78d1309ff9dfdee5499d0d886da6a155",
+            "name": "image8.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image8.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8c558c7ba10acd3c854d29e572fd888c": {
+            "format": "jpeg",
+            "id": "8c558c7ba10acd3c854d29e572fd888c",
+            "name": "image8_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image8_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74f386e688d6f6f3a09be2c254ef3d9a": {
+            "format": "jpeg",
+            "id": "74f386e688d6f6f3a09be2c254ef3d9a",
+            "name": "image9.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image9.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 1,
+            "type": 1
+        },
+        "554a7690b54ac1b7e9c2d6ae16a7fc42": {
+            "format": "png",
+            "id": "554a7690b54ac1b7e9c2d6ae16a7fc42",
+            "name": "image9.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image9.png",
+            "size": {
+                "width": 24,
+                "height": 24
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2c00c2919b86b1474bd83e2dc802263b": {
+            "format": "jpeg",
+            "id": "2c00c2919b86b1474bd83e2dc802263b",
+            "name": "image9_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image9_1.jpeg",
+            "size": {
+                "width": 104,
+                "height": 104
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b9b2fd8231d1ad543ccf1c275909e3f2": {
+            "format": "jpeg",
+            "id": "b9b2fd8231d1ad543ccf1c275909e3f2",
+            "name": "image_1.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image_1.jpeg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "198dd26ddfb66eee4a2f720e70364fae": {
+            "format": "jpg",
+            "id": "198dd26ddfb66eee4a2f720e70364fae",
+            "name": "image_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image_1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "36cb1a1668989503930a6567ae208cd3": {
+            "format": "png",
+            "id": "36cb1a1668989503930a6567ae208cd3",
+            "name": "image_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/image_1.png",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b579010cda9f7b9baab7507eeae25a8a": {
+            "format": "jpg",
+            "id": "b579010cda9f7b9baab7507eeae25a8a",
+            "name": "jet-2-carrier.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/jet-2-carrier.jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dca428eb6cb795f4bcca01ca17846f01": {
+            "format": "jpg",
+            "id": "dca428eb6cb795f4bcca01ca17846f01",
+            "name": "Jet2-flight-768x473.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Jet2-flight-768x473.jpg",
+            "size": {
+                "width": 768,
+                "height": 473
+            },
+            "state": 2,
+            "type": 1
+        },
+        "222646bfd18daa2a3e3c29d093d7edeb": {
+            "format": "jpg",
+            "id": "222646bfd18daa2a3e3c29d093d7edeb",
+            "name": "KLM-en-TU-Delft-vliegen-in-een-v-om-brandstof-te-besparen-800x409.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/KLM-en-TU-Delft-vliegen-in-een-v-om-brandstof-te-besparen-800x409.jpg",
+            "size": {
+                "width": 800,
+                "height": 409
+            },
+            "state": 1,
+            "type": 1
+        },
+        "46b685166ce861856916601cc0747b4b": {
+            "format": "jpg",
+            "id": "46b685166ce861856916601cc0747b4b",
+            "name": "klm-flying-v-aircraft-design_dezeen_2364_hero-1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/klm-flying-v-aircraft-design_dezeen_2364_hero-1.jpg",
+            "size": {
+                "width": 2364,
+                "height": 1330
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a369c1b698afcee199a013bcc3f50e1a": {
+            "format": "jpg",
+            "id": "a369c1b698afcee199a013bcc3f50e1a",
+            "name": "klm.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/klm.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae9a9d737190cd631a4ea02d9a0debb3": {
+            "format": "jpg",
+            "id": "ae9a9d737190cd631a4ea02d9a0debb3",
+            "name": "lead_720_405.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/lead_720_405.jpg",
+            "size": {
+                "width": 720,
+                "height": 405
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13a61adbd860838c0c2adfd569c9b701": {
+            "format": "jpg",
+            "id": "13a61adbd860838c0c2adfd569c9b701",
+            "name": "lead_720_4050.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/lead_720_4050.jpg",
+            "size": {
+                "width": 720,
+                "height": 405
+            },
+            "state": 1,
+            "type": 1
+        },
+        "39735a806de8c1674cb4a4601ec212c5": {
+            "format": "jpg",
+            "id": "39735a806de8c1674cb4a4601ec212c5",
+            "name": "Lilium_Header_Jet.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Lilium_Header_Jet.jpg",
+            "size": {
+                "width": 3000,
+                "height": 1347
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f568cfb8530ef7798787e85ec995585d": {
+            "format": "jpg",
+            "id": "f568cfb8530ef7798787e85ec995585d",
+            "name": "lion-air-pilots-fought-to-save-plane-before-fatal-crash.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/lion-air-pilots-fought-to-save-plane-before-fatal-crash.jpg",
+            "size": {
+                "width": 3000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1d3a5e5f4f85092006aeef459b13bdff": {
+            "format": "jpg",
+            "id": "1d3a5e5f4f85092006aeef459b13bdff",
+            "name": "LP-40-1920x1080.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/LP-40-1920x1080.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2eff817589c285e1af5c7f58e5f8dcc4": {
+            "format": "jpg",
+            "id": "2eff817589c285e1af5c7f58e5f8dcc4",
+            "name": "lp-boeing-dreamliner.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/lp-boeing-dreamliner.jpg",
+            "size": {
+                "width": 500,
+                "height": 281
+            },
+            "state": 2,
+            "type": 1
+        },
+        "47fef45e4af69467a91e9ba730fc7587": {
+            "format": "jpg",
+            "id": "47fef45e4af69467a91e9ba730fc7587",
+            "name": "ltf-hero.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/ltf-hero.jpg",
+            "size": {
+                "width": 2560,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52b3e07bebd80c03262b94fe9d0b6694": {
+            "format": "jpg",
+            "id": "52b3e07bebd80c03262b94fe9d0b6694",
+            "name": "maxresdefault.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/maxresdefault.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "25ed60f4d14d7135b929b3a4a1b9bad6": {
+            "format": "jpg",
+            "id": "25ed60f4d14d7135b929b3a4a1b9bad6",
+            "name": "maxresdefault0.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/maxresdefault0.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5831c8ba31c533ec32c13a085c4d6bde": {
+            "format": "jpg",
+            "id": "5831c8ba31c533ec32c13a085c4d6bde",
+            "name": "maxresdefault0_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/maxresdefault0_1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "893b496d17abfe7d8fc0ce8f5e67c2a9": {
+            "format": "jpg",
+            "id": "893b496d17abfe7d8fc0ce8f5e67c2a9",
+            "name": "maxresdefault1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/maxresdefault1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36bebd88ab646892e9e06fc570837b36": {
+            "format": "jpg",
+            "id": "36bebd88ab646892e9e06fc570837b36",
+            "name": "maxresdefault1_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/maxresdefault1_1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "25a3bc0c09895021610a6463da131ca6": {
+            "format": "jpg",
+            "id": "25a3bc0c09895021610a6463da131ca6",
+            "name": "maxresdefault2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/maxresdefault2.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "812d210167f3bb3962b654df0c8f6c7d": {
+            "format": "jpg",
+            "id": "812d210167f3bb3962b654df0c8f6c7d",
+            "name": "maxresdefault_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/maxresdefault_1.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bda43ccc9b1e6419a9939eb048a335c4": {
+            "format": "jpg",
+            "id": "bda43ccc9b1e6419a9939eb048a335c4",
+            "name": "Mitsubishi-Aircraft-Corporation-introduces-SpaceJet-aircraft-family.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Mitsubishi-Aircraft-Corporation-introduces-SpaceJet-aircraft-family.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1002
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e3c36d1cd14822f216f16a123e5c54f2": {
+            "format": "jpg",
+            "id": "e3c36d1cd14822f216f16a123e5c54f2",
+            "name": "mzk7mqgs07xudd6osdwx.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/mzk7mqgs07xudd6osdwx.jpg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 1,
+            "type": 1
+        },
+        "703bb892485b7e6ea65d2d0d10791155": {
+            "format": "jpeg",
+            "id": "703bb892485b7e6ea65d2d0d10791155",
+            "name": "nigeria-770x433.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/nigeria-770x433.jpeg",
+            "size": {
+                "width": 770,
+                "height": 433
+            },
+            "state": 1,
+            "type": 1
+        },
+        "194e9376e8d0c1c2212b7e03546ee32a": {
+            "format": "jpg",
+            "id": "194e9376e8d0c1c2212b7e03546ee32a",
+            "name": "NOAA-King-Air-350-CER.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/NOAA-King-Air-350-CER.jpg",
+            "size": {
+                "width": 1280,
+                "height": 853
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7a26329ad1743b8847e4f503bc0de823": {
+            "format": "jpg",
+            "id": "7a26329ad1743b8847e4f503bc0de823",
+            "name": "P-51_Mustang_edit1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/P-51_Mustang_edit1.jpg",
+            "size": {
+                "width": 2658,
+                "height": 1614
+            },
+            "state": 2,
+            "type": 1
+        },
+        "186f4f758b6e72880d688ecc19bb9961": {
+            "format": "jpg",
+            "id": "186f4f758b6e72880d688ecc19bb9961",
+            "name": "p0774btg.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/p0774btg.jpg",
+            "size": {
+                "width": 1024,
+                "height": 576
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7bb4d1c81a423a5144777462fd306727": {
+            "format": "jpg",
+            "id": "7bb4d1c81a423a5144777462fd306727",
+            "name": "pesticides-aircraft_456px.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/pesticides-aircraft_456px.jpg",
+            "size": {
+                "width": 456,
+                "height": 294
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ecb5a69ee89711f9741376d136f5e641": {
+            "format": "jpg",
+            "id": "ecb5a69ee89711f9741376d136f5e641",
+            "name": "Phone-Airplane_GettyImages-1145187225.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Phone-Airplane_GettyImages-1145187225.jpg",
+            "size": {
+                "width": 4000,
+                "height": 2667
+            },
+            "state": 1,
+            "type": 1
+        },
+        "561f44ebdf206626502210d13a1c5780": {
+            "format": "jpg",
+            "id": "561f44ebdf206626502210d13a1c5780",
+            "name": "photo.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo.jpg",
+            "size": {
+                "width": 128,
+                "height": 128
+            },
+            "state": 1,
+            "type": 1
+        },
+        "116524dbdb7be8ff50419b3ce3901024": {
+            "format": "jpg",
+            "id": "116524dbdb7be8ff50419b3ce3901024",
+            "name": "photo0.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo0.jpg",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8172c9ddbc452072696ceee288f86d86": {
+            "format": "jpg",
+            "id": "8172c9ddbc452072696ceee288f86d86",
+            "name": "photo0_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo0_1.jpg",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4d0026ef15fdd83f149fefbf4f9076ef": {
+            "format": "jpg",
+            "id": "4d0026ef15fdd83f149fefbf4f9076ef",
+            "name": "photo1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo1.jpg",
+            "size": {
+                "width": 64,
+                "height": 64
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3c89bb3afb84b160218b4f05a0b521c7": {
+            "format": "jpg",
+            "id": "3c89bb3afb84b160218b4f05a0b521c7",
+            "name": "photo1_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo1_1.jpg",
+            "size": {
+                "width": 64,
+                "height": 64
+            },
+            "state": 1,
+            "type": 1
+        },
+        "db4173fa32938af477306b3a2c156717": {
+            "format": "jpg",
+            "id": "db4173fa32938af477306b3a2c156717",
+            "name": "photo2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo2.jpg",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ccd2b19d53ceb47cb9be85066f516e41": {
+            "format": "jpg",
+            "id": "ccd2b19d53ceb47cb9be85066f516e41",
+            "name": "photo2_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo2_1.jpg",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9aaa32df7ac698df07aace8688a5b5da": {
+            "format": "jpg",
+            "id": "9aaa32df7ac698df07aace8688a5b5da",
+            "name": "photo_1.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo_1.jpg",
+            "size": {
+                "width": 128,
+                "height": 128
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cbc6e12faabe978d2db183de50c8dd53": {
+            "format": "png",
+            "id": "cbc6e12faabe978d2db183de50c8dd53",
+            "name": "photo_camera_grey600_24dp.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo_camera_grey600_24dp.png",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c9b256dda5c7cc612e632daca560b4c0": {
+            "format": "png",
+            "id": "c9b256dda5c7cc612e632daca560b4c0",
+            "name": "photo_camera_grey600_24dp_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/photo_camera_grey600_24dp_1.png",
+            "size": {
+                "width": 48,
+                "height": 48
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9fa300afc56a181a98d9200b46338690": {
+            "format": "jpg",
+            "id": "9fa300afc56a181a98d9200b46338690",
+            "name": "plane-full-story-647_092717052903.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/plane-full-story-647_092717052903.jpg",
+            "size": {
+                "width": 647,
+                "height": 404
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f6b23207e32ae7f6e14bcd21f11da7b2": {
+            "format": "jpg",
+            "id": "f6b23207e32ae7f6e14bcd21f11da7b2",
+            "name": "plane-parked.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/plane-parked.jpg",
+            "size": {
+                "width": 2048,
+                "height": 1536
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c0196dce7a0e29ae6c98b30e01d77e4d": {
+            "format": "jpeg",
+            "id": "c0196dce7a0e29ae6c98b30e01d77e4d",
+            "name": "Prime-Air-in-flight.jpeg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Prime-Air-in-flight.jpeg",
+            "size": {
+                "width": 3600,
+                "height": 2400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7944c256705dd3e885d82e808c59a245": {
+            "format": "jpg",
+            "id": "7944c256705dd3e885d82e808c59a245",
+            "name": "PROD-Airplane-flying-above-clouds.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/PROD-Airplane-flying-above-clouds.jpg",
+            "size": {
+                "width": 615,
+                "height": 409
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2c7831b47547648d23ad861ca7aec74": {
+            "format": "jpg",
+            "id": "f2c7831b47547648d23ad861ca7aec74",
+            "name": "rare-30.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/rare-30.jpg",
+            "size": {
+                "width": 810,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d18cf05ab30390918528123e949de2d": {
+            "format": "jpg",
+            "id": "4d18cf05ab30390918528123e949de2d",
+            "name": "shutterstock-311421530.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/shutterstock-311421530.jpg",
+            "size": {
+                "width": 729,
+                "height": 425
+            },
+            "state": 2,
+            "type": 1
+        },
+        "463d1e3ebd75743fd85f82b0a0d36056": {
+            "format": "jpg",
+            "id": "463d1e3ebd75743fd85f82b0a0d36056",
+            "name": "singapore-airlines-to-introduce-airbus-a350-aircraft-in-kolkata.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/singapore-airlines-to-introduce-airbus-a350-aircraft-in-kolkata.jpg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a5fcf8f0f65b8c70e909b7ffabf02bee": {
+            "format": "jpg",
+            "id": "a5fcf8f0f65b8c70e909b7ffabf02bee",
+            "name": "Sling-TSi-20AUG18-9.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Sling-TSi-20AUG18-9.jpg",
+            "size": {
+                "width": 5757,
+                "height": 3840
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83ea6f164f46763a93ac410d32f3e852": {
+            "format": "jpg",
+            "id": "83ea6f164f46763a93ac410d32f3e852",
+            "name": "sr-71-header-B_c511c17c-5dbd-4cc0-aa89-1a0adcddbe89_1400x.progressive.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/sr-71-header-B_c511c17c-5dbd-4cc0-aa89-1a0adcddbe89_1400x.progressive.jpg",
+            "size": {
+                "width": 1400,
+                "height": 875
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d41bab0c79ed9052687676d0296ace66": {
+            "format": "jpg",
+            "id": "d41bab0c79ed9052687676d0296ace66",
+            "name": "the-hidden-meaning-of-the-triangle-stickers-above-your-airplane-seat-117567658-my-good-images-1024x683.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/the-hidden-meaning-of-the-triangle-stickers-above-your-airplane-seat-117567658-my-good-images-1024x683.jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 1,
+            "type": 1
+        },
+        "05b3ef56756460825d0e6eca6023fbb8": {
+            "format": "jpg",
+            "id": "05b3ef56756460825d0e6eca6023fbb8",
+            "name": "toomanyairpl.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/toomanyairpl.jpg",
+            "size": {
+                "width": 800,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11b6c89ad3f43a463c02f68d426a1f3a": {
+            "format": "jpg",
+            "id": "11b6c89ad3f43a463c02f68d426a1f3a",
+            "name": "Transport.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Transport.jpg",
+            "size": {
+                "width": 810,
+                "height": 455
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0946d837aa7a25a7f116240eb4cf5869": {
+            "format": "jpg",
+            "id": "0946d837aa7a25a7f116240eb4cf5869",
+            "name": "Transpo_Flyingcars_TA_API1021-2.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Transpo_Flyingcars_TA_API1021-2.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53809a27e632372987d1e5ba2423d9e8": {
+            "format": "jpg",
+            "id": "53809a27e632372987d1e5ba2423d9e8",
+            "name": "turbulence-942709.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/turbulence-942709.jpg",
+            "size": {
+                "width": 590,
+                "height": 350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0f03f415a4c731801ac93194b9f3d8d": {
+            "format": "jpg",
+            "id": "e0f03f415a4c731801ac93194b9f3d8d",
+            "name": "tuskeegee-airman-red-hawk-ht-jt-190916_hpMain_4x3_992.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/tuskeegee-airman-red-hawk-ht-jt-190916_hpMain_4x3_992.jpg",
+            "size": {
+                "width": 992,
+                "height": 744
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc57a47dd1195ecef6a4454cb02f1417": {
+            "format": "png",
+            "id": "dc57a47dd1195ecef6a4454cb02f1417",
+            "name": "twitter_32x32.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/twitter_32x32.png",
+            "size": {
+                "width": 32,
+                "height": 32
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9a72ee754732bc4d0cfcd6f2e10bf29d": {
+            "format": "png",
+            "id": "9a72ee754732bc4d0cfcd6f2e10bf29d",
+            "name": "twitter_32x32_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/twitter_32x32_1.png",
+            "size": {
+                "width": 32,
+                "height": 32
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3c8b25ea9fa1bb78897a30dac24d4529": {
+            "format": "jpg",
+            "id": "3c8b25ea9fa1bb78897a30dac24d4529",
+            "name": "united-airlines-istock.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/united-airlines-istock.jpg",
+            "size": {
+                "width": 931,
+                "height": 524
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df9a4ccc539e4d6943ed1dc886372aac": {
+            "format": "png",
+            "id": "df9a4ccc539e4d6943ed1dc886372aac",
+            "name": "v2_5174576c.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/v2_5174576c.png",
+            "size": {
+                "width": 198,
+                "height": 5600
+            },
+            "state": 1,
+            "type": 1
+        },
+        "359a068605f524b112d99b38b5b8eb5b": {
+            "format": "png",
+            "id": "359a068605f524b112d99b38b5b8eb5b",
+            "name": "v2_5174576c_1.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/v2_5174576c_1.png",
+            "size": {
+                "width": 198,
+                "height": 5600
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e40234e978329e638d5a8c562eaac456": {
+            "format": "jpg",
+            "id": "e40234e978329e638d5a8c562eaac456",
+            "name": "Where-does-airplane-waste-go-Australia.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Where-does-airplane-waste-go-Australia.jpg",
+            "size": {
+                "width": 560,
+                "height": 315
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a50d2552cfe4fedadc6d19cbd71d0b31": {
+            "format": "jpg",
+            "id": "a50d2552cfe4fedadc6d19cbd71d0b31",
+            "name": "white-plane-sky.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/white-plane-sky.jpg",
+            "size": {
+                "width": 858,
+                "height": 536
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8de90cceae39ee3a88721acd4b86323": {
+            "format": "png",
+            "id": "c8de90cceae39ee3a88721acd4b86323",
+            "name": "w_2.png",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/w_2.png",
+            "size": {
+                "width": 1100,
+                "height": 618
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d7f959f0ef0375301d37807500ec9e07": {
+            "format": "jpg",
+            "id": "d7f959f0ef0375301d37807500ec9e07",
+            "name": "Y0fUV.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Y0fUV.jpg",
+            "size": {
+                "width": 800,
+                "height": 446
+            },
+            "state": 2,
+            "type": 1
+        },
+        "09f37dfdbdc5637d9c5f73b13a83f1fe": {
+            "format": "jpg",
+            "id": "09f37dfdbdc5637d9c5f73b13a83f1fe",
+            "name": "_106012837_canada.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/_106012837_canada.jpg",
+            "size": {
+                "width": 660,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d04ddd9b170788c3f82179c590d6b02": {
+            "format": "jpg",
+            "id": "3d04ddd9b170788c3f82179c590d6b02",
+            "name": "_107472398_uktwyjna.jpg",
+            "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/_107472398_uktwyjna.jpg",
+            "size": {
+                "width": 660,
+                "height": 304
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

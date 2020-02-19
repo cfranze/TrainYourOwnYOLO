@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "e79e49e45e9dd73dd6aa8d774517b9ca",
+        "name": "IntergranularCorrosionOf304StainlessSteelCropped.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/IntergranularCorrosionOf304StainlessSteelCropped.png",
+        "size": {
+            "width": 346,
+            "height": 303
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tlYW_z_zL",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 258.2697963800905,
+                "width": 342.23168316831686,
+                "left": 2.8182085396039604,
+                "top": 42.15950226244344
+            },
+            "points": [
+                {
+                    "x": 2.8182085396039604,
+                    "y": 42.15950226244344
+                },
+                {
+                    "x": 345.04989170792084,
+                    "y": 42.15950226244344
+                },
+                {
+                    "x": 345.04989170792084,
+                    "y": 300.4292986425339
+                },
+                {
+                    "x": 2.8182085396039604,
+                    "y": 300.4292986425339
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

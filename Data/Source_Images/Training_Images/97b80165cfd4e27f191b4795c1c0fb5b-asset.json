@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "97b80165cfd4e27f191b4795c1c0fb5b",
+        "name": "reinforced-concrete-corrosion.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/reinforced-concrete-corrosion.png",
+        "size": {
+            "width": 1200,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5xt5beHso",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 344.0112540192926,
+                "width": 74.93212669683257,
+                "left": 619.5475113122171,
+                "top": 126.7320639067524
+            },
+            "points": [
+                {
+                    "x": 619.5475113122171,
+                    "y": 126.7320639067524
+                },
+                {
+                    "x": 694.4796380090497,
+                    "y": 126.7320639067524
+                },
+                {
+                    "x": 694.4796380090497,
+                    "y": 470.743317926045
+                },
+                {
+                    "x": 619.5475113122171,
+                    "y": 470.743317926045
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

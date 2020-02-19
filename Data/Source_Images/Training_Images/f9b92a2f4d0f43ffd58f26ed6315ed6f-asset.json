@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f9b92a2f4d0f43ffd58f26ed6315ed6f",
+        "name": "decaying-copper-piping-C0X6NE.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/decaying-copper-piping-C0X6NE.jpg",
+        "size": {
+            "width": 1300,
+            "height": 1065
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lPvmDzW4t",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 968.0175339366515,
+                "width": 1298.757530120482,
+                "left": 1.2424698795180724,
+                "top": 1.8071266968325788
+            },
+            "points": [
+                {
+                    "x": 1.2424698795180724,
+                    "y": 1.8071266968325788
+                },
+                {
+                    "x": 1300,
+                    "y": 1.8071266968325788
+                },
+                {
+                    "x": 1300,
+                    "y": 969.8246606334841
+                },
+                {
+                    "x": 1.2424698795180724,
+                    "y": 969.8246606334841
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

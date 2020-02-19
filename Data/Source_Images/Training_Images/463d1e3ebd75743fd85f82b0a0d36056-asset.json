@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "463d1e3ebd75743fd85f82b0a0d36056",
+        "name": "singapore-airlines-to-introduce-airbus-a350-aircraft-in-kolkata.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/singapore-airlines-to-introduce-airbus-a350-aircraft-in-kolkata.jpg",
+        "size": {
+            "width": 1200,
+            "height": 900
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-n18KUYlO",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 649.6765847347995,
+                "width": 1197.0873786407767,
+                "left": 2.9126213592233006,
+                "top": 78.29883570504528
+            },
+            "points": [
+                {
+                    "x": 2.9126213592233006,
+                    "y": 78.29883570504528
+                },
+                {
+                    "x": 1200,
+                    "y": 78.29883570504528
+                },
+                {
+                    "x": 1200,
+                    "y": 727.9754204398447
+                },
+                {
+                    "x": 2.9126213592233006,
+                    "y": 727.9754204398447
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

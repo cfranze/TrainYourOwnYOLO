@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e5c8201ab0c110c0bba6d7632ad48ce2",
+        "name": "old-metal-rusted-grunge-background-rusty-corrosion-oxidized-iron-texture-surface-W2YWF1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/old-metal-rusted-grunge-background-rusty-corrosion-oxidized-iron-texture-surface-W2YWF1.jpg",
+        "size": {
+            "width": 866,
+            "height": 1390
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "n67j4h_pu",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1276.787330316742,
+                "width": 845.568058076225,
+                "left": 10.031788793103448,
+                "top": 15.723981900452488
+            },
+            "points": [
+                {
+                    "x": 10.031788793103448,
+                    "y": 15.723981900452488
+                },
+                {
+                    "x": 855.5998468693285,
+                    "y": 15.723981900452488
+                },
+                {
+                    "x": 855.5998468693285,
+                    "y": 1292.5113122171945
+                },
+                {
+                    "x": 10.031788793103448,
+                    "y": 1292.5113122171945
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4ea814528203fa17b79dd9be83ef91cd",
+        "name": "mechanisms-of-copper-corrosion-in-aqueous-environments.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/mechanisms-of-copper-corrosion-in-aqueous-environments.jpg",
+        "size": {
+            "width": 436,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v7z27fS9I",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 238.91402714932127,
+                "width": 182.87375415282392,
+                "left": 215.187863372093,
+                "top": 254.84162895927602
+            },
+            "points": [
+                {
+                    "x": 215.187863372093,
+                    "y": 254.84162895927602
+                },
+                {
+                    "x": 398.0616175249169,
+                    "y": 254.84162895927602
+                },
+                {
+                    "x": 398.0616175249169,
+                    "y": 493.7556561085973
+                },
+                {
+                    "x": 215.187863372093,
+                    "y": 493.7556561085973
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

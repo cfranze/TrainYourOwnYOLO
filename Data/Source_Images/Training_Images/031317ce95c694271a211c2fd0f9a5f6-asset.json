@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "031317ce95c694271a211c2fd0f9a5f6",
+        "name": "China_Plastic_tanks_Industrial_Tank_Rainwater_harvesting_tanks_10_Tons20136249332210.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/China_Plastic_tanks_Industrial_Tank_Rainwater_harvesting_tanks_10_Tons20136249332210.jpg",
+        "size": {
+            "width": 500,
+            "height": 463
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cdnt4GPzo",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 423.9802036199095,
+                "width": 223.8219895287958,
+                "left": 129.49116492146598,
+                "top": 27.49717194570136
+            },
+            "points": [
+                {
+                    "x": 129.49116492146598,
+                    "y": 27.49717194570136
+                },
+                {
+                    "x": 353.3131544502618,
+                    "y": 27.49717194570136
+                },
+                {
+                    "x": 353.3131544502618,
+                    "y": 451.4773755656109
+                },
+                {
+                    "x": 129.49116492146598,
+                    "y": 451.4773755656109
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

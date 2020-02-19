@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "19d22c8ee3cad7288b559ab4a70c8eff",
+        "name": "aircraft-overran-runway-Mumbai-1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/aircraft-overran-runway-Mumbai-1.jpg",
+        "size": {
+            "width": 2200,
+            "height": 1467
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hMU6ttkHv",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 1284.4257641921397,
+                "width": 2198.9320388349515,
+                "left": 1.0679611650485437,
+                "top": 31.84705922489083
+            },
+            "points": [
+                {
+                    "x": 1.0679611650485437,
+                    "y": 31.84705922489083
+                },
+                {
+                    "x": 2200,
+                    "y": 31.84705922489083
+                },
+                {
+                    "x": 2200,
+                    "y": 1316.2728234170306
+                },
+                {
+                    "x": 1.0679611650485437,
+                    "y": 1316.2728234170306
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

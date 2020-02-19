@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "84ea080bf463069602057c974ff16a8b",
+        "name": "1488403645065-Works-on-Paper-NewHaven.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/1488403645065-Works-on-Paper-NewHaven.jpeg",
+        "size": {
+            "width": 1500,
+            "height": 1143
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "QNU18_wb6",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 1138.9275534441806,
+                "width": 1497.9638009049775,
+                "left": 2.0361990950226243,
+                "top": 3.404310792755344
+            },
+            "points": [
+                {
+                    "x": 2.0361990950226243,
+                    "y": 3.404310792755344
+                },
+                {
+                    "x": 1500,
+                    "y": 3.404310792755344
+                },
+                {
+                    "x": 1500,
+                    "y": 1142.3318642369359
+                },
+                {
+                    "x": 2.0361990950226243,
+                    "y": 1142.3318642369359
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

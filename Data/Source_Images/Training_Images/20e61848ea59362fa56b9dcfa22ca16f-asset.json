@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "20e61848ea59362fa56b9dcfa22ca16f",
+        "name": "inside-flint-pipes-min-tang-and-kelsey-pieper_2.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/inside-flint-pipes-min-tang-and-kelsey-pieper_2.jpg",
+        "size": {
+            "width": 848,
+            "height": 488
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "k-Zt3twqN",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 272.38993710691824,
+                "width": 248.64434389140274,
+                "left": 570.5773755656109,
+                "top": 67.86969339622642
+            },
+            "points": [
+                {
+                    "x": 570.5773755656109,
+                    "y": 67.86969339622642
+                },
+                {
+                    "x": 819.2217194570136,
+                    "y": 67.86969339622642
+                },
+                {
+                    "x": 819.2217194570136,
+                    "y": 340.25963050314465
+                },
+                {
+                    "x": 570.5773755656109,
+                    "y": 340.25963050314465
+                }
+            ]
+        },
+        {
+            "id": "ylI0CJt1M",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 199.49685534591197,
+                "width": 220.24977375565612,
+                "left": 27.243438914027152,
+                "top": 230.15271226415095
+            },
+            "points": [
+                {
+                    "x": 27.243438914027152,
+                    "y": 230.15271226415095
+                },
+                {
+                    "x": 247.49321266968326,
+                    "y": 230.15271226415095
+                },
+                {
+                    "x": 247.49321266968326,
+                    "y": 429.64956761006295
+                },
+                {
+                    "x": 27.243438914027152,
+                    "y": 429.64956761006295
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

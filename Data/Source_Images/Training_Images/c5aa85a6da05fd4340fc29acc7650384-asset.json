@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c5aa85a6da05fd4340fc29acc7650384",
+        "name": "ti-how-is-steel-treated-to-prevent-corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/ti-how-is-steel-treated-to-prevent-corrosion.jpg",
+        "size": {
+            "width": 255,
+            "height": 255
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cu96SVbGZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 246.63461538461536,
+                "width": 76.58653846153845,
+                "left": 83.94230769230768,
+                "top": 2.3076923076923075
+            },
+            "points": [
+                {
+                    "x": 83.94230769230768,
+                    "y": 2.3076923076923075
+                },
+                {
+                    "x": 160.52884615384613,
+                    "y": 2.3076923076923075
+                },
+                {
+                    "x": 160.52884615384613,
+                    "y": 248.94230769230768
+                },
+                {
+                    "x": 83.94230769230768,
+                    "y": 248.94230769230768
+                }
+            ]
+        },
+        {
+            "id": "WvGVXDqah",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 251.6826923076923,
+                "width": 154.03846153846152,
+                "left": 99.08653846153845,
+                "top": 3.317307692307692
+            },
+            "points": [
+                {
+                    "x": 99.08653846153845,
+                    "y": 3.317307692307692
+                },
+                {
+                    "x": 253.12499999999997,
+                    "y": 3.317307692307692
+                },
+                {
+                    "x": 253.12499999999997,
+                    "y": 254.99999999999997
+                },
+                {
+                    "x": 99.08653846153845,
+                    "y": 254.99999999999997
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

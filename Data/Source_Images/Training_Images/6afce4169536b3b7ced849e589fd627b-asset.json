@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6afce4169536b3b7ced849e589fd627b",
+        "name": "0216mrovalinpromo_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/0216mrovalinpromo_1.jpg",
+        "size": {
+            "width": 1540,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PJbDvs9WK",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 441.8107476635514,
+                "width": 926.242718446602,
+                "left": 327.43689320388347,
+                "top": 358.1892523364486
+            },
+            "points": [
+                {
+                    "x": 327.43689320388347,
+                    "y": 358.1892523364486
+                },
+                {
+                    "x": 1253.6796116504854,
+                    "y": 358.1892523364486
+                },
+                {
+                    "x": 1253.6796116504854,
+                    "y": 800
+                },
+                {
+                    "x": 327.43689320388347,
+                    "y": 800
+                }
+            ]
+        },
+        {
+            "id": "6ev90sJa9",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 378.31775700934577,
+                "width": 215.3009708737864,
+                "left": 0,
+                "top": 78.56308411214953
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 78.56308411214953
+                },
+                {
+                    "x": 215.3009708737864,
+                    "y": 78.56308411214953
+                },
+                {
+                    "x": 215.3009708737864,
+                    "y": 456.88084112149534
+                },
+                {
+                    "x": 0,
+                    "y": 456.88084112149534
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

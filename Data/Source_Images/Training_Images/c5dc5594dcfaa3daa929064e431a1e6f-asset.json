@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c5dc5594dcfaa3daa929064e431a1e6f",
+        "name": "Stainless_Steel_Band_Clamp_Failure.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Stainless_Steel_Band_Clamp_Failure.jpg",
+        "size": {
+            "width": 1024,
+            "height": 768
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zQeTuvdkh",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 524.3522316043426,
+                "width": 1001.29592760181,
+                "left": 6.023529411764706,
+                "top": 6.3691194209891435
+            },
+            "points": [
+                {
+                    "x": 6.023529411764706,
+                    "y": 6.3691194209891435
+                },
+                {
+                    "x": 1007.3194570135747,
+                    "y": 6.3691194209891435
+                },
+                {
+                    "x": 1007.3194570135747,
+                    "y": 530.7213510253317
+                },
+                {
+                    "x": 6.023529411764706,
+                    "y": 530.7213510253317
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

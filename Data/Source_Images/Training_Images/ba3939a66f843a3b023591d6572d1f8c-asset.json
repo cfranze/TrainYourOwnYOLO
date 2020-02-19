@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ba3939a66f843a3b023591d6572d1f8c",
+        "name": "BB_Korrosion_Fotolia_15205197_Eric_Zholumbetov_2009.jpg.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/BB_Korrosion_Fotolia_15205197_Eric_Zholumbetov_2009.jpg.jpg",
+        "size": {
+            "width": 3008,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yM4TifHC3",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 866.9251824817518,
+                "width": 3003.619417475728,
+                "left": 4.380582524271844,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 4.380582524271844,
+                    "y": 0
+                },
+                {
+                    "x": 3008,
+                    "y": 0
+                },
+                {
+                    "x": 3008,
+                    "y": 866.9251824817518
+                },
+                {
+                    "x": 4.380582524271844,
+                    "y": 866.9251824817518
+                }
+            ]
+        },
+        {
+            "id": "j2izcy62Z",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1979.5620437956204,
+                "width": 2001.926213592233,
+                "left": 1006.073786407767,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 1006.073786407767,
+                    "y": 0
+                },
+                {
+                    "x": 3008,
+                    "y": 0
+                },
+                {
+                    "x": 3008,
+                    "y": 1979.5620437956204
+                },
+                {
+                    "x": 1006.073786407767,
+                    "y": 1979.5620437956204
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

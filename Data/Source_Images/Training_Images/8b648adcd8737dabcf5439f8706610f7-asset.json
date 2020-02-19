@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "8b648adcd8737dabcf5439f8706610f7",
+        "name": "Aluminum-Corrosion-Repair-in-University-City_-Why-Take-it-Seriously.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Aluminum-Corrosion-Repair-in-University-City_-Why-Take-it-Seriously.png",
+        "size": {
+            "width": 560,
+            "height": 315
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aNi3ky4xu",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 116.49568965517243,
+                "width": 441.47572815533977,
+                "left": 58.99029126213592,
+                "top": 92.42941810344828
+            },
+            "points": [
+                {
+                    "x": 58.99029126213592,
+                    "y": 92.42941810344828
+                },
+                {
+                    "x": 500.4660194174757,
+                    "y": 92.42941810344828
+                },
+                {
+                    "x": 500.4660194174757,
+                    "y": 208.9251077586207
+                },
+                {
+                    "x": 58.99029126213592,
+                    "y": 208.9251077586207
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

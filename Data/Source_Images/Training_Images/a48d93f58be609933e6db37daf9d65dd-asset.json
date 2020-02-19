@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a48d93f58be609933e6db37daf9d65dd",
+        "name": "131-1314609_cracks-transparent-ground-crack-in-the-ground-transparent.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/131-1314609_cracks-transparent-ground-crack-in-the-ground-transparent.png",
+        "size": {
+            "width": 920,
+            "height": 559
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8RgEro_Lj",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 479.9747023809524,
+                "width": 789.7013574660634,
+                "left": 60.36199095022625,
+                "top": 38.44034830729167
+            },
+            "points": [
+                {
+                    "x": 60.36199095022625,
+                    "y": 38.44034830729167
+                },
+                {
+                    "x": 850.0633484162896,
+                    "y": 38.44034830729167
+                },
+                {
+                    "x": 850.0633484162896,
+                    "y": 518.415050688244
+                },
+                {
+                    "x": 60.36199095022625,
+                    "y": 518.415050688244
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

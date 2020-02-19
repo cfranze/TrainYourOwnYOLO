@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "24ad75725e8505898a7c5397b7187d66",
+        "name": "16gqvxpuwhnz.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/16gqvxpuwhnz.jpg",
+        "size": {
+            "width": 2048,
+            "height": 2048
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "F8EX_c4iP",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 754.0995475113123,
+                "width": 889.6289592760181,
+                "left": 101.93665158371041,
+                "top": 100.77828054298644
+            },
+            "points": [
+                {
+                    "x": 101.93665158371041,
+                    "y": 100.77828054298644
+                },
+                {
+                    "x": 991.5656108597286,
+                    "y": 100.77828054298644
+                },
+                {
+                    "x": 991.5656108597286,
+                    "y": 854.8778280542987
+                },
+                {
+                    "x": 101.93665158371041,
+                    "y": 854.8778280542987
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

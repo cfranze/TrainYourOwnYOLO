@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a2bd5f47a5e5894934d4451471fa9cc8",
+        "name": "corrosion-concrete-industrial.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-concrete-industrial.png",
+        "size": {
+            "width": 1200,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "c87_B9U-A",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 315.96982758620686,
+                "width": 1081.1650485436892,
+                "left": 65.8252427184466,
+                "top": 148.0199353448276
+            },
+            "points": [
+                {
+                    "x": 65.8252427184466,
+                    "y": 148.0199353448276
+                },
+                {
+                    "x": 1146.9902912621358,
+                    "y": 148.0199353448276
+                },
+                {
+                    "x": 1146.9902912621358,
+                    "y": 463.9897629310345
+                },
+                {
+                    "x": 65.8252427184466,
+                    "y": 463.9897629310345
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

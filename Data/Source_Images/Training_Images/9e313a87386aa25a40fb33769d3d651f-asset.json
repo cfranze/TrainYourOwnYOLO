@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9e313a87386aa25a40fb33769d3d651f",
+        "name": "gn-gift_guide_variable_c.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/gn-gift_guide_variable_c.jpg",
+        "size": {
+            "width": 970,
+            "height": 545
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fe9Pm572l",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 212.25820379965458,
+                "width": 654.9854368932039,
+                "left": 33.432038834951456,
+                "top": 78.93499028497409
+            },
+            "points": [
+                {
+                    "x": 33.432038834951456,
+                    "y": 78.93499028497409
+                },
+                {
+                    "x": 688.4174757281554,
+                    "y": 78.93499028497409
+                },
+                {
+                    "x": 688.4174757281554,
+                    "y": 291.19319408462866
+                },
+                {
+                    "x": 33.432038834951456,
+                    "y": 291.19319408462866
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

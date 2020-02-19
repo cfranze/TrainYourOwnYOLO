@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "25c862fc10b0783b9bee6cd015cea425",
+        "name": "large-white-industrial-tanks-petrol-600w-1424241986.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/large-white-industrial-tanks-petrol-600w-1424241986.jpg",
+        "size": {
+            "width": 600,
+            "height": 419
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RFlxdA9Q7",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 316.14961139896377,
+                "width": 306.78733031674204,
+                "left": 48.5972850678733,
+                "top": 82.67973809909327
+            },
+            "points": [
+                {
+                    "x": 48.5972850678733,
+                    "y": 82.67973809909327
+                },
+                {
+                    "x": 355.38461538461536,
+                    "y": 82.67973809909327
+                },
+                {
+                    "x": 355.38461538461536,
+                    "y": 398.829349498057
+                },
+                {
+                    "x": 48.5972850678733,
+                    "y": 398.829349498057
+                }
+            ]
+        },
+        {
+            "id": "zkpOCIpux",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 199.45919689119174,
+                "width": 165.3393665158371,
+                "left": 353.75565610859724,
+                "top": 198.28466037888603
+            },
+            "points": [
+                {
+                    "x": 353.75565610859724,
+                    "y": 198.28466037888603
+                },
+                {
+                    "x": 519.0950226244344,
+                    "y": 198.28466037888603
+                },
+                {
+                    "x": 519.0950226244344,
+                    "y": 397.74385727007774
+                },
+                {
+                    "x": 353.75565610859724,
+                    "y": 397.74385727007774
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

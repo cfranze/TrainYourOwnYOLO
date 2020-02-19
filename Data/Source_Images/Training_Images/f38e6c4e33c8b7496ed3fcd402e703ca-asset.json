@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "f38e6c4e33c8b7496ed3fcd402e703ca",
+        "name": "Example-of-general-corrosion-in-cast-iron-water-mains-8.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Example-of-general-corrosion-in-cast-iron-water-mains-8.png",
+        "size": {
+            "width": 246,
+            "height": 227
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fuMlH2em6",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 203.37556561085972,
+                "width": 203.1169102296451,
+                "left": 22.340292275574114,
+                "top": 12.58257918552036
+            },
+            "points": [
+                {
+                    "x": 22.340292275574114,
+                    "y": 12.58257918552036
+                },
+                {
+                    "x": 225.45720250521921,
+                    "y": 12.58257918552036
+                },
+                {
+                    "x": 225.45720250521921,
+                    "y": 215.95814479638008
+                },
+                {
+                    "x": 22.340292275574114,
+                    "y": 215.95814479638008
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

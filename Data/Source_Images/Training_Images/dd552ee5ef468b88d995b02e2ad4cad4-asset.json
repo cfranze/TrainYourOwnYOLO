@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "dd552ee5ef468b88d995b02e2ad4cad4",
+        "name": "Boeings-New-Planes-are-Fuel-Savers_crop.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Boeings-New-Planes-are-Fuel-Savers_crop.png",
+        "size": {
+            "width": 1140,
+            "height": 420
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ouxj7wTn2",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 364.18421052631584,
+                "width": 960.1456310679612,
+                "left": 102.37864077669903,
+                "top": 44.47820723684211
+            },
+            "points": [
+                {
+                    "x": 102.37864077669903,
+                    "y": 44.47820723684211
+                },
+                {
+                    "x": 1062.5242718446602,
+                    "y": 44.47820723684211
+                },
+                {
+                    "x": 1062.5242718446602,
+                    "y": 408.6624177631579
+                },
+                {
+                    "x": 102.37864077669903,
+                    "y": 408.6624177631579
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

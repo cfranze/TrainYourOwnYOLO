@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "80d8910934f35e144577e8d79fe94af1",
+        "name": "1706rmcasset_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/1706rmcasset_1.jpg",
+        "size": {
+            "width": 600,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JozcyhLhZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 998.3031674208145,
+                "width": 600,
+                "left": 0,
+                "top": 1.6968325791855203
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1.6968325791855203
+                },
+                {
+                    "x": 600,
+                    "y": 1.6968325791855203
+                },
+                {
+                    "x": 600,
+                    "y": 1000
+                },
+                {
+                    "x": 0,
+                    "y": 1000
+                }
+            ]
+        },
+        {
+            "id": "P26iMSsEE",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1000,
+                "width": 599.7704802259888,
+                "left": 0.22951977401129944,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0.22951977401129944,
+                    "y": 0
+                },
+                {
+                    "x": 600,
+                    "y": 0
+                },
+                {
+                    "x": 600,
+                    "y": 1000
+                },
+                {
+                    "x": 0.22951977401129944,
+                    "y": 1000
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

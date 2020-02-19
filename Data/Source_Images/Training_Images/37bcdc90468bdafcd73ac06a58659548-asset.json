@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "37bcdc90468bdafcd73ac06a58659548",
+        "name": "Plastic-Tanks-Industrial-Tank-Rainwater-Harvesting-Tanks.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/Plastic-Tanks-Industrial-Tank-Rainwater-Harvesting-Tanks.jpg",
+        "size": {
+            "width": 749,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "588WHOnyk",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 748.3031674208145,
+                "width": 430.5052870090634,
+                "left": 129.61829682779455,
+                "top": 118.77828054298642
+            },
+            "points": [
+                {
+                    "x": 129.61829682779455,
+                    "y": 118.77828054298642
+                },
+                {
+                    "x": 560.123583836858,
+                    "y": 118.77828054298642
+                },
+                {
+                    "x": 560.123583836858,
+                    "y": 867.0814479638009
+                },
+                {
+                    "x": 129.61829682779455,
+                    "y": 867.0814479638009
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5bde261ba50a311fb59537ad5d4c1f96",
+        "name": "115666d1501320516-how-polish-heavily-oxidized-pitted-aluminum-wheels-img_1651.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/115666d1501320516-how-polish-heavily-oxidized-pitted-aluminum-wheels-img_1651.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0CKyQbyX8",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 591.0737386804657,
+                "width": 797.6699029126213,
+                "left": 0.7766990291262136,
+                "top": 7.95601552393273
+            },
+            "points": [
+                {
+                    "x": 0.7766990291262136,
+                    "y": 7.95601552393273
+                },
+                {
+                    "x": 798.4466019417475,
+                    "y": 7.95601552393273
+                },
+                {
+                    "x": 798.4466019417475,
+                    "y": 599.0297542043985
+                },
+                {
+                    "x": 0.7766990291262136,
+                    "y": 599.0297542043985
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

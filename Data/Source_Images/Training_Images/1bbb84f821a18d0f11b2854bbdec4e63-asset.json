@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1bbb84f821a18d0f11b2854bbdec4e63",
+        "name": "114391_C6SM02849G-Crack-networks_iStock-526280408---Hero.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/114391_C6SM02849G-Crack-networks_iStock-526280408---Hero.jpg",
+        "size": {
+            "width": 2000,
+            "height": 1125
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AEpztuTp8",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 1120.8739449356913,
+                "width": 1997.2850678733032,
+                "left": 2.7149321266968327,
+                "top": 4.126055064308682
+            },
+            "points": [
+                {
+                    "x": 2.7149321266968327,
+                    "y": 4.126055064308682
+                },
+                {
+                    "x": 2000,
+                    "y": 4.126055064308682
+                },
+                {
+                    "x": 2000,
+                    "y": 1125
+                },
+                {
+                    "x": 2.7149321266968327,
+                    "y": 1125
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

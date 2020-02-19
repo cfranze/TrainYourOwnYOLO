@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "027fc702d10a0862cecb32cf64fd0990",
+        "name": "Figure20220Catastrophic20failures20by20FAC.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Figure20220Catastrophic20failures20by20FAC.png",
+        "size": {
+            "width": 560,
+            "height": 273
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "66snp94Lo",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 106.6168831168831,
+                "width": 63.348416289592755,
+                "left": 101.61085972850678,
+                "top": 67.28449675324674
+            },
+            "points": [
+                {
+                    "x": 101.61085972850678,
+                    "y": 67.28449675324674
+                },
+                {
+                    "x": 164.95927601809953,
+                    "y": 67.28449675324674
+                },
+                {
+                    "x": 164.95927601809953,
+                    "y": 173.90137987012986
+                },
+                {
+                    "x": 101.61085972850678,
+                    "y": 173.90137987012986
+                }
+            ]
+        },
+        {
+            "id": "VwIL3yZrl",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 87.62337662337661,
+                "width": 100.34389140271493,
+                "left": 375.0226244343891,
+                "top": 163.01176948051946
+            },
+            "points": [
+                {
+                    "x": 375.0226244343891,
+                    "y": 163.01176948051946
+                },
+                {
+                    "x": 475.36651583710403,
+                    "y": 163.01176948051946
+                },
+                {
+                    "x": 475.36651583710403,
+                    "y": 250.6351461038961
+                },
+                {
+                    "x": 375.0226244343891,
+                    "y": 250.6351461038961
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

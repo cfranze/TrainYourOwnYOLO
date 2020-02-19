@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2dcb56880248522446c75fb0ebd90eb7",
+        "name": "Tank-Painting.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/Tank-Painting.jpg",
+        "size": {
+            "width": 700,
+            "height": 786
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zAcbZPXmq",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 708.2002262443439,
+                "width": 469.9238578680203,
+                "left": 125.8228902284264,
+                "top": 0.4445701357466063
+            },
+            "points": [
+                {
+                    "x": 125.8228902284264,
+                    "y": 0.4445701357466063
+                },
+                {
+                    "x": 595.7467480964467,
+                    "y": 0.4445701357466063
+                },
+                {
+                    "x": 595.7467480964467,
+                    "y": 708.6447963800905
+                },
+                {
+                    "x": 125.8228902284264,
+                    "y": 708.6447963800905
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

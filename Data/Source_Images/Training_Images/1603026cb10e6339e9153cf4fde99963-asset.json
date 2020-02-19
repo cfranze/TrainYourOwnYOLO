@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1603026cb10e6339e9153cf4fde99963",
+        "name": "corrosion3_1.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion3_1.jpg",
+        "size": {
+            "width": 847,
+            "height": 639
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "M5nSXcDR6",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 609.884892086331,
+                "width": 825.920814479638,
+                "left": 15.713574660633485,
+                "top": 0.6344986510791367
+            },
+            "points": [
+                {
+                    "x": 15.713574660633485,
+                    "y": 0.6344986510791367
+                },
+                {
+                    "x": 841.6343891402715,
+                    "y": 0.6344986510791367
+                },
+                {
+                    "x": 841.6343891402715,
+                    "y": 610.51939073741
+                },
+                {
+                    "x": 15.713574660633485,
+                    "y": 610.51939073741
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ed89ffb4c479c8c4452cfb7b223bce0e",
+        "name": "badly-corroded-ibeam-and-other-metal-structure360.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/badly-corroded-ibeam-and-other-metal-structure360.jpg",
+        "size": {
+            "width": 360,
+            "height": 216
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DUai_zzbN",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 178.07766990291262,
+                "width": 227.18446601941747,
+                "left": 70.60194174757282,
+                "top": 37.92233009708738
+            },
+            "points": [
+                {
+                    "x": 70.60194174757282,
+                    "y": 37.92233009708738
+                },
+                {
+                    "x": 297.7864077669903,
+                    "y": 37.92233009708738
+                },
+                {
+                    "x": 297.7864077669903,
+                    "y": 216
+                },
+                {
+                    "x": 70.60194174757282,
+                    "y": 216
+                }
+            ]
+        },
+        {
+            "id": "xIFnyf2zU",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 214.60194174757282,
+                "width": 359.126213592233,
+                "left": 0.8737864077669903,
+                "top": 1.3980582524271845
+            },
+            "points": [
+                {
+                    "x": 0.8737864077669903,
+                    "y": 1.3980582524271845
+                },
+                {
+                    "x": 360,
+                    "y": 1.3980582524271845
+                },
+                {
+                    "x": 360,
+                    "y": 216
+                },
+                {
+                    "x": 0.8737864077669903,
+                    "y": 216
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

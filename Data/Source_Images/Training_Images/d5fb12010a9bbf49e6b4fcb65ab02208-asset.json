@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d5fb12010a9bbf49e6b4fcb65ab02208",
+        "name": "220px-Qew_bruecke_nf_beton_kaputt_25_von_46.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/220px-Qew_bruecke_nf_beton_kaputt_25_von_46.jpg",
+        "size": {
+            "width": 220,
+            "height": 147
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RQ_UPvNjo",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 16.986191860465116,
+                "width": 49.76699029126213,
+                "left": 75.29126213592232,
+                "top": 62.735067678052324
+            },
+            "points": [
+                {
+                    "x": 75.29126213592232,
+                    "y": 62.735067678052324
+                },
+                {
+                    "x": 125.05825242718446,
+                    "y": 62.735067678052324
+                },
+                {
+                    "x": 125.05825242718446,
+                    "y": 79.72125953851744
+                },
+                {
+                    "x": 75.29126213592232,
+                    "y": 79.72125953851744
+                }
+            ]
+        },
+        {
+            "id": "8x8USETU-",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 117.62136627906976,
+                "width": 97.29126213592232,
+                "left": 49.873786407766985,
+                "top": 10.49451535247093
+            },
+            "points": [
+                {
+                    "x": 49.873786407766985,
+                    "y": 10.49451535247093
+                },
+                {
+                    "x": 147.16504854368932,
+                    "y": 10.49451535247093
+                },
+                {
+                    "x": 147.16504854368932,
+                    "y": 128.1158816315407
+                },
+                {
+                    "x": 49.873786407766985,
+                    "y": 128.1158816315407
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

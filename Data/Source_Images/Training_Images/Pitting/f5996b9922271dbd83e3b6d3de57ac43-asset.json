@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f5996b9922271dbd83e3b6d3de57ac43",
+        "name": "10-researchersg.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Pitting/10-researchersg.jpg",
+        "size": {
+            "width": 549,
+            "height": 367
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ATuK2D8ys",
+            "type": "RECTANGLE",
+            "tags": [
+                "pitting"
+            ],
+            "boundingBox": {
+                "height": 291.3628447024673,
+                "width": 548.7334951456311,
+                "left": 0.26650485436893206,
+                "top": 30.894049346879534
+            },
+            "points": [
+                {
+                    "x": 0.26650485436893206,
+                    "y": 30.894049346879534
+                },
+                {
+                    "x": 549,
+                    "y": 30.894049346879534
+                },
+                {
+                    "x": 549,
+                    "y": 322.2568940493469
+                },
+                {
+                    "x": 0.26650485436893206,
+                    "y": 322.2568940493469
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,80 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3af28bb533f153e2ee9516b1f2ffe952",
+        "name": "corrosion-3795761_960_720.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/corrosion-3795761_960_720.jpg",
+        "size": {
+            "width": 960,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "I-mJEXfCU",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 565.938864628821,
+                "width": 564.3495145631068,
+                "left": 393.3203883495146,
+                "top": 68.31877729257641
+            },
+            "points": [
+                {
+                    "x": 393.3203883495146,
+                    "y": 68.31877729257641
+                },
+                {
+                    "x": 957.6699029126214,
+                    "y": 68.31877729257641
+                },
+                {
+                    "x": 957.6699029126214,
+                    "y": 634.2576419213974
+                },
+                {
+                    "x": 393.3203883495146,
+                    "y": 634.2576419213974
+                }
+            ]
+        },
+        {
+            "id": "TNrTTGwOu",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 638.2896652110626,
+                "width": 957.6699029126214,
+                "left": 2.3300970873786406,
+                "top": 1.710334788937409
+            },
+            "points": [
+                {
+                    "x": 2.3300970873786406,
+                    "y": 1.710334788937409
+                },
+                {
+                    "x": 960,
+                    "y": 1.710334788937409
+                },
+                {
+                    "x": 960,
+                    "y": 640
+                },
+                {
+                    "x": 2.3300970873786406,
+                    "y": 640
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

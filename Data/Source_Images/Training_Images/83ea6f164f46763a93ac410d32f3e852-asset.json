@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "83ea6f164f46763a93ac410d32f3e852",
+        "name": "sr-71-header-B_c511c17c-5dbd-4cc0-aa89-1a0adcddbe89_1400x.progressive.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/sr-71-header-B_c511c17c-5dbd-4cc0-aa89-1a0adcddbe89_1400x.progressive.jpg",
+        "size": {
+            "width": 1400,
+            "height": 875
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kEilzO3S9",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 438.179347826087,
+                "width": 864.4660194174758,
+                "left": 469.61165048543694,
+                "top": 185.97146739130434
+            },
+            "points": [
+                {
+                    "x": 469.61165048543694,
+                    "y": 185.97146739130434
+                },
+                {
+                    "x": 1334.0776699029127,
+                    "y": 185.97146739130434
+                },
+                {
+                    "x": 1334.0776699029127,
+                    "y": 624.1508152173914
+                },
+                {
+                    "x": 469.61165048543694,
+                    "y": 624.1508152173914
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

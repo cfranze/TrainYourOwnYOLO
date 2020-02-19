@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "104ae02c210b2da71858d4a740a6b604",
+        "name": "iron-rust-steel-metal-pipe-plate-corrosion-orange-red-rusty-scrap-C6AN7J.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/iron-rust-steel-metal-pipe-plate-corrosion-orange-red-rusty-scrap-C6AN7J.jpg",
+        "size": {
+            "width": 866,
+            "height": 1390
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nZcZa9uN4",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 1278.3597285067874,
+                "width": 847.1397459165154,
+                "left": 14.74685231397459,
+                "top": 14.15158371040724
+            },
+            "points": [
+                {
+                    "x": 14.74685231397459,
+                    "y": 14.15158371040724
+                },
+                {
+                    "x": 861.88659823049,
+                    "y": 14.15158371040724
+                },
+                {
+                    "x": 861.88659823049,
+                    "y": 1292.5113122171945
+                },
+                {
+                    "x": 14.74685231397459,
+                    "y": 1292.5113122171945
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

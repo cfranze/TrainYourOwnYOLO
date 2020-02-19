@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e90f4bbd142024011783c2e6a41eb3aa",
+        "name": "boeing-737max.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/boeing-737max.jpg",
+        "size": {
+            "width": 780,
+            "height": 439
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HUALBYs7Q",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 422.0762661637931,
+                "width": 778.4854368932039,
+                "left": 1.5145631067961165,
+                "top": 16.923733836206896
+            },
+            "points": [
+                {
+                    "x": 1.5145631067961165,
+                    "y": 16.923733836206896
+                },
+                {
+                    "x": 780,
+                    "y": 16.923733836206896
+                },
+                {
+                    "x": 780,
+                    "y": 439
+                },
+                {
+                    "x": 1.5145631067961165,
+                    "y": 439
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

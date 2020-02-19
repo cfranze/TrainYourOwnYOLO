@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5234ae69160347f1c9623b163ec1de33",
+        "name": "marine-corrosion-form-general-attack-260nw-1382304854.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/marine-corrosion-form-general-attack-260nw-1382304854.jpg",
+        "size": {
+            "width": 347,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GKvzWmamx",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 197.6470588235294,
+                "width": 214.50045620437956,
+                "left": 67.67944514142336,
+                "top": 59.230769230769226
+            },
+            "points": [
+                {
+                    "x": 67.67944514142336,
+                    "y": 59.230769230769226
+                },
+                {
+                    "x": 282.17990134580293,
+                    "y": 59.230769230769226
+                },
+                {
+                    "x": 282.17990134580293,
+                    "y": 256.8778280542986
+                },
+                {
+                    "x": 67.67944514142336,
+                    "y": 256.8778280542986
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

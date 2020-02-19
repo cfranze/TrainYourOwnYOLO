@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7486edde56968743b150b93d87c8af66",
+        "name": "FIG-1B-The-effect-of-exposing-stainless-steel-to-salt-water.-300x211.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/FIG-1B-The-effect-of-exposing-stainless-steel-to-salt-water.-300x211.jpg",
+        "size": {
+            "width": 300,
+            "height": 211
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "o_c8mrENr",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 192.91598294723295,
+                "width": 190.18099547511312,
+                "left": 109.81900452488686,
+                "top": 18.084017052767052
+            },
+            "points": [
+                {
+                    "x": 109.81900452488686,
+                    "y": 18.084017052767052
+                },
+                {
+                    "x": 300,
+                    "y": 18.084017052767052
+                },
+                {
+                    "x": 300,
+                    "y": 211
+                },
+                {
+                    "x": 109.81900452488686,
+                    "y": 211
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

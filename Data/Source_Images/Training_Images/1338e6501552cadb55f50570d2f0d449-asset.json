@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1338e6501552cadb55f50570d2f0d449",
+        "name": "Air-New-Zealand-Boeing-747-400.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Air-New-Zealand-Boeing-747-400.jpg",
+        "size": {
+            "width": 1600,
+            "height": 548
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mTZ-0x6Sl",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 386.54957507082156,
+                "width": 1442.3300970873786,
+                "left": 99.41747572815534,
+                "top": 70.46476628895185
+            },
+            "points": [
+                {
+                    "x": 99.41747572815534,
+                    "y": 70.46476628895185
+                },
+                {
+                    "x": 1541.7475728155339,
+                    "y": 70.46476628895185
+                },
+                {
+                    "x": 1541.7475728155339,
+                    "y": 457.0143413597734
+                },
+                {
+                    "x": 99.41747572815534,
+                    "y": 457.0143413597734
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

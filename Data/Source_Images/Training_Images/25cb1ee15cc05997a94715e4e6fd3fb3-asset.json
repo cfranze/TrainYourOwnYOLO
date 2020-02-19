@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "25cb1ee15cc05997a94715e4e6fd3fb3",
+        "name": "RudderShoeBolts.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/RudderShoeBolts.jpg",
+        "size": {
+            "width": 560,
+            "height": 457
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-KCS9jO39",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 58.67590497737557,
+                "width": 182.78855032317634,
+                "left": 346.25115420129265,
+                "top": 358.0005656108598
+            },
+            "points": [
+                {
+                    "x": 346.25115420129265,
+                    "y": 358.0005656108598
+                },
+                {
+                    "x": 529.039704524469,
+                    "y": 358.0005656108598
+                },
+                {
+                    "x": 529.039704524469,
+                    "y": 416.67647058823536
+                },
+                {
+                    "x": 346.25115420129265,
+                    "y": 416.67647058823536
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

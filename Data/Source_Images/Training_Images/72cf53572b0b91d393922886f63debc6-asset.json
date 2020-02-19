@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "72cf53572b0b91d393922886f63debc6",
+        "name": "Ethiopia-Plane-Crash-e1552503233778.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Ethiopia-Plane-Crash-e1552503233778.jpg",
+        "size": {
+            "width": 5866,
+            "height": 3315
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wz_xmIRDn",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 2078.994845360825,
+                "width": 5720.773786407767,
+                "left": 11.390291262135923,
+                "top": 1025.4802271262886
+            },
+            "points": [
+                {
+                    "x": 11.390291262135923,
+                    "y": 1025.4802271262886
+                },
+                {
+                    "x": 5732.164077669903,
+                    "y": 1025.4802271262886
+                },
+                {
+                    "x": 5732.164077669903,
+                    "y": 3104.4750724871137
+                },
+                {
+                    "x": 11.390291262135923,
+                    "y": 3104.4750724871137
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

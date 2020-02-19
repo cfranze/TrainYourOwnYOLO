@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3721ba209565b1ccadc0dc1f065e5b1e",
+        "name": "Three-Clamps-cropped.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Three-Clamps-cropped.jpg",
+        "size": {
+            "width": 1223,
+            "height": 807
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4vNAnS0o2",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 576.7448559670781,
+                "width": 1149.9520361990951,
+                "left": 57.55294117647059,
+                "top": 13.91528420781893
+            },
+            "points": [
+                {
+                    "x": 57.55294117647059,
+                    "y": 13.91528420781893
+                },
+                {
+                    "x": 1207.5049773755657,
+                    "y": 13.91528420781893
+                },
+                {
+                    "x": 1207.5049773755657,
+                    "y": 590.6601401748972
+                },
+                {
+                    "x": 57.55294117647059,
+                    "y": 590.6601401748972
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

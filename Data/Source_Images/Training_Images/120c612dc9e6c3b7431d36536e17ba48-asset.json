@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "120c612dc9e6c3b7431d36536e17ba48",
+        "name": "AdobeStock_68161518.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/AdobeStock_68161518.jpeg",
+        "size": {
+            "width": 1529,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FWDNo5rT1",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 597.6330445544554,
+                "width": 1528.2577669902912,
+                "left": 0.7422330097087378,
+                "top": 2.3669554455445545
+            },
+            "points": [
+                {
+                    "x": 0.7422330097087378,
+                    "y": 2.3669554455445545
+                },
+                {
+                    "x": 1529,
+                    "y": 2.3669554455445545
+                },
+                {
+                    "x": 1529,
+                    "y": 600
+                },
+                {
+                    "x": 0.7422330097087378,
+                    "y": 600
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

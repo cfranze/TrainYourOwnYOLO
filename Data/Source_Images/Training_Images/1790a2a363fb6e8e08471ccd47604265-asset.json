@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1790a2a363fb6e8e08471ccd47604265",
+        "name": "Force-Vessel-Square-700.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/IndustrialTanks/Force-Vessel-Square-700.jpg",
+        "size": {
+            "width": 700,
+            "height": 700
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "stJRTSBd2",
+            "type": "RECTANGLE",
+            "tags": [
+                "industrial tanks"
+            ],
+            "boundingBox": {
+                "height": 562.6131221719456,
+                "width": 425.6221719457013,
+                "left": 151.64027149321265,
+                "top": 65.72398190045249
+            },
+            "points": [
+                {
+                    "x": 151.64027149321265,
+                    "y": 65.72398190045249
+                },
+                {
+                    "x": 577.262443438914,
+                    "y": 65.72398190045249
+                },
+                {
+                    "x": 577.262443438914,
+                    "y": 628.3371040723981
+                },
+                {
+                    "x": 151.64027149321265,
+                    "y": 628.3371040723981
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

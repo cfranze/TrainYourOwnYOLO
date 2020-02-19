@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0b9563d6fec842702efca3b5e4f1a693",
+        "name": "01_cracked_ground_textures.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Cracks/01_cracked_ground_textures.jpg",
+        "size": {
+            "width": 900,
+            "height": 563
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6PmLHnAgd",
+            "type": "RECTANGLE",
+            "tags": [
+                "crack"
+            ],
+            "boundingBox": {
+                "height": 562.8981548480463,
+                "width": 895.1131221719457,
+                "left": 0.8144796380090498,
+                "top": 0.1018451519536903
+            },
+            "points": [
+                {
+                    "x": 0.8144796380090498,
+                    "y": 0.1018451519536903
+                },
+                {
+                    "x": 895.9276018099547,
+                    "y": 0.1018451519536903
+                },
+                {
+                    "x": 895.9276018099547,
+                    "y": 563
+                },
+                {
+                    "x": 0.8144796380090498,
+                    "y": 563
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

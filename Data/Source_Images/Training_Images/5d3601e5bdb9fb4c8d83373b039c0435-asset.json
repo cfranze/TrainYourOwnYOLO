@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5d3601e5bdb9fb4c8d83373b039c0435",
+        "name": "Galvanic_corrosion_of_aluminum_and_steel.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Galvanic_corrosion_of_aluminum_and_steel.jpg",
+        "size": {
+            "width": 370,
+            "height": 348
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sWmpxXIHF",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 347.8031674208145,
+                "width": 83.42528257978724,
+                "left": 0,
+                "top": 0.19683257918552036
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0.19683257918552036
+                },
+                {
+                    "x": 83.42528257978724,
+                    "y": 0.19683257918552036
+                },
+                {
+                    "x": 83.42528257978724,
+                    "y": 348
+                },
+                {
+                    "x": 0,
+                    "y": 348
+                }
+            ]
+        },
+        {
+            "id": "FOoG38keS",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 225.3733031674208,
+                "width": 174.54762300531917,
+                "left": 0,
+                "top": 122.62669683257919
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 122.62669683257919
+                },
+                {
+                    "x": 174.54762300531917,
+                    "y": 122.62669683257919
+                },
+                {
+                    "x": 174.54762300531917,
+                    "y": 348
+                },
+                {
+                    "x": 0,
+                    "y": 348
+                }
+            ]
+        },
+        {
+            "id": "Y8Dk-mELo",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 108.06108597285068,
+                "width": 369.99999999999994,
+                "left": 0,
+                "top": 239.9389140271493
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 239.9389140271493
+                },
+                {
+                    "x": 369.99999999999994,
+                    "y": 239.9389140271493
+                },
+                {
+                    "x": 369.99999999999994,
+                    "y": 348
+                },
+                {
+                    "x": 0,
+                    "y": 348
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

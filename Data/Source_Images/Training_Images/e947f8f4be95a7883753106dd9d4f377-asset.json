@@ -1,0 +1,80 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "e947f8f4be95a7883753106dd9d4f377",
+        "name": "Different-Types-of-Corrosion-in-Metals_1.png",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/Different-Types-of-Corrosion-in-Metals_1.png",
+        "size": {
+            "width": 800,
+            "height": 350
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AKuNVi39jP",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion",
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 266.3190857438017,
+                "width": 687.7828054298642,
+                "left": 39.095022624434385,
+                "top": 83.68091425619835
+            },
+            "points": [
+                {
+                    "x": 39.095022624434385,
+                    "y": 83.68091425619835
+                },
+                {
+                    "x": 726.8778280542987,
+                    "y": 83.68091425619835
+                },
+                {
+                    "x": 726.8778280542987,
+                    "y": 350
+                },
+                {
+                    "x": 39.095022624434385,
+                    "y": 350
+                }
+            ]
+        },
+        {
+            "id": "t9AGB-THAD",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 349.84181301652893,
+                "width": 799.6380090497737,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 799.6380090497737,
+                    "y": 0
+                },
+                {
+                    "x": 799.6380090497737,
+                    "y": 349.84181301652893
+                },
+                {
+                    "x": 0,
+                    "y": 349.84181301652893
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

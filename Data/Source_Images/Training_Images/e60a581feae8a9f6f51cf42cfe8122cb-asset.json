@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e60a581feae8a9f6f51cf42cfe8122cb",
+        "name": "stainless-steel-corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/stainless-steel-corrosion.jpg",
+        "size": {
+            "width": 700,
+            "height": 466
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "z6P9cfBW3",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 300.4307065217391,
+                "width": 462.4434389140271,
+                "left": 93.75565610859728,
+                "top": 3.680197010869565
+            },
+            "points": [
+                {
+                    "x": 93.75565610859728,
+                    "y": 3.680197010869565
+                },
+                {
+                    "x": 556.1990950226244,
+                    "y": 3.680197010869565
+                },
+                {
+                    "x": 556.1990950226244,
+                    "y": 304.1109035326087
+                },
+                {
+                    "x": 93.75565610859728,
+                    "y": 304.1109035326087
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

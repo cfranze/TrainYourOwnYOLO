@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3399c9ebc8b46bc2f478043815f2d9c7",
+        "name": "fire-sprinkler-corrosion-1080x675.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/fire-sprinkler-corrosion-1080x675.jpg",
+        "size": {
+            "width": 1080,
+            "height": 675
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "y5F6C1SAi",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 673.2294681620839,
+                "width": 1078.5339366515836,
+                "left": 1.4660633484162895,
+                "top": 1.7705318379160635
+            },
+            "points": [
+                {
+                    "x": 1.4660633484162895,
+                    "y": 1.7705318379160635
+                },
+                {
+                    "x": 1080,
+                    "y": 1.7705318379160635
+                },
+                {
+                    "x": 1080,
+                    "y": 675
+                },
+                {
+                    "x": 1.4660633484162895,
+                    "y": 675
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

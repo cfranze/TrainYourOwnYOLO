@@ -1,0 +1,80 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e2cf7ef2ccc8d37ece4f535570d5cc91",
+        "name": "30668824-close-up-details-of-rusty-metal-surface-by-sea-water-corrosion.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/30668824-close-up-details-of-rusty-metal-surface-by-sea-water-corrosion.jpg",
+        "size": {
+            "width": 1300,
+            "height": 975
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9ri4UgQ56",
+            "type": "RECTANGLE",
+            "tags": [
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 966.1707632600259,
+                "width": 1295.5825242718447,
+                "left": 2.5242718446601944,
+                "top": 8.829236739974126
+            },
+            "points": [
+                {
+                    "x": 2.5242718446601944,
+                    "y": 8.829236739974126
+                },
+                {
+                    "x": 1298.106796116505,
+                    "y": 8.829236739974126
+                },
+                {
+                    "x": 1298.106796116505,
+                    "y": 975
+                },
+                {
+                    "x": 2.5242718446601944,
+                    "y": 975
+                }
+            ]
+        },
+        {
+            "id": "5g192NARZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust",
+                "corrosion"
+            ],
+            "boundingBox": {
+                "height": 966.1707632600259,
+                "width": 1295.5825242718447,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 1295.5825242718447,
+                    "y": 0
+                },
+                {
+                    "x": 1295.5825242718447,
+                    "y": 966.1707632600259
+                },
+                {
+                    "x": 0,
+                    "y": 966.1707632600259
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

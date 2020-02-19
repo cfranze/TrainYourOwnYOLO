@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d7d993f93cfc84be07540871a82b7dba",
+        "name": "rust-prevention-720x343.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/rust-prevention-720x343.jpg",
+        "size": {
+            "width": 720,
+            "height": 343
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GmRQrz_R-",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 294.83681214421256,
+                "width": 358.6968325791855,
+                "left": 358.6968325791855,
+                "top": 6.32040144686907
+            },
+            "points": [
+                {
+                    "x": 358.6968325791855,
+                    "y": 6.32040144686907
+                },
+                {
+                    "x": 717.393665158371,
+                    "y": 6.32040144686907
+                },
+                {
+                    "x": 717.393665158371,
+                    "y": 301.1572135910816
+                },
+                {
+                    "x": 358.6968325791855,
+                    "y": 301.1572135910816
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

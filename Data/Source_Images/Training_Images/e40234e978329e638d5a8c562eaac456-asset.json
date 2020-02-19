@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e40234e978329e638d5a8c562eaac456",
+        "name": "Where-does-airplane-waste-go-Australia.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/Where-does-airplane-waste-go-Australia.jpg",
+        "size": {
+            "width": 560,
+            "height": 315
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "74ihigxQp",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 166.46120689655174,
+                "width": 381.3980582524272,
+                "left": 69.32038834951456,
+                "top": 49.252693965517246
+            },
+            "points": [
+                {
+                    "x": 69.32038834951456,
+                    "y": 49.252693965517246
+                },
+                {
+                    "x": 450.7184466019417,
+                    "y": 49.252693965517246
+                },
+                {
+                    "x": 450.7184466019417,
+                    "y": 215.71390086206898
+                },
+                {
+                    "x": 69.32038834951456,
+                    "y": 215.71390086206898
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

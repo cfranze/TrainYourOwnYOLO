@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a50d2552cfe4fedadc6d19cbd71d0b31",
+        "name": "white-plane-sky.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/white-plane-sky.jpg",
+        "size": {
+            "width": 858,
+            "height": 536
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WqWEYUzqT",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 264.67080745341616,
+                "width": 623.5077669902912,
+                "left": 41.650485436893206,
+                "top": 103.80968555900621
+            },
+            "points": [
+                {
+                    "x": 41.650485436893206,
+                    "y": 103.80968555900621
+                },
+                {
+                    "x": 665.1582524271845,
+                    "y": 103.80968555900621
+                },
+                {
+                    "x": 665.1582524271845,
+                    "y": 368.48049301242236
+                },
+                {
+                    "x": 41.650485436893206,
+                    "y": 368.48049301242236
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

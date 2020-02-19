@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "48d4f3c527e195879b0472f7f90b8478",
+        "name": "U.S.-Defense-Department-appreciates-project-on-corrosion-protection.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Corrosion/U.S.-Defense-Department-appreciates-project-on-corrosion-protection.jpg",
+        "size": {
+            "width": 3008,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0znmbEnKx",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 761.9047619047619,
+                "width": 1129.7013574660634,
+                "left": 27.221719457013577,
+                "top": 119.34523809523809
+            },
+            "points": [
+                {
+                    "x": 27.221719457013577,
+                    "y": 119.34523809523809
+                },
+                {
+                    "x": 1156.923076923077,
+                    "y": 119.34523809523809
+                },
+                {
+                    "x": 1156.923076923077,
+                    "y": 881.25
+                },
+                {
+                    "x": 27.221719457013577,
+                    "y": 881.25
+                }
+            ]
+        },
+        {
+            "id": "ZaFdX4PIN",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 551.0204081632653,
+                "width": 935.0660633484164,
+                "left": 1928.6588235294118,
+                "top": 283.97108843537416
+            },
+            "points": [
+                {
+                    "x": 1928.6588235294118,
+                    "y": 283.97108843537416
+                },
+                {
+                    "x": 2863.7248868778283,
+                    "y": 283.97108843537416
+                },
+                {
+                    "x": 2863.7248868778283,
+                    "y": 834.9914965986394
+                },
+                {
+                    "x": 1928.6588235294118,
+                    "y": 834.9914965986394
+                }
+            ]
+        },
+        {
+            "id": "MHQ584i3F",
+            "type": "RECTANGLE",
+            "tags": [
+                "rust"
+            ],
+            "boundingBox": {
+                "height": 477.55102040816325,
+                "width": 353.88235294117646,
+                "left": 9.527601809954751,
+                "top": 1002.3384353741496
+            },
+            "points": [
+                {
+                    "x": 9.527601809954751,
+                    "y": 1002.3384353741496
+                },
+                {
+                    "x": 363.40995475113124,
+                    "y": 1002.3384353741496
+                },
+                {
+                    "x": 363.40995475113124,
+                    "y": 1479.8894557823128
+                },
+                {
+                    "x": 9.527601809954751,
+                    "y": 1479.8894557823128
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

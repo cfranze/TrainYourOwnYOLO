@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "7ceb41eb6177467fb024ea3ba315beed",
+        "name": "bombardier-challenger.jpeg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/bombardier-challenger.jpeg",
+        "size": {
+            "width": 750,
+            "height": 562
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wv8BY_EGC",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 362.8976683937824,
+                "width": 659.7087378640776,
+                "left": 65.89805825242719,
+                "top": 25.41671389248705
+            },
+            "points": [
+                {
+                    "x": 65.89805825242719,
+                    "y": 25.41671389248705
+                },
+                {
+                    "x": 725.6067961165048,
+                    "y": 25.41671389248705
+                },
+                {
+                    "x": 725.6067961165048,
+                    "y": 388.31438228626945
+                },
+                {
+                    "x": 65.89805825242719,
+                    "y": 388.31438228626945
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

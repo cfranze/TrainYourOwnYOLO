@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "39dec8c84476028ef317b6703c80f757",
+        "name": "gulfstream.jpg",
+        "path": "file:C:/Users/caile/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Aircraft/gulfstream.jpg",
+        "size": {
+            "width": 747,
+            "height": 439
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bI4tLRsEj",
+            "type": "RECTANGLE",
+            "tags": [
+                "airplane"
+            ],
+            "boundingBox": {
+                "height": 194.50742574257427,
+                "width": 664.6849514563106,
+                "left": 26.833980582524273,
+                "top": 115.30201887376238
+            },
+            "points": [
+                {
+                    "x": 26.833980582524273,
+                    "y": 115.30201887376238
+                },
+                {
+                    "x": 691.5189320388349,
+                    "y": 115.30201887376238
+                },
+                {
+                    "x": 691.5189320388349,
+                    "y": 309.80944461633663
+                },
+                {
+                    "x": 26.833980582524273,
+                    "y": 309.80944461633663
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
